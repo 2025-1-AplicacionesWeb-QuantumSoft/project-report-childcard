@@ -21,13 +21,13 @@
 | Meza Camayo, Lynn Jeeferzon    | U20201C320 |
 
 </div>
-<h3 align="center"> MAYO - 2024   </h3>
+<h3 align="center"> ABRIL - 2025   </h3>
 
 ## REGISTRO DE VERSIONES
 
 | Versión  |   Fecha   |       Autor     |           Descripción de Modificación           |
 |----------|-----------|-----------------|-------------------------------------------------|
-|    0.1   | 03/04/25  |     Lynn Meza   | Creaccion Structura del informe                 |
+|    0.1   | 03/04/25  |     Lynn Meza   | Desarrollo de la Structura del informe                 |
 |       |   |        |                  |
 |       |   |        |                  |
 
@@ -35,7 +35,9 @@
 
 URL del repositorio del project Report : [https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard](https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard)
 
-<th>
+***TB1***
+
+Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboracion del informe de la siguiente manera:
 
 ## CONTENIDO
 
