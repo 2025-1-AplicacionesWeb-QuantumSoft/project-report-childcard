@@ -170,42 +170,43 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 #### 1.2.2.4. Lean UX Canvas. 
 ## 1.3. Segmentos objetivo.
 
-- ## **a)Padres/Tutores:**
+- ##### **a)Padres/Tutores:**
 - Son personas responsables del cuidado de niños que, debido a sus compromisos laborales, personales o imprevistos, requieren de apoyo confiable para garantizar la seguridad y bienestar de sus hijos. Para ellos, ofrecemos una plataforma que facilita la búsqueda y selección de niñeras calificadas, permitiéndoles consultar perfiles verificados, evaluar reseñas de otros usuarios y gestionar contrataciones de manera rápida y segura. La aplicación les brinda tranquilidad al saber que cuentan con acceso a cuidadores confiables que se adaptan a sus horarios y necesidades específicas.
 
-- ### Segmentación Geográfica:
+- ###### Segmentación Geográfica:
 - **Región:**  Zonas urbanas y suburbanas donde los padres tienen una vida laboral activa y requieren apoyo frecuente con el cuidado infantil.
 - Distribución: Ciudades medianas y grandes con alta concentración de familias nucleares y profesionales jóvenes, especialmente en zonas con alta densidad de oficinas, centros educativos y servicios.
 
-- ### Segmentación Demográfica:
+- ###### Segmentación Demográfica:
 - **Edad:** Padres, madres o tutores entre 25 y 45 años.
 - **Nivel Socioeconómico:** Clase media y media-alta, con ingresos estables que les permiten invertir en servicios confiables de cuidado infantil..
 - **Ocupación:** Profesionales en activo, emprendedores, trabajadores remotos o híbridos, madres y padres solteros que requieren apoyo adicional.
 
-- ### Segmentación Psicográfica:
+- ###### Segmentación Psicográfica:
 - **Estilo de Vida:** Familias modernas con un estilo de vida dinámico, que valoran el equilibrio entre vida laboral y personal, y que buscan soluciones digitales prácticas.
 - **Valores y creencias:** Priorizan la seguridad, la confianza y el bienestar de sus hijos. Valoran la eficiencia, la calidad del servicio y la reputación de las personas a las que confían el cuidado infantil.
-- **Segmentación Conductual:**
+
+- ###### **Segmentación Conductual:**
 - **Beneficios Buscados:** Facilidad en el proceso de encontrar niñeras confiables, flexibilidad en la gestión de horarios, transparencia mediante valoraciones y recomendaciones y comunicación directa y fluida con las niñeras.
 - **Uso del Producto:** Uso frecuente, especialmente en días laborales, eventos, o emergencias. También para contrataciones regulares a medio o largo plazo, como apoyo diario o semanal en el hogar
 
-- ## **b) Niñeras/Cuidadores:**
+- ##### **b) Niñeras/Cuidadores:**
 - Son profesionales o personas con experiencia en el cuidado infantil que desean conectarse con familias que requieran de sus servicios. Para ellos, nuestra plataforma ofrece la oportunidad de ampliar sus oportunidades laborales, permitiéndoles crear perfiles detallados que destacan sus habilidades, certificaciones y disponibilidad. A través de la aplicación, las niñeras pueden gestionar sus agendas, recibir valoraciones que fortalezcan su reputación y establecer comunicación directa con los padres o tutores interesados ​​en contratarlas, facilitando un proceso transparente y eficiente para ambas partes.
 
-- ### Segmentación Geográfica:
+- ###### Segmentación Geográfica:
 - **Región:** Zonas urbanas y suburbanas con alta densidad de familias y oportunidades laborales en el sector de servicios.
 - **Distribución:** Ciudades medianas y grandes donde existe una demanda constante de cuidado infantil, especialmente en áreas residenciales cercanas a centros educativos, zonas de oficinas y comunidades familiares.
 
-- ### Segmentación Demográfica:
+- ###### Segmentación Demográfica:
 - **Edad: Mujeres y hombres entre 20 y 45 años.**
 - **Nivel Socioeconómico: Clase media o media-baja, con interés en generar ingresos flexibles o complementarios.**
 - **Ocupación:** Estudiantes, jóvenes profesionales del área educativa o de la salud, personas con experiencia previa en el cuidado infantil, madres/padres que desean trabajar cuidando a otros niños, o personas en búsqueda de empleos temporales o medio tiempo.
 
-- ### Segmentación Psicográfica:
+- ###### Segmentación Psicográfica:
 - **Estilo de Vida:** Personas activas que buscan flexibilidad laboral, ingresos adicionales o estabilidad en el empleo. Tienden a valorar el trabajo significativo, especialmente aquel relacionado con el cuidado y la formación de los niños.
 - **Valores y creencias:** Valoran el compromiso, la empatía y la responsabilidad. Buscan entornos laborales donde sean valoradas, respetadas y puedan establecer relaciones de confianza con las familias.
 
-- ### Segmentación Conductual:
+- ###### Segmentación Conductual:
 - **Beneficios Buscados:** Acceso a oportunidades laborales confiables y bien remuneradas, facilidad para gestionar su disponibilidad, visibilidad mediante valoraciones positivas, seguridad en las contrataciones y claridad en las condiciones laborales.
 - **Uso del Producto:** Uso constante para encontrar nuevas oportunidades, mantener comunicación con familias, actualizar su perfil y gestionar horarios. También como herramienta para crear una reputación profesional y acceder a contrataciones a largo plazo.
 
