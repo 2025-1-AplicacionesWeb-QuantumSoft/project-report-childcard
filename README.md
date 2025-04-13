@@ -44,95 +44,90 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 ## CONTENIDO
 
 ### Tabla de contenido
-- [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-
+    - [1.2.1  Antecedentes y problemática](#121--antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process.](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores.](#21-competidores)
+    - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas.](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding.](#23-needfinding)
+    - [2.3.1. User Personas.](#231-user-personas)
+    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
-
+  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
+  - [3.2. User Stories.](#32-user-stories)
+  - [3.3. Impact Mapping.](#33-impact-mapping)
+  - [3.4. Product Backlog.](#34-product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2. Labeling Systems](#422-labeling-systems)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+  - [4.2. Information Architecture.](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
     - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
+    - [4.4.2. Web Applications Mock-ups.](#442-web-applications-mock-ups)
+    - [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams.](#471-class-diagrams)
+    - [4.7.2. Class Dictionary.](#472-class-dictionary)
+  - [4.8. Database Design.](#48-database-design)
+    - [4.8.1. Database Diagram.](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management.](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint n](#521-sprint-n)
-      - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n)
-      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog n](#5213-sprint-backlog-n)
-      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-
+      - [5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
+      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
+      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
+  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
+  - [Video About-the-Team.](#video-about-the-team)
   - [Bibliografía Anexos](#bibliografía-anexos)
 
 ### Tabla de imagenes
@@ -218,10 +213,136 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram. 
 # Capítulo V: Product Implementation, Validation & Deployment  
-## 5.1. Software Configuration Management. 
-### 5.1.1. Software Development Environment Configuration. 
+## 5.1. Software Configuration Management.
+
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambio de desarrollo de ChildCard.
+
+### 5.1.1. Software Development Environment Configuration.
+
+Gestión de las necesidades
+
+  - Trello: Herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente marcos en red de trabajos ágiles. El segmento para visualizar y actualizar el estado real de las tareas e historias de usuario pertenecientes al sprint a desarrollado.
+  
+    Ruta de referencia:[https://trello.com/es](https://trello.com/es)
+
+Diseño UX/UI
+
+  - Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizada para el diseño digital. En el caso del proyecto, se utilizó para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+
+    Ruta de referencia: https://www.figma.com/login
+
+  - Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de flujos de cable, flujos de usuario y el diagrama de clases asociadas a la aplicación.
+    Ruta de referencia: https://www.lucidchart.com/
+
+Desarrollo de software
+
+  - Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación de los factores de control por dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone valor para el desarrollo del proyecto puesto que incluye la posibilidad de añadir extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidad en varios sistemas, operativos entre otros beneficios.
+    Ruta de referencia: https://code.visualstudio.com/
+
+  - HTML5: HyperText Markup Language, o siglas por sus HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+    Ruta de referencia: https://www.w3schools.com/html/html5-syntax.asp
+
+  - CSS: Hojas de estilo en cascada es un lenguaje que maneja el diseño y presentación de las páginas web, el que va de la mano con HTML.
+    Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+
+  - Bootstrap: Marco CSS que crea motores web de forma rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos.
+    Ruta de referencia: https://getbootstrap.com/
+
+  
+Implementación de software
+
+  - Git: Una herramienta de control de versiones que facilitan el registro y la gestión de las versiones distintas del programa. Su propósito es mantener un historial de cambios y simplificar el corrección de errores. Los integrantes del equipo A través de la línea de comandos en sus sistemas locales.
+
+    Ruta de referencia: https://git-scm.com/
+
+    Documentación y gestión de proyectos de software
+
+  - Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitir la colaboración en tiempo real y la revisión de las contribuciones de cada miembro del equipo. Los integrantes del equipo se puede acceder a través de sus navegadores web.
+    Ruta de referencia: https://github.com/
+
+
 ### 5.1.2. Source Code Management. 
+
+El proyecto sigue el flujo de trabajo GitFlow para el control de versiones, GitHub como plataforma de alojamiento y gestión del código. A continuación, se detalla la implementación de este modelo.
+
+**Flujo de trabajo GitFlow**
+
+Flujo de Trabajo GitFlow para el Desarrollo de UniRider
+
+El proyecto adopta el modelo GitFlow, una estrategia de ramificación basada en Git diseñada para optimizar la colaboración y el control de versiones en equipos de desarrollo. Este enfoque organiza el trabajo en ramas específicas, una integración fluida de nuevas funcionalidades y una gestión eficiente de lanzamientos.
+
+Ramas Principales
+
+  - main(principal)
+
+    - Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de ChildCard.
+
+    - Cada release se marca con etiquetas semánticas (ej. v1.0.0) para facilitar el rastreo y la aplicación de las actualizaciones.
+
+  - develop(rama de desarrollo)
+
+    - Alberga la versión más reciente en estado de preproducción, donde se integran todas las funcionalidades completadas.
+
+    - Funciona como base para pruebas internas y ajustes previos a su fusión con main.
+
+Ramas de Soporte
+
+  - feature/*(ramas de características)
+
+    - Cada nueva funcionalidad se desarrolla en un rama independiente (ej. feature/login), derivada de develop.
+
+    - Perfilo trabajo paralelo sin afectar la base de los códigos principales hasta su revisión y aprobación.
+
+  - release/*(ramas de lanzamiento)
+
+    - Preparadas para versiones específicas, permiten pruebas finales y corrección de bugs antes de su despliegue en main.
+
+  - hotfix/*(ramas de las urgencias)
+
+    - Resuelven errores desprendentes en producción, derivando directamente de mainy fusión tanto en maincomo en develop.
+  
+  ![Git-Flow](./assets/git-flow.png)
+
 ### 5.1.3. Source Code Style Guide & Conventions. 
+
+Para garantizar coherencia, mantenibilidad y escalabilidad del código, se establecen las siguientes normas de estilo:
+
+  1. HTML
+Estructura básica  
+        
+          <!DOCTYPE html>
+          HTM lang = " es ">
+
+     - Reglas generales:
+        - Todos los elementos deben estar correctamente cerrados 
+
+               (ej. <img />, <div></div>).
+
+         - Usar comillas dobles (" ") en atributos que contengan espacios.
+
+         - Incluir atributos esenciales en imágenes.
+
+
+1. CSS
+
+    Formato:
+
+      - Sangría: 2 espacios (sin pestañas).
+
+      - Minúsculas en Selectores, propiedades y valores.
+
+      - Empiteación en blanco innecesarios y líneas vacías redundantes.
+
+2. Bootstrap
+
+    Principios:
+
+      - Aprovechar al máximo las utilidades predefinidas (sistema de red, componentes, ayudantes).
+
+      - Evitar sobrescribir estilos base; usar clases contextuales (ej. bg-primary, text-success).
+
+      - Solo agrega CSS personalizado cuando mar seco despejado.
+
 ### 5.1.4. Software Deployment Configuration. 
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint n 
