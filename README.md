@@ -160,6 +160,10 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 # Capítulo I: Introducción 
 ## 1.1. Startup Profile 
 ### 1.1.1. Descripción de la Startup 
+“XXXX” Es una innovadora plataforma tecnológica diseñada para transformar la manera en que los padres se encuentran y contratan niñeras, ofreciendo una experiencia completa que no solo simplifica, sino que también optimiza el proceso de selección y contratación. Esta aplicación está pensada para familias que buscan un enfoque personalizado y eficiente al momento de elegir a la persona encargada del cuidado de sus hijos. Con esta herramienta, los usuarios pueden buscar cuidadoras por ubicación, consultar su disponibilidad y agendar horarios de manera flexible, garantizando que siempre encontrarán la opción que mejor se adapta a sus necesidades.
+
+Además, la plataforma permite a los padres calificar el servicio recibido, proporcionando retroalimentación valiosa que ayuda a las niñeras a mejorar continuamente y fortalecer su reputación dentro de la comunidad. Las cuidadoras, por su parte, pueden gestionar su perfil de manera intuitiva, mostrando su disponibilidad y recibiendo recomendaciones que les permiten destacarse en la plataforma. Gracias a su diseño accesible y funcionalidades pensadas para la comodidad de los usuarios, esta aplicación se posiciona como una aliada confiable para quienes buscan tranquilidad y confianza al momento de contratar servicios de cuidado infantil.
+
 ### 1.1.2. Perfiles de integrantes del equipo 
 ## 1.2. Solution Profile 
 ### 1.2.1  Antecedentes y problemática 
