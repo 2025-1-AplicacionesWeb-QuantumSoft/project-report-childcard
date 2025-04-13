@@ -163,6 +163,61 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 ### 1.1.2. Perfiles de integrantes del equipo 
 ## 1.2. Solution Profile 
 ### 1.2.1  Antecedentes y problemática 
+Actualmente, debido a los ritmos acelerados de vida y las múltiples responsabilidades que enfrentan las familias modernas, encontrar una niñera de confianza se ha convertido en un desafío constante. La falta de tiempo para realizar búsquedas exhaustivas, la incertidumbre sobre la disponibilidad de las cuidadoras y la dificultad para verificar referencias confiables generan preocupación en los padres que buscan garantizar el bienestar de sus hijos. Además, la oferta de servicios de cuidado infantil muchas veces se encuentra dispersa y poco organizada, lo que dificulta aún más el proceso de selección. Esta situación, sumada a la creciente necesidad de conciliar la vida laboral y familiar, resalta la importancia de contar con soluciones prácticas y seguras que faciliten la conexión entre padres y niñeras capacitadas
+
+Nuestro objetivo es comprender las necesidades de nuestros usuarios, por lo tanto, hemos analizamos sus historiales y la problemática bajo el enfoque de las 5 ‘W’s y 2 ‘H’s.
+
+### What (¿Qué?)
+
+¿Cuál es el problema abordado?
+“XXXX” La aplicación aborda el problema que enfrentan muchos padres al buscar niñeras confiables y disponibles que se adapten a sus necesidades específicas, tanto en términos de ubicación como de horario.
+¿Cuál es la relación con la persona en cuestión?
+Los padres que a menudo tienen dificultades para encontrar rápidamente una persona de confianza que cuide de sus hijos y también las niñeras ya que podrán hacer uso de la aplicación para ofrecer sus servicios.
+
+### When (¿Cuándo?)
+
+¿Cuándo sucede el problema?
+El problema ocurre en la vida diaria, especialmente cuando los padres necesitan equilibrar sus responsabilidades laborales, personales o sociales y requieren apoyo confiable para el cuidado infantil
+¿Cuándo utiliza el cliente el producto?
+Los usuarios utilizan la aplicación cuando necesitan buscar, contactar o agendar una niña, ya sea en situaciones de urgencia o con antelación. La flexibilidad de la aplicación permite que sea útil en cualquier momento que surja esta necesidad.
+
+
+### Where (¿Donde?)
+
+¿Dónde está el usuario cuando usa el producto?
+Generalmente, el usuario se encuentra en su hogar, en el trabajo o en movimiento cuando utiliza la aplicación, dado que se trata de una plataforma digital accesible desde cualquier dispositivo con conexión a internet.
+¿Dónde surge el problema?
+El problema surge en cualquier contexto donde los padres requieran asistencia para el cuidado de sus hijos y no cuenten con un apoyo inmediato o un acceso fácil a servicios confiables de niñeras.
+
+### Who (¿Quienes?)
+
+¿Quiénes están involucrados?
+“XXXX” está diseñado para servir a dos principales grupos:
+- Padres y tutores que requieren un cuidador disponible y de confianza
+- Niñeras que cumplen los requisitos solicitados y desean prestar sus servicios.
+¿Quién lo utilizará?
+El producto será utilizado principalmente por padres y  tutores en busca de cuidado infantil, así como por niñeras que desean ofrecer sus servicios y gestionar su disponibilidad.
+
+### Why (¿Por qué?)
+
+¿Cuál es la causa del problema?
+La creciente carga laboral y las agendas ocupadas, sumadas a la dificultad para encontrar servicios confiables de cuidado infantil de forma rápida y sencilla, hacen que muchas familias se enfrenten a complicaciones al buscar apoyo para el cuidado de sus hijos.
+
+### How (¿Cómo?)
+
+¿En qué condiciones los clientes usan nuestro producto?
+Nuestros usuarios pueden usar el producto cumpliendo la única condición de contar con un aparato tecnológico mediante el cual puedan acceder al aplicativo y emplear las opciones que ofrecemos. 
+¿Cómo nos conocieron los compradores?
+Nuestros clientes pueden conocer nuestro producto por recomendaciones de conocidos o publicidad en línea. 
+¿Cómo prefieren los lectores acceder a nuestro contenido?
+Nuestros usuarios prefieren una plataforma que ofrezca información clara, segura y verificada, la cual permita comparar opciones de niñeras, revisar calificaciones de otros usuarios y contar con un proceso sencillo de contacto y contratación.
+¿Qué llevó a la persona a llegar a esta situación?
+Las personas pudieron verse afectadas por factores como la falta de tiempo, la ausencia de contactos de confianza para el cuidado infantil, o la necesidad de contar con alternativas confiables y flexibles, entre otras molestias llevaron a los usuarios a buscar una solución óptima como esta aplicación.
+
+### How much (¿Cuánto?)
+
+
+
 ### 1.2.2 Lean UX Process. 
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
