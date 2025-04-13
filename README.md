@@ -170,7 +170,7 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 #### 1.2.2.4. Lean UX Canvas. 
 ## 1.3. Segmentos objetivo.
 
-**a)Padres/Tutores:**
+- ## **a)Padres/Tutores:**
 - Son personas responsables del cuidado de niños que, debido a sus compromisos laborales, personales o imprevistos, requieren de apoyo confiable para garantizar la seguridad y bienestar de sus hijos. Para ellos, ofrecemos una plataforma que facilita la búsqueda y selección de niñeras calificadas, permitiéndoles consultar perfiles verificados, evaluar reseñas de otros usuarios y gestionar contrataciones de manera rápida y segura. La aplicación les brinda tranquilidad al saber que cuentan con acceso a cuidadores confiables que se adaptan a sus horarios y necesidades específicas.
 
 - ### Segmentación Geográfica:
@@ -189,7 +189,7 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 - **Beneficios Buscados:** Facilidad en el proceso de encontrar niñeras confiables, flexibilidad en la gestión de horarios, transparencia mediante valoraciones y recomendaciones y comunicación directa y fluida con las niñeras.
 - **Uso del Producto:** Uso frecuente, especialmente en días laborales, eventos, o emergencias. También para contrataciones regulares a medio o largo plazo, como apoyo diario o semanal en el hogar
 
-**b) Niñeras/Cuidadores:**
+- ## **b) Niñeras/Cuidadores:**
 - Son profesionales o personas con experiencia en el cuidado infantil que desean conectarse con familias que requieran de sus servicios. Para ellos, nuestra plataforma ofrece la oportunidad de ampliar sus oportunidades laborales, permitiéndoles crear perfiles detallados que destacan sus habilidades, certificaciones y disponibilidad. A través de la aplicación, las niñeras pueden gestionar sus agendas, recibir valoraciones que fortalezcan su reputación y establecer comunicación directa con los padres o tutores interesados ​​en contratarlas, facilitando un proceso transparente y eficiente para ambas partes.
 
 - ### Segmentación Geográfica:
