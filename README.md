@@ -171,6 +171,9 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 ## 1.3. Segmentos objetivo. 
 # Capítulo II: Requirements Elicitation & Analysis 
 ## 2.1. Competidores. 
+
+#Probando comentarios en markdown (Es mi primera vez usando marksown xd)
+
 ### 2.1.1. Análisis competitivo. 
 ### 2.1.2. Estrategias y tácticas frente a competidores. 
 ## 2.2. Entrevistas. 
