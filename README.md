@@ -190,33 +190,423 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog. 
 # Capítulo IV: Product Design 
-## 4.1. Style Guidelines. 
-### 4.1.1. General Style Guidelines. 
-### 4.1.2. Web Style Guidelines. 
-## 4.2. Information Architecture. 
-### 4.2.1. Organization Systems. 
-### 4.2.2. Labeling Systems. 
-### 4.2.3. SEO Tags and Meta Tags 
-### 4.2.4. Searching Systems. 
-### 4.2.5. Navigation Systems. 
+## 4.1. Style Guidelines.
+
+En **KindyCare**, establecemos pautas de estilo sólidas para garantizar una experiencia visual coherente, profesional y centrada en el usuario. Estas directrices abarcan tanto el diseño general como los elementos específicos de la interfaz web, con el fin de proyectar una imagen de confianza, seguridad y calidez para los padres y tutores que buscan cuidado infantil de calidad. 
+
+### 4.1.1. General Style Guidelines.
+**Task:**  
+En esta sección, se detallarán las directrices generales de estilo que guiarán el diseño y la presentación de **SafeChild**. Estas directrices asegurarán que todos los elementos visuales y textuales sean coherentes y alineados con la identidad de nuestra marca, proporcionando una experiencia de usuario fluida, confiable y profesional.
+
+**Insight:**  
+La consistencia en el estilo y diseño es crucial para establecer una identidad de marca sólida y reconocible en SafeChild. Una guía de estilo clara ayuda a mantener la coherencia a lo largo del proyecto, asegurando que la plataforma refleje confianza y profesionalismo en cada interacción, facilitando la navegación y el uso para los padres que buscan cuidadores y profesores confiables.
+
+**Branding:**  
+El logo de **KindyCare** está compuesto por una figura de una casa colorida que simboliza el cariño, la enseñanza, la atención y el compromiso con el bienestar infantil. Los colores de la marca reflejan suavidad y confianza: tonos pastel cálidos que evocan cercanía, amabilidad y profesionalismo.
+
+**Typography:**  
+Se utiliza una fuente moderna y altamente legible tanto en pantallas móviles como de escritorio. La tipografía se seleccionó para facilitar la lectura, evitar la fatiga visual y transmitir accesibilidad y claridad. Se distinguen visualmente los títulos, subtítulos y textos informativos mediante jerarquías tipográficas bien definidas.
+
+**Íconos y Elementos Gráficos:**  
+Los íconos son minimalistas, con bordes redondeados y líneas suaves. Se emplean para guiar al usuario en la navegación y mejorar la comprensión del contenido sin sobrecargar visualmente la interfaz.
+
+### 4.1.2. Web Style Guidelines
+
+**Landing Page:**  
+La página principal está diseñada para ofrecer un resumen claro y conciso del servicio. Se destacan los beneficios de KindyCare, el proceso para conectar con cuidadores y profesores, y los llamados a la acción para registrarse o buscar servicios. Desde el primer acceso, los usuarios deben sentir que han llegado a un espacio seguro, accesible y confiable.
+
+**Diseño Responsivo:**  
+La interfaz de KindyCare se adapta perfectamente a dispositivos móviles, tabletas y computadoras. Se optimiza el contenido para cada tamaño de pantalla, manteniendo la claridad y facilidad de uso en todos los contextos.
+
+**Espaciado y Alineación:**  
+Usamos una escala basada en múltiplos de 4px para todos los márgenes y rellenos, asegurando consistencia y armonía en el diseño. Este sistema permite que los elementos respiren adecuadamente, creando una experiencia visual agradable y ordenada.
+
+**Colores y Contraste:**  
+La paleta de colores incluye tonos suaves como el azul cielo, verde menta y durazno pastel, combinados con acentos más vibrantes para botones y enlaces. Estos colores no solo son agradables a la vista, sino que también cumplen con estándares de accesibilidad para asegurar el contraste suficiente.
+
+**Imágenes y Fondos:**  
+Las imágenes utilizadas en la plataforma son cuidadosamente seleccionadas para representar el objetivo de KidyCare: el bienestar y la educación infantil. Se han optado por imágenes que reflejan confianza y cuidado, alineadas con los valores de la plataforma. El uso de fondos claros y limpios asegura que la atención del usuario permanezca en la información y las llamadas a la acción principales.
+
+---
+
+## 4.2. Information Architecture
+
+El diseño de la plataforma KindyCare responde a la necesidad de crear una experiencia simple, segura y eficiente tanto para padres como para cuidadores. La organización de la información se estructura para facilitar la navegación, el descubrimiento de servicios y la interacción entre usuarios.
+
+## 1. Página de Inicio
+
+- **Vista Previa de Cuidadores Disponibles:**  
+  Muestra cuidadores destacados o populares para captar la atención de los padres que buscan servicios.
+
+- **Registro de Cuidadores:**  
+  Enlace directo para que nuevos cuidadores puedan registrarse en la plataforma y comenzar a ofrecer sus servicios.
+
+- **Quiénes Somos y Contacto:**  
+  Información sobre la misión de la plataforma, los valores fundamentales y los medios de contacto para consultas o asistencia.
+
+## 2. Buscar Cuidadores (Para Padres y Tutores)
+
+- **Categorías de Servicios:**  
+  Sección que agrupa los servicios de cuidado infantil según las necesidades específicas: cuidado a tiempo completo, cuidado parcial, cuidado de niños con necesidades especiales, etc.
+
+- **Filtros de Búsqueda:**  
+  Herramientas que permiten a los padres filtrar cuidadores según criterios como experiencia, calificaciones, precio, ubicación y disponibilidad.
+
+- **Vista Detallada de Perfiles:**  
+  Cada cuidador cuenta con una página individual que muestra su experiencia, calificaciones, tarifas, disponibilidad y certificaciones.
+
+## 3. Registro de Cuidadores
+
+- **Formulario de Registro:**  
+  Formulario para que los cuidadores se registren en la plataforma, ingresando información como experiencia, habilidades, certificaciones y disponibilidad.
+
+- **Gestión de Servicios:**  
+  Una vez registrados, los cuidadores pueden crear o editar su perfil, subir certificaciones y gestionar su disponibilidad.
+
+- **Historial de Servicios y Pagos:**  
+  Los cuidadores pueden revisar un historial de los servicios que han realizado, las calificaciones obtenidas y los pagos recibidos.
+
+## 4. Reservar Servicios de Cuidado
+
+- **Interfaz de Reserva:**  
+  Una interfaz simple para que los padres seleccionen el cuidador, fecha y hora para reservar el servicio de cuidado infantil.
+
+- **Vista Previa y Confirmación:**  
+  Los padres pueden visualizar los detalles de la reserva antes de confirmar, incluyendo la tarifa total y la duración del servicio.
+
+---
+
+### 4.2.1. Organization Systems
+
+1. **Categorización de la Información:**
+
+   - **Perfiles de Cuidadores:**  
+     Categorizados por experiencia, tipo de cuidado (niños pequeños, cuidado especializado, cuidado nocturno, etc.) y certificaciones.
+
+   - **Servicios de Cuidado:**  
+     Categorizados por tiempo completo, medio tiempo, ocasional, etc.
+
+2. **Filtros y Búsqueda:**
+
+   - **Filtros para Padres:**  
+     Los padres pueden filtrar los cuidadores según la ubicación, experiencia, precio, calificaciones, disponibilidad y otros parámetros.
+
+   - **Búsqueda Avanzada:**  
+     Función que permite a los padres buscar cuidadores con características específicas, como "cuidadores con experiencia en niños con necesidades especiales" o "cuidadores disponibles los fines de semana".
+
+3. **Interfaz de Usuario Intuitiva:**
+
+   - **Menú Principal:**  
+     Un menú claro y accesible que incluye las secciones clave: Buscar Cuidadores, Registro de Cuidadores, Historial de Servicios, y Perfil de Usuario.
+
+   - **Submenús Contextuales:**  
+     Dentro de las secciones principales, los submenús guían a los usuarios hacia opciones específicas como "cuidado a tiempo completo" o "cuidado de niños con necesidades especiales".
+
+4. **Funcionalidades Específicas:**
+
+   - **Perfiles de Cuidadores:**  
+     Cada cuidador tiene una página individual que muestra su experiencia, certificaciones, calificaciones, tarifas y disponibilidad, junto con una opción para contactarlo o reservar un servicio.
+
+   - **Reservas:**  
+     Los padres pueden gestionar y ver sus reservas previas, y repetir servicios con cuidadores específicos desde su historial.
+
+---
+
+### 4.2.2. Labeling Systems
+
+Para mejorar la navegación, KindyCare utiliza etiquetas claras y descriptivas:
+
+- Buscar Cuidadores  
+- Registrarse como Cuidador  
+- Reservar Servicio  
+- Historial de Servicios  
+- Mi Perfil  
+- Certificaciones y Habilidades  
+- Disponibilidad
+
+---
+
+### 4.2.3. SEO Tags and Meta Tags
+
+Cada página de la plataforma incluirá:
+
+- Meta título con palabras clave relevantes como *"cuidado infantil seguro"*, *"niñeras calificadas cerca de mí"*, etc.  
+- Meta descripciones optimizadas para buscadores.  
+- Uso estratégico de etiquetas `alt` en imágenes para mejorar accesibilidad y SEO.
+
+---
+
+### 4.2.4. Searching Systems
+
+El sistema de búsqueda dentro de la plataforma permitirá a los padres y cuidadores encontrar la información que necesitan de manera rápida y eficaz.
+
+1. **Búsqueda por Tipo de Cuidado:**  
+   Ej.: "cuidado nocturno", "cuidado a tiempo completo", "cuidado de niños con necesidades especiales".
+
+2. **Búsqueda por Ubicación:**  
+   Filtro de resultados según proximidad al hogar.
+
+   - Por Tipo de Servicio: Cuidado nocturno, apoyo escolar, acompañamiento en casa, etc.  
+   - Por Ubicación: Integración con mapas.  
+   - Por Calificación: Filtro por puntuación y reseñas.  
+   - Por Certificación o Idioma: Habilidades específicas.  
+   - Por Rango de Precio y Disponibilidad: Compatible con calendarios.
+
+---
+
+### 4.2.5. Navigation Systems
+
+El sistema de navegación está diseñado para ofrecer una experiencia fluida, fácil de usar y segura para ambos segmentos (padres y cuidadores).
+
+1. **Menú Principal (Dashboard):**  
+   Siempre visible, con acceso a todas las secciones clave.
+
+2. **Navegación Contextual:**  
+   Submenús personalizados que facilitan el acceso a categorías específicas.
+
+3. **CTA (Call to Action) destacados:**  
+   Botones como "Buscar Cuidadores", "Reservar Ahora" o "Postularme como Cuidador", resaltados con colores vibrantes.
+
+4. **Barra de Búsqueda Fija:**  
+   Siempre visible para facilitar búsquedas rápidas y directas.
+
+5. **Flujo de Navegación Intuitivo:**  
+   Desde la búsqueda hasta la reserva de servicios, con un flujo lógico y claro que guía a los usuarios en cada etapa.
+
 ## 4.3. Landing Page UI Design. 
-### 4.3.1. Landing Page Wireframe. 
-### 4.3.2. Landing Page Mock-up. 
+### 4.3.1. Landing Page Wireframe.
+**Hero Section**
+<p align="center">
+  <img src="./assets/hero-section-wireframe.png" alt="Hero Section" width="850">
+</p>
+
+**Features Section**
+<p align="center">
+  <img src="./assets/features-section-wireframe.png" alt="Features Section" width="850">
+</p>
+
+**Benefits Section**
+<p align="center">
+  <img src="./assets/benefits-section-wireframe.png" alt="Benefits Section" width="850">
+</p>
+
+**Steps Section**
+<p align="center">
+  <img src="./assets/steps-section-wireframe.png" alt="Steps Section" width="850">
+</p>
+
+**Testimonial Section**
+<p align="center">
+  <img src="./assets/testimonial-section-wireframe.png" alt="Testimonial Section" width="850">
+</p>
+
+**Contact Section**
+<p align="center">
+  <img src="./assets/contact-section-wireframe.png" alt="Contact Section" width="850">
+</p>
+
+### 4.3.2. Landing Page Mock-up.
+**Hero Section**
+<p align="center">
+  <img src="./assets/hero-section-mockup.png" alt="Hero Section" width="850">
+</p>
+
+**Features Section**
+<p align="center">
+  <img src="./assets/features-section-mockup.png" alt="Features Section" width="850">
+</p>
+
+**Benefits Section**
+<p align="center">
+  <img src="./assets/benefits-section-mockup.png" alt="Benefits Section" width="850">
+</p>
+
+**Steps Section**
+<p align="center">
+  <img src="./assets/steps-section-mockup.png" alt="Steps Section" width="850">
+</p>
+
+**Testimonial Section**
+<p align="center">
+  <img src="./assets/testimonial-section-mockup.png" alt="Testimonial Section" width="850">
+</p>
+
+**Contact Section**
+<p align="center">
+  <img src="./assets/contact-section-mockup.png" alt="Contact Section" width="850">
+</p>
+
 ## 4.4. Web Applications UX/UI Design. 
-### 4.4.1. Web Applications Wireframes. 
+### 4.4.1. Web Applications Wireframes.
+**Log In**
+
+<p align="center">
+  <img src="./assets/wireframes-app/login.png" alt="Log In" width="850">
+</p>
+
+**Sign Up**
+<p align="center">
+  <img src="./assets/wireframes-app/signup.png" alt="Sign Up" width="850">
+</p>
+
+**Babysitter List**  
+<p align="center">
+  <img src="./assets/wireframes-app/babysitter-list.png" alt="Babysitter List" width="850">
+</p>
+
+**Babysitter Detail**  
+<p align="center">
+  <img src="./assets/wireframes-app/babysitter-detail.png" alt="Babysitter Detail" width="850">
+</p>
+
+**Babysitter Profile**
+<p align="center">
+  <img src="./assets/wireframes-app/babysitter-profile.png" alt="Babysitter Profile" width="850">
+</p>
+
+**Babysitter Review**  
+<p align="center">
+  <img src="./assets/wireframes-app/review-babysitter.png" alt="Babysitter Review" width="850">
+</p>
+
+**Babysitter Booking**  
+<p align="center">
+  <img src="./assets/wireframes-app/booking-babysitter.png" alt="Babysitter Booking" width="850">
+</p>
+
+**Babysitter Payment**  
+<p align="center">
+  <img src="./assets/wireframes-app/payment-babysitter.png" alt="Babysitter Payment" width="850">
+</p>
+
+**Parent Profile**  
+<p align="center">
+  <img src="./assets/wireframes-app/parent-profile.png" alt="Parent Profile" width="850">
+</p>
+
+**Parent Review**  
+<p align="center">
+  <img src="./assets/wireframes-app/review-parent.png" alt="Log In" width="850">
+</p>
+
+**Parent Payment**  
+<p align="center">
+  <img src="./assets/wireframes-app/payment-parent.png" alt="Parent Payment" width="850">
+</p>
+
+**Parent Booking**  
+<p align="center">
+  <img src="./assets/wireframes-app/booking-parent.png" alt="Parent Booking" width="850">
+</p>
+
+**Chat**  
+<p align="center">
+  <img src="./assets/wireframes-app/chat.png" alt="Chat" width="850">
+</p>
+
+**Dashboard**  
+<p align="center">
+  <img src="./assets/wireframes-app/main-dashboard.png" alt="Dashboard" width="850">
+</p>
+
 ### 4.4.2. Web Applications Wireflow Diagrams. 
-### 4.4.2. Web Applications Mock-ups. 
+
+### 4.4.2. Web Applications Mock-ups.
+**Log In**
+
+<p align="center">
+  <img src="./assets/mockups-app/login.png" alt="Log In" width="850">
+</p>
+
+**Sign Up**
+<p align="center">
+  <img src="./assets/mockups-app/signup.png" alt="Sign Up" width="850">
+</p>
+
+**Babysitter List**  
+<p align="center">
+  <img src="./assets/mockups-app/babysitters-list.png" alt="Babysitter List" width="850">
+</p>
+
+**Babysitter Detail**  
+<p align="center">
+  <img src="./assets/mockups-app/babysitter-detail.png" alt="Babysitter Detail" width="850">
+</p>
+
+**Babysitter Profile**
+<p align="center">
+  <img src="./assets/mockups-app/profile-babysitter.png" alt="Babysitter Profile" width="850">
+</p>
+
+**Babysitter Review**  
+<p align="center">
+  <img src="./assets/mockups-app/review-babysitter.png" alt="Babysitter Review" width="850">
+</p>
+
+**Babysitter Booking**  
+<p align="center">
+  <img src="./assets/mockups-app/booking-babysitter.png" alt="Babysitter Booking" width="850">
+</p>
+
+**Babysitter Payment**  
+<p align="center">
+  <img src="./assets/mockups-app/payment-babysitter.png" alt="Babysitter Payment" width="850">
+</p>
+
+**Parent Profile**  
+<p align="center">
+  <img src="./assets/mockups-app/profile-parent.png" alt="Parent Profile" width="850">
+</p>
+
+**Parent Review**  
+<p align="center">
+  <img src="./assets/mockups-app/review-parent.png" alt="Log In" width="850">
+</p>
+
+**Parent Payment**  
+<p align="center">
+  <img src="./assets/mockups-app/payment-parent.png" alt="Parent Payment" width="850">
+</p>
+
+**Parent Booking**  
+<p align="center">
+  <img src="./assets/mockups-app/booking-parent.png" alt="Parent Booking" width="850">
+</p>
+
+**Chat**  
+<p align="center">
+  <img src="./assets/mockups-app/chat.png" alt="Chat" width="850">
+</p>
+
+**Dashboard**  
+<p align="center">
+  <img src="./assets/mockups-app/main-dashboard.png" alt="Dashboard" width="850">
+</p> 
+
 ### 4.4.3. Web Applications User Flow Diagrams. 
-## 4.5. Web Applications Prototyping. 
+
+## 4.5. Web Applications Prototyping.
+<p align="center">
+  <img src="./assets/prototyping.png" alt="Prototyping" width="850">
+</p>  
+
 ## 4.6. Domain-Driven Software Architecture. 
 ### 4.6.1. Software Architecture Context Diagram. 
+
 ### 4.6.2. Software Architecture Container Diagrams. 
+
 ### 4.6.3. Software Architecture Components Diagrams. 
+
 ## 4.7. Software Object-Oriented Design. 
-### 4.7.1. Class Diagrams. 
+### 4.7.1. Class Diagrams.
+
 ### 4.7.2. Class Dictionary. 
-## 4.8. Database Design. 
+
+## 4.8. Database Design.
 ### 4.8.1. Database Diagram. 
+
+
+
 # Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management. 
 ### 5.1.1. Software Development Environment Configuration. 
