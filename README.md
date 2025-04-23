@@ -12,7 +12,7 @@
 <h3 align="center"> Profesor del Curso: Hugo Allan Mori Paiva </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
 <h3 align="center"> Nombre de Startup: QuantumSoft  </h3>
-<h3 align="center"> Nombre del Producto: ChildCard  </h3>
+<h3 align="center"> Nombre del Producto: KidyCare  </h3>
 
 <div align="center">
 
@@ -21,6 +21,7 @@
 | Meza Camayo, Lynn Jeeferzon    | U20201C320 |
 | Fajardo Monrroy, Walter Luis   | U202221632 |
 | Cuentas Peña, Joaquin Alberto  | U20201F788 |
+| Linares Arroyo, Jorge Alexandro  | U202318624 |
 
 </div>
 <h3 align="center"> ABRIL - 2025   </h3>
@@ -196,19 +197,32 @@ En **KindyCare**, establecemos pautas de estilo sólidas para garantizar una exp
 
 ### 4.1.1. General Style Guidelines.
 **Task:**  
-En esta sección, se detallarán las directrices generales de estilo que guiarán el diseño y la presentación de **SafeChild**. Estas directrices asegurarán que todos los elementos visuales y textuales sean coherentes y alineados con la identidad de nuestra marca, proporcionando una experiencia de usuario fluida, confiable y profesional.
+En esta sección, se detallarán las directrices generales de estilo que guiarán el diseño y la presentación de **KindyCare**. Estas directrices asegurarán que todos los elementos visuales y textuales sean coherentes y alineados con la identidad de nuestra marca, proporcionando una experiencia de usuario fluida, confiable y profesional.
 
 **Insight:**  
-La consistencia en el estilo y diseño es crucial para establecer una identidad de marca sólida y reconocible en SafeChild. Una guía de estilo clara ayuda a mantener la coherencia a lo largo del proyecto, asegurando que la plataforma refleje confianza y profesionalismo en cada interacción, facilitando la navegación y el uso para los padres que buscan cuidadores y profesores confiables.
+La consistencia en el estilo y diseño es crucial para establecer una identidad de marca sólida y reconocible en KindyCare. Una guía de estilo clara ayuda a mantener la coherencia a lo largo del proyecto, asegurando que la plataforma refleje confianza y profesionalismo en cada interacción, facilitando la navegación y el uso para los padres que buscan cuidadores y profesores confiables.
 
 **Branding:**  
 El logo de **KindyCare** está compuesto por una figura de una casa colorida que simboliza el cariño, la enseñanza, la atención y el compromiso con el bienestar infantil. Los colores de la marca reflejan suavidad y confianza: tonos pastel cálidos que evocan cercanía, amabilidad y profesionalismo.
 
+<p align="center">
+  <img src="./assets/logo.png" alt="Logo" width="850">
+</p>
+
 **Typography:**  
 Se utiliza una fuente moderna y altamente legible tanto en pantallas móviles como de escritorio. La tipografía se seleccionó para facilitar la lectura, evitar la fatiga visual y transmitir accesibilidad y claridad. Se distinguen visualmente los títulos, subtítulos y textos informativos mediante jerarquías tipográficas bien definidas.
 
+<p align="center">
+  <img src="./assets/tipografy app web.png" alt="tipografy" width="850">
+</p>
+
+<p align="center">
+  <img src="./assets/colors.png" alt="colors" width="850">
+</p>
+
 **Íconos y Elementos Gráficos:**  
 Los íconos son minimalistas, con bordes redondeados y líneas suaves. Se emplean para guiar al usuario en la navegación y mejorar la comprensión del contenido sin sobrecargar visualmente la interfaz.
+
 
 ### 4.1.2. Web Style Guidelines
 
@@ -591,20 +605,46 @@ El sistema de navegación está diseñado para ofrecer una experiencia fluida, f
 </p>  
 
 ## 4.6. Domain-Driven Software Architecture. 
-### 4.6.1. Software Architecture Context Diagram. 
+### 4.6.1. Software Architecture Context Diagram.
+<p align="center">
+  <img src="./assets/context-diagram.png" alt="context-diagram" width="850">
+</p> 
 
 ### 4.6.2. Software Architecture Container Diagrams. 
+<p align="center">
+  <img src="./assets/container-diagram.png" alt="container-diagram" width="850">
+</p>
 
 ### 4.6.3. Software Architecture Components Diagrams. 
+<p align="center">
+  <img src="./assets/components-diagram.png" alt="components-diagram" width="850">
+</p>
 
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams.
+<p align="center">
+  <img src="./assets/class-diagram.jpg" alt="class-diagram" width="850">
+</p>
 
 ### 4.7.2. Class Dictionary. 
+| Clase         | Descripción                                                                                                                                  |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| User          | Representa a cualquier persona que utiliza la plataforma, ya sea padre o niñera. Contiene información general como nombre, email y rol.     |
+| Parent        | Es una especialización de User. Representa a los usuarios que buscan contratar servicios de niñeras para el cuidado de sus hijos.           |
+| Babysitter    | También especializada desde User. Representa a las niñeras registradas, incluyendo su perfil, experiencia, disponibilidad y calificaciones. |
+| Message       | Representa un mensaje individual enviado entre usuarios dentro de una sesión de chat. Incluye contenido, hora de envío y emisor/receptor.    |
+| ChatSession   | Define una conversación entre un padre y una niñera. Agrupa todos los mensajes relacionados a una interacción específica.                    |
+| Notification  | Almacena alertas generadas para los usuarios, como confirmaciones de reserva, nuevos mensajes y pagos.|
+| Availability  | Registra los días y horas que una niñera está disponible para ser contratada. Se vincula con su perfil para facilitar las búsquedas.         |
+| Reservation   | Representa una reserva de servicio entre un padre y una niñera, incluyendo fechas, duración, estado (pendiente, aceptada, cancelada, etc).  |
+| Review        | Almacena comentarios y calificaciones que los padres dejan sobre las niñeras después de una reserva. Ayuda a construir reputación.           |
+| Payment       | Registra transacciones realizadas por los padres para pagar por los servicios contratados despues de una reserva, y puede incluir métodos de pago y estado.         |
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram. 
-
+<p align="center">
+  <img src="./assets/database-diagram.png" alt="database-diagram" width="850">
+</p>
 
 
 # Capítulo V: Product Implementation, Validation & Deployment  
