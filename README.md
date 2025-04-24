@@ -216,7 +216,7 @@ Las personas pudieron verse afectadas por factores como la falta de tiempo, la a
 
 ### How much (¿Cuánto?)
 
-
+El efecto económico es considerable. Numerosas familias no pueden afrontar los altos costos del cuidado infantil, lo que frecuentemente las lleva a tomar decisiones que podrían afectar negativamente el bienestar de sus hijos. La falta de cuidadores calificados también contribuye al aumento de los precios, lo que dificulta aún más el acceso a un cuidado infantil de calidad, perpetuando así las desigualdades sociales y económicas. Sumado a ello existe una fuerte desconfianza de los padres respecto a confiar a sus hijos a otras personas al no contar con referencias.
 
 ### 1.2.2 Lean UX Process. 
 #### 1.2.2.1. Lean UX Problem Statements.
