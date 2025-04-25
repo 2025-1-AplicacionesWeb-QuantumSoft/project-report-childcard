@@ -176,21 +176,26 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     <tr>
         <th>Trabaja en equipo para proporcionar liderazgo en forma conjunta</th>
         <td>
-          <b>Lynn: TB1</b><br>
+          <b>Lynn Meza: TB1</b><br>
           Fomentó la colaboración y el crecimiento compartido al participar en el desarrollo de los to-be Scenario map, user sotires, impact map y Product backlog.<br>
           Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.<br>
+          <br>
+          <b>Jorge Linares: TB1</b><br>
+          Desempeñe en el trabajo en equipo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
         </td>
         <td>
-          <b>Lynn: TB1</b><br>
-          En conclusión, a través de un liderazgo colaborativo, nuestro equipo logró desarrollar exitosamente la landing page del producto, integrando habilidades complementarias y tomando decisiones conjuntas en cada etapa. Desde el análisis inicial hasta la implementación final, la comunicación constante, la distribución equitativa de responsabilidades y la retroalimentación grupal nos permitieron alinear objetivos garantizando un producto centrado en el usuario. Este proyecto evidenció que el trabajo en equipo, con un liderazgo compartido y flexible, es fundamental para impulsar soluciones innovadoras y alcanzar resultados sólidos de manera eficiente.
+          <b>TB1</b><br>
+          En conclusión, a través de un liderazgo colaborativo, nuestro equipo logró desarrollar exitosamente la landing page del producto, integrando habilidades complementarias y tomando decisiones conjuntas en cada etapa. Desde el análisis inicial hasta la implementación final, la comunicación constante, la distribución equitativa de responsabilidades y la retroalimentación grupal nos permitieron alinear objetivos garantizando un producto centrado en el usuario. Este proyecto evidenció que el trabajo en equipo, con un liderazgo compartido y flexible, es fundamental para impulsar soluciones innovadoras y alcanzar resultados sólidos de manera eficiente.<br>
         </td>
     </tr>
     <tr>
         <th>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</th>
         <td>
-          <b>Lynn: TB1</b><br>
-          Desarrollo los to-be Scenario map, user sotires, impact map y Product backlog.<br>
+          <b>Lynn Meza: TB1</b><br>
+          Desarrolle los to-be Scenario map, user sotires, impact map y Product backlog.<br>
           Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.
+          <b>Jorge Linares: TB1</b><br>
+          Desempeñe en el trabajo colaborativo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
         </td>
         <td>
           <b>TB1:</b><br>
