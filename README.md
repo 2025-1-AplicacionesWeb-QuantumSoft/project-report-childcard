@@ -78,6 +78,8 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1. Competidores.](#21-competidores)
     - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
+- [Panorama de análisis competitivo](#panorama-de-análisis-competitivo)
+  - [Análisis FODA](#análisis-foda)
     - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
   - [2.2. Entrevistas.](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
@@ -148,22 +150,7 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product.](#54-video-about-the-product)
-      - [5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
-      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
-      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team.](#video-about-the-team)
   - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
   - [Video About-the-Team.](#video-about-the-team)
   - [Bibliografía Anexos](#bibliografía-anexos)
@@ -1267,8 +1254,7 @@ Estructura básica
   4. **Verificar el despliegue:**
     - En este caso, el **Link del Landing Page desplegado del proyecto KYDICARE** es:  
      [Landing Page KYDICARE](https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/)
-
-
+     
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint n 
 #### 5.2.1.1. Sprint Planning n.
