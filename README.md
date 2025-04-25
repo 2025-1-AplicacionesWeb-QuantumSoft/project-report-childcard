@@ -423,8 +423,48 @@ Son profesionales o personas con experiencia en el cuidado infantil que desean c
 
 # Capítulo II: Requirements Elicitation & Analysis 
 ## 2.1. Competidores. 
+
 ### 2.1.1. Análisis competitivo. 
+
+A continuación, se presentan algunos de los principales competidores identificados para nuestro proyecto. En esta sección tendremos una breve vista para conocer a nuestros competidores.
+
+# Panorama de análisis competitivo
+
+**¿Por qué llevar a cabo este análisis?**  
+Este análisis es clave para entender el mercado, las necesidades de los usuarios y cómo Keychild puede ofrecer soluciones innovadoras y efectivas para poder destacarse frente a otras empresas y mejorar el producto.
+
+| Características              | KYDICARE                                                                | Babysits                                                                | Nanny’s App                                                             |
+|-----------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **Perfil - Overview**       | Plataforma que conecta familias con niñeras locales verificadas, usando preferencias personalizadas. | Plataforma global para conectar padres con niñeras y cuidadores.       | App para contratar niñeras verificadas de forma rápida y sencilla.       |
+| **Ventaja competitiva**     | Perfiles certificados y verificados localmente, opción de entrevistas por videollamada integradas. | Red internacional, gran cantidad de perfiles y calificaciones.          | Contratación inmediata en pocos clics, ideal para eventos puntuales.     |
+| **Mercado objetivo**        | Familias que buscan confianza, personalización y seguridad. Niñeras que buscan publicitar su servicios. | Padres que buscan cuidadoras locales o internacionales confiables.      | Padres con necesidades inmediatas de cuidado infantil.                   |
+| **Estrategias de marketing**| Campañas con influencers en parenting, marketing de contenidos en blogs de crianza, SEO local. | SEO, presencia en redes sociales, campañas digitales y alianzas locales | Publicidad directa, visibilidad en tiendas de apps y eventos.            |
+| **Precios & Costos**        | Freemium: uso básico gratuito, planes premium y soporte prioritario.     | Planes desde gratis hasta membresías premium.                           | Costos por servicio, modelo tipo pay-per-use.                            |
+| **Productos & Servicios**   | Perfiles con verificación documental, entrevistas por videollamada, chat seguro, alertas por geolocalización y reviews verificadas. | Conexión con niñeras, sistema de calificación, perfiles verificados.   | Contratación exprés, perfiles verificados, valoraciones de familias.     |
+| **Canales de distribución** | App móvil (iOS y Android), plataforma web.                                | App móvil (iOS y Android), plataforma web.                              | App móvil (iOS y Android).                                               |
+
+## Análisis FODA
+
+| Elemento     | KYDICARE                                       | Babysits                                        | Nanny’s App                                      |
+|--------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| **Fortalezas**   | Comunidad amplia y confiabilidad gracias al sistema de reseñas | Comunidad amplia y sistema de reseñas.          | Cuenta con perfiles verificados.                 |
+| **Oportunidades**| Expandirse a más países, integrar videollamadas | Expandirse a más países, integrar videollamadas o IA para matching | Ampliar su base de datos y servicios complementarios. |
+| **Debilidades**  | Posible saturación de perfiles, alta competencia | Posible saturación de perfiles, alta competencia | Limitado para casos de uso esporádico; menos enfoque en largo plazo |
+| **Amenazas**     | Posible dificultad en encontrar alcance de clientes | Aparición de nuevas plataformas con tecnología más avanzada. | Competencia fuerte y modelos de suscripción más completos |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores. 
+
+Estas son las principales estrategias que aplicará KYDICARE para diferenciarse de sus competidores:
+ - Ofrecer recomendaciones personalizadas y alertas automáticas de disponibilidad según el historial del usuario.
+ - Crear una campaña de marketing emocional enfocada en la seguridad infantil y testimonios reales de familias.
+
+ - Incluir un sello de verificación visible en los perfiles y reportes de antecedentes más detallados.
+
+ - Alianzas con instituciones certificadoras o gobiernos locales para reforzar el sistema de validación.
+
+De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada que otras apps del rubro y siendo la más segura del mercado.
+
+
 ## 2.2. Entrevistas. 
 ### 2.2.1. Diseño de entrevistas. 
 ### 2.2.2. Registro de entrevistas. 
