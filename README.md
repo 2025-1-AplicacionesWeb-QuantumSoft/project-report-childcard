@@ -333,7 +333,7 @@ Estructura básica
 
       - Empiteación en blanco innecesarios y líneas vacías redundantes.
 
-2. Bootstrap
+2. Tailwind
 
     Principios:
 
@@ -341,9 +341,45 @@ Estructura básica
 
       - Evitar sobrescribir estilos base; usar clases contextuales (ej. bg-primary, text-success).
 
-      - Solo agrega CSS personalizado cuando mar seco despejado.
+      - Solo agrega CSS personalizado.
+
+3. vue.js
+
+    Reglas clave:
+
+    - Nombres de Compentes: PascalCase(Ej: UserProfile.vue)
+    - Props: Definir tipos y valores por defecto.
+  
 
 ### 5.1.4. Software Deployment Configuration. 
+
+  Hemos seleccionado GitHub Pages como plataforma para alojar el sitio web estático del proyecto. A continuación se detalla el proceso completo:
+
+  1. **Creación del repositorio en GitHub:**
+
+    - Primero, se debe crear un nuevo repositorio en GitHub. Asegúrate de que el repositorio sea público para que GitHub Pages pueda generar y alojar el sitio.
+   - Clona el repositorio a tu máquina local para realizar los desarrollos necesarios.
+   - **Ejemplo:**
+     ```bash
+     git clone https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard.git
+     ```
+  2. **Desarrollo del sitio estático:**
+
+   - El desarrollo del **Landing Page** se realiza utilizando HTML, CSS, Tailwind.css , JavaScript y vue.js. Estos archivos deben estar en la raíz del repositorio o en la carpeta `docs`, dependiendo de la configuración elegida para GitHub Pages.
+
+  3. **Configuración de GitHub Pages:**
+
+   - Dirígete a la configuración del repositorio en GitHub:
+     - Ir a la seccion `Settings`.
+     - Desplázate hacia abajo hasta la sección **Pages**.
+     - En el menú desplegable "Source", selecciona la creada `gh-pages`  y la carpeta raíz (`/root`) o `docs/` si los archivos están organizados dentro de esa carpeta.
+   - Una vez seleccionado, GitHub Pages generará una URL para acceder a tu sitio web.
+  
+  4. **Verificar el despliegue:**
+    - En este caso, el **Link del Landing Page desplegado del proyecto KYDICARE** es:  
+     [Landing Page SafeChild](https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint n 
 #### 5.2.1.1. Sprint Planning n.
