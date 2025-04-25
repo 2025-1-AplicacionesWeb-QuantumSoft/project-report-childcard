@@ -21,6 +21,7 @@
 | Meza Camayo, Lynn Jeeferzon    | U20201C320 |
 | Fajardo Monrroy, Walter Luis   | U202221632 |
 | Cuentas Peña, Joaquin Alberto  | U20201F788 |
+| Avila Palacios, Aarón Alexander | U201823654 |
 
 </div>
 <h3 align="center"> ABRIL - 2025   </h3>
