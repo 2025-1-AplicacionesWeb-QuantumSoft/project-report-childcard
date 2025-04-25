@@ -219,7 +219,14 @@ Las personas pudieron verse afectadas por factores como la falta de tiempo, la a
 El efecto económico es considerable. Numerosas familias no pueden afrontar los altos costos del cuidado infantil, lo que frecuentemente las lleva a tomar decisiones que podrían afectar negativamente el bienestar de sus hijos. La falta de cuidadores calificados también contribuye al aumento de los precios, lo que dificulta aún más el acceso a un cuidado infantil de calidad, perpetuando así las desigualdades sociales y económicas. Sumado a ello existe una fuerte desconfianza de los padres respecto a confiar a sus hijos a otras personas al no contar con referencias.
 
 ### 1.2.2 Lean UX Process. 
+
 #### 1.2.2.1. Lean UX Problem Statements.
+
+Nuestra plataforma "XXXX" tiene como propósito enfrentar un desafío importante en el ámbito del cuidado infantil: la dificultad de conectar a padres con cuidadores confiables. Muchos padres encuentran complicado acceder a opciones de cuidado y educación infantil de calidad en el hogar, lo que genera estrés y dificulta el equilibrio entre el trabajo y la vida familiar. Por otro lado, cuidadores y educadores también enfrentan obstáculos para encontrar familias que requieran sus servicios, lo que reduce sus oportunidades laborales y limita el acceso de las familias a servicios adecuados.
+
+Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre padres que buscan un cuidado infantil confiable y cuidadores que desean trabajar? Entendiendo las dificultades que enfrentan ambas partes, proponemos una solución que permita superar esas barreras a través de una plataforma que promueva conexiones efectivas y aumente tanto la disponibilidad como la calidad del cuidado infantil, generando beneficios mutuos para padres y cuidadores.
+
+
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements. 
 #### 1.2.2.4. Lean UX Canvas. 
