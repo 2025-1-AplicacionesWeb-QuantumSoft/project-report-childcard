@@ -176,6 +176,53 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 ### 2.1.2. Estrategias y tácticas frente a competidores. 
 ## 2.2. Entrevistas. 
 ### 2.2.1. Diseño de entrevistas. 
+
+### Preguntas para niñeras certificadas: 
+
+1. ¿Qué medios usas actualmente para encontrar trabajo como niñera?
+
+2. ¿Qué tan fácil o difícil te resulta encontrar nuevas familias que necesiten tus servicios?
+
+3. ¿Qué es lo más importante para ti al momento de elegir trabajar con una familia nueva?
+
+4. ¿Qué información te gustaría mostrar en tu perfil si te publicitaras en una aplicación?
+
+5. ¿Te sentirías cómoda siendo evaluada o recibiendo comentarios públicos de las familias? ¿Por qué?
+
+6. ¿Qué características o herramientas crees que debería tener una app para ayudarte a encontrar más trabajo como niñera?
+
+7. ¿Has usado alguna aplicación o plataforma similar antes? ¿Cuál fue tu experiencia?
+
+8. ¿Qué te haría confiar en una aplicación nueva para ofrecer tus servicios?
+
+9. ¿Cómo prefieres que te contacten las familias: por mensaje, llamada, a través de la app...?
+
+10. ¿Estarías dispuesta a pagar una pequeña comisión o suscripción si la app te ayudara a conseguir trabajo más fácilmente? ¿Por qué sí o por qué no?
+
+
+### Preguntas para Para padres de familia
+
+1. ¿Cómo sueles encontrar niñeras cuando las necesitas?
+
+2. ¿Qué dificultades has tenido al buscar una niñera de confianza para tus hijos?
+
+3. ¿Qué características buscas en una niñera ideal?
+
+4. ¿Qué información te gustaría ver en el perfil de una niñera dentro de una aplicación?
+
+5. ¿Qué tan importante es para ti que la plataforma verifique a las niñeras antes de que aparezcan en la app? ¿Qué tipo de verificación esperas?
+
+6. ¿Qué tipo de servicios te gustaría encontrar en una niñera desde una app?
+
+7. ¿Qué nivel de interacción te gustaría tener con la niñera antes de contratarla?
+
+8. ¿Te sentirías cómodo(a) evaluando públicamente a la niñera después de un servicio? ¿Por qué sí o no?
+
+9. ¿Cuánto estarías dispuesto(a) a pagar por un servicio confiable y seguro para encontrar niñeras?
+
+10 .¿Qué te haría confiar en una nueva aplicación para contratar niñeras?
+
+
 ### 2.2.2. Registro de entrevistas. 
 ### 2.2.3. Análisis de entrevistas. 
 ## 2.3. Needfinding. 
