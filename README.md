@@ -30,8 +30,8 @@
 
 | Versión  |   Fecha   |       Autor     |           Descripción de Modificación           |
 |----------|-----------|-----------------|-------------------------------------------------|
-|    0.1   | 03/04/25  |     Lynn Meza   | Desarrollo de la Structura del informe                 |
-|       |   |        |                  |
+|    0.1   | 03/04/25  |     Lynn Meza   | Desarrollo de la Structura del informe          |
+|    0.1   | 20/04/25  | Aaron Avila     | Registro y analisis de entrevista               |
 |       |   |        |                  |
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
