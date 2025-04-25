@@ -148,7 +148,22 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product.](#54-video-about-the-product)
+      - [5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
+      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
+      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
+  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
+  - [Video About-the-Team.](#video-about-the-team)
   - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
   - [Video About-the-Team.](#video-about-the-team)
   - [Bibliografía Anexos](#bibliografía-anexos)
@@ -416,11 +431,79 @@ Son profesionales o personas con experiencia en el cuidado infantil que desean c
 ### 2.2.3. Análisis de entrevistas. 
 ## 2.3. Needfinding. 
 ### 2.3.1. User Personas. 
+Los User personas se realizaron en base a las distintas personas que entrevistamos según nuestros segmentos objetivos.
+**Niñera con experiencia:**
+![María Fernanda User Persona](assets/US%20María%20Fernanda.png)
+**Psicólogo certificado:**
+![Alejandro Dominguez User Persona](assets/US%20Alejandro%20Dominguez.png)
+
 ### 2.3.2. User Task Matrix. 
+En esta sección vamos a detallar las tareas que realizan los diferentes segmentos de usuarios representados por los User Personas de Keychild.
+**Niñera con experiencia: María Fernanda**
+| Actividades                          | María Fernanda | Frecuencia     | Importancia |
+|-------------------------------------|------------------|----------------|-------------|
+| Describir su experiencia con familias previas |                  | Frecuentemente | Alta        |
+| Seleccionar su ubicación en el mapa          |                  | Ocasionalmente | Media       |
+| Ver familias en búsqueda de niñera           |                  | Frecuentemente | Alta        |
+| Ver reseñas de familias                      |                  | Ocasionalmente | Media       |
+| Acceder a entrevistas virtuales              |                  | Frecuentemente | Media       |
+
+**Padre de familia: Alejandro Dominguez**
+| Actividades                          | Alejandro Dominguez | Frecuencia     | Importancia |
+|-------------------------------------|----------------------|----------------|-------------|
+| Buscar niñeras                      |                      | Frecuentemente | Alta        |
+| Filtrar niñeras por proximidad      |                      | Frecuentemente | Alta        |
+| Filtrar niñeras por experiencia     |                      | Ocasionalmente | Media       |
+| Agregar descripción familiar        |                      | Ocasionalmente | Media       |
+| Agregar ubicación                   |                      | Frecuentemente | Media       |
+
 ### 2.3.3. User Journey Mapping. 
-### 2.3.4. Empathy Mapping. 
+**USER PERSONA: María Fernanda**
+![Journey Map 1](assets/Journey%20Map,%20María%20Fernanda.png)
+El viaje de Mafer, una profesional en busca de oportunidades como niñera, es distinto al de Luis en forma pero igual de cargado emocionalmente. Comienza desde una posición de baja visibilidad, con esperanza y aceptación, deseando acceder a oportunidades reales, lo que representa una oportunidad clave para que las plataformas generen confianza inicial a través de rankings, reputación o contenido educativo. En la búsqueda activa de vacantes, la ansiedad se intensifica, haciendo fundamental la transparencia y el seguimiento del estado de las postulaciones. Al ser contactada por padres, Mafer siente entusiasmo y deseo de ser tratada con respeto, por lo que una guía compartida para entrevistas puede mejorar la experiencia para ambas partes. En la etapa de evaluación de ofertas, adopta un enfoque analítico, lo que resalta la utilidad de comparativas claras entre opciones laborales mediante un checklist estándar. Finalmente, al aceptar una oferta, Mafer experimenta tranquilidad y preparación, siendo este el momento ideal para que la plataforma le proporcione herramientas administrativas, como contratos, gestión de horarios y capacitaciones para una buena integración.
+
+**USER PERSONA: Alejandro Dominguez**
+![Journey Map 2](assets/Journey%20Map,%20Alejandro.png)
+El viaje de Alejandro al buscar una niñera refleja una profunda necesidad de confianza, seguridad y compatibilidad emocional. Desde el inicio, se enfrenta a una sobrecarga de opciones poco diferenciadas, lo que genera preocupación y la necesidad de filtros avanzados y validaciones visibles que inspiren confianza. Durante la exploración, la falta de perfiles estandarizados le exige invertir tiempo extra, por lo que se recomienda estructurar mejor la información con campos obligatorios y sellos de verificación. Al contactar a las candidatas, adopta una actitud vigilante, esperando profesionalismo y empatía, donde una agenda integrada para entrevistas puede facilitar el proceso. En la etapa de evaluación, busca una conexión más profunda y emocional, por lo que guías para entrevistas y checklists serían herramientas valiosas. Finalmente, al cerrar el trato, aunque siente alegría, aún le preocupa cómo se adaptarán sus hijos, lo que sugiere la utilidad de herramientas post-contratación como plantillas de contrato, gestión de horarios y seguimiento del desempeño.
+
+### 2.3.4. Empathy Mapping.
+**USER PERSONA: María Fernanada**
+![Empathy Map 1](assets/Empathy%20map%20Mafer.png)
+
+**USER PERSONA: Alejandro Dominguez**
+![Empathy Map 2](assets/Empathy%20map%20Alejandro.png)
+
 ### 2.3.5. As-is Scenario Mapping. 
+**USER PERSONA: María Fernanda**
+![Scenario Mapping 1](assets/Scenario%20Mapping%20Mafer.jpg)
+El proceso de buscar trabajo como niñera es demandante emocionalmente. Mafer depende de canales poco convencionales como grupos de Facebook o WhatsApp, lo que limita su visibilidad profesional y genera inseguridad constante sobre su capacidad para destacar entre tantas opciones. Luego de un largo tiempo de espera, durante la postulación, enfrenta entrevistas muy variables de acuerdo al carácter del padre de familia. Una vez contratada, no siempre recibe continuidad laboral ni reconocimiento profesional, lo cual la obliga a empezar desde cero en cada oportunidad. El sistema actual le genera frustración, incertidumbre y una sensación de estancamiento, pese a su motivación por mejorar.
+
+**USER PERSONA: Alejandro Dominguez**
+![Scenario Mapping 1](Assets/Scenario-Mapping1.jpg)
+El proceso de encontrar una niñera confiable para Alejandro ocurre principalmente bajo presión y con poco tiempo de anticipación. Esto lo obliga a recurrir a contactos y decisiones rápidas, sin contar con referencias verificadas o una base confiable de candidatas. El proceso genera estrés, y en muchas ocasiones una carga mental adicional al intentar equilibrar su vida laboral y familiar. Aunque logra resolver el problema de cuidado infantil de forma temporal, la elección de la niñera muchas veces deja una sensación de riesgo, incertidumbre y la necesidad de tener que repetir el proceso en futuras ocasiones, sin garantías de mejor resultado.
+
+
 ## 2.4. Ubiquitous Language. 
+El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya que nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo.
+**Ubiquitous Language – KYDICARE** 
+1. Niñera Verificada: Persona cuidadora que ha pasado el proceso de verificación de identidad, referencias y experiencia por parte de la plataforma.
+
+2. Padre de familia: Persona(s) que busca(n) servicios de cuidado infantil a través de la app para sus hijos.
+
+3. Perfil Profesional: Página personal de la niñera con información relevante como experiencia, certificaciones, disponibilidad, y calificaciones.
+
+4. Solicitud de Servicio: Acción iniciada por un padre para contactar y contratar una niñera en una fecha y horario específicos.
+
+5. Match Seguro: Coincidencia entre niñera y familia basada en filtros (ubicación, disponibilidad, experiencia) y políticas de seguridad.
+
+6. Calificación y Reseña: Sistema de evaluación que permite a los usuarios valorar la experiencia después de cada servicio.
+
+7. Verificación de Identidad: Proceso obligatorio para todas las niñeras antes de publicar su perfil, incluyendo documentos, entrevistas o chequeo de antecedentes.
+
+8. Reservación Confirmada: Estado del servicio cuando ambas partes (niñera y padre) han aceptado los términos y se ha fijado el horario.
+
+9. Panel de Seguridad: Conjunto de funciones dentro de la app que aseguran la transparencia y protección de todos los usuarios (verificación, soporte, seguimiento en tiempo real).
+
 # Capítulo III: Requirements Specification 
 ## 3.1. To-Be Scenario Mapping.
 
