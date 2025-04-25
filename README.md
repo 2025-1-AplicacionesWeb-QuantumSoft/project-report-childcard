@@ -166,21 +166,14 @@ Además, la plataforma permite a los padres calificar el servicio recibido, prop
 
 ### 1.1.2. Perfiles de integrantes del equipo 
 
-####  Nombre: Avila Palacios, Aaron Alexander | U201823654
-![Aaron Avila Palacios](assets/AARON_AVILA.png)  
-> Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.
+| Foto | Nombre | Código | Descripción |
+|------|--------|--------|-------------|
+| ![Aaron Avila Palacios](assets/AARON_AVILA.png) | **Avila Palacios, Aaron Alexander** | U201823654 | > Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne. |
+| ![Walter Luis Fajardo Monrroy](assets/WALTER_FAJARDO.png) | **Walter Luis Fajardo Monrroy** | U202221632 | > Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C++ y Python. También cuento con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo. |
+| ![Joaquin Alberto Cuentas Peña](assets/JOAQUIN_CUENTAS.jpg) | **Joaquin Alberto Cuentas Peña** | U20201F788 | > Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el 5to ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en equipo. |
+| ![Jorge Alexandro Linares Arroyo](assets/JORGE_LINARES.jpeg) | **Jorge Alexandro Linares Arroyo** | U202318624 | > Estudiante de la carrera de Ingeniería de Software, interesado por el mundo tecnológico y cuento con habilidades para formar parte de ello con conocimiento en desarrollo web. Me considero una persona muy perseverante que le gusta hacer las cosas detalladamente y con criterio. |
+| ![Lynn Jeeferzon Meza Camayo](assets/LYNN_MEZA.jpeg) | **Lynn Jeeferzon Meza Camayo** | U20201C320 | > Mi nombre es Lynn Jeeferzon Meza Camayo, tengo 21 años. Me considero un integrante activo, comprometido con el trabajo y con muchas ganas de aprender más de este proyecto y curso. Escogí esta carrera por mi interés en saber cómo se crean la juegos, aplicaciones y software. Me gusta la tecnología, leer novelas ligeras y jugar videojuegos de trabajo en equipo con amigos. Cuento con conocimiento en C++, HTML, Git, JavaScript, Java y SQL. |
 
-![Walter Luis Fajardo Monrroy](assets/WALTER_FAJARDO.png)
-> Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C + + y python, También cuanto con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo.
-
-![Joaquin Alberto Cuentas Peña](assets/JOAQUIN_CUENTAS.jpg)
-> Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el 5to ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en equipo
-
-![Jorge Alexandro Linares Arroyo](assets/JORGE_LINARES.jpeg)
-> Estudiante de la carrera de Ingeniería de Software, interesado por el mundo tecnológico y cuento con habilidades para formar parte de ello con conocimiento en desarrollo web. Me considero una persona muy perseverante que le gusta hacer las cosas detalladamente y con criterio.
-
-![Jorge Alexandro Linares Arroyo](assets/LYNN_MEZA.jpeg)
-Mi nombre es Lynn Jeeferzon Meza Camayo, tengo 21 años. Me considero un integrante activo, comprometido con el trabajo y con muchas ganas de aprender más de este proyecto y curso. Escogí esta carrera por mi interés en saber cómo se crean la juegos, aplicaciones y software. Me gusta la tecnología, leer novelas ligeras y jugar videojuegos de trabajo en equipo con amigos. Cuento con conocimiento en C++, HTML, Git, JavaScript,  Java y SQL.
 
 ## 1.2. Solution Profile 
 ### 1.2.1  Antecedentes y problemática 
