@@ -170,7 +170,7 @@ Nuestro objetivo es comprender las necesidades de nuestros usuarios, por lo tant
 ### What (¿Qué?)
 
 ¿Cuál es el problema abordado?
-“XXXX” La aplicación aborda el problema que enfrentan muchos padres al buscar niñeras confiables y disponibles que se adapten a sus necesidades específicas, tanto en términos de ubicación como de horario.
+La aplicación KYDICARE aborda el problema que enfrentan muchos padres al buscar niñeras confiables y disponibles que se adapten a sus necesidades específicas, tanto en términos de ubicación como de horario.
 ¿Cuál es la relación con la persona en cuestión?
 Los padres que a menudo tienen dificultades para encontrar rápidamente una persona de confianza que cuide de sus hijos y también las niñeras ya que podrán hacer uso de la aplicación para ofrecer sus servicios.
 
@@ -192,7 +192,7 @@ El problema surge en cualquier contexto donde los padres requieran asistencia pa
 ### Who (¿Quienes?)
 
 ¿Quiénes están involucrados?
-“XXXX” está diseñado para servir a dos principales grupos:
+KYDICARE está diseñado para servir a dos principales grupos:
 - Padres y tutores que requieren un cuidador disponible y de confianza
 - Niñeras que cumplen los requisitos solicitados y desean prestar sus servicios.
 ¿Quién lo utilizará?
@@ -222,7 +222,7 @@ El efecto económico es considerable. Numerosas familias no pueden afrontar los 
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Nuestra plataforma "XXXX" tiene como propósito enfrentar un desafío importante en el ámbito del cuidado infantil: la dificultad de conectar a padres con cuidadores confiables. Muchos padres encuentran complicado acceder a opciones de cuidado y educación infantil de calidad en el hogar, lo que genera estrés y dificulta el equilibrio entre el trabajo y la vida familiar. Por otro lado, cuidadores y educadores también enfrentan obstáculos para encontrar familias que requieran sus servicios, lo que reduce sus oportunidades laborales y limita el acceso de las familias a servicios adecuados.
+Nuestra plataforma KYDICARE tiene como propósito enfrentar un desafío importante en el ámbito del cuidado infantil: la dificultad de conectar a padres con cuidadores confiables. Muchos padres encuentran complicado acceder a opciones de cuidado y educación infantil de calidad en el hogar, lo que genera estrés y dificulta el equilibrio entre el trabajo y la vida familiar. Por otro lado, cuidadores y educadores también enfrentan obstáculos para encontrar familias que requieran sus servicios, lo que reduce sus oportunidades laborales y limita el acceso de las familias a servicios adecuados.
 
 Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre padres que buscan un cuidado infantil confiable y cuidadores que desean trabajar? Entendiendo las dificultades que enfrentan ambas partes, proponemos una solución que permita superar esas barreras a través de una plataforma que promueva conexiones efectivas y aumente tanto la disponibilidad como la calidad del cuidado infantil, generando beneficios mutuos para padres y cuidadores.
 
@@ -237,11 +237,11 @@ Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre pad
 
 - Los cuidadores verán con buenos ojos una plataforma que les permita conectarse fácilmente con familias que requieren sus servicios, sobre todo si esta mejora su visibilidad profesional y les brinda mayores oportunidades laborales.
 
-- Contamos con la capacidad técnica y los recursos necesarios para desarrollar y mantener la plataforma **XXXX**, garantizando su correcto funcionamiento y posibilidad de escalar a medida que crece la demanda.
+- Contamos con la capacidad técnica y los recursos necesarios para desarrollar y mantener la plataforma **KYDICARE**, garantizando su correcto funcionamiento y posibilidad de escalar a medida que crece la demanda.
 
 - La facilidad de uso y el acceso intuitivo serán elementos esenciales para el éxito de la plataforma, permitiendo que tanto padres como cuidadores la utilicen sin dificultad, independientemente de su experiencia tecnológica.
 
-- El mercado del cuidado infantil está en expansión y representa una oportunidad significativa para que **XXXX** se establezca como una solución comercial viable.
+- El mercado del cuidado infantil está en expansión y representa una oportunidad significativa para que **KYDICARE** se establezca como una solución comercial viable.
 
 - La protección y confidencialidad de los datos personales serán aspectos centrales, y se confía en que los usuarios valorarán la seguridad con la que se gestionará su información.
 
@@ -255,15 +255,15 @@ Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre pad
 
 ¿Cómo se integra nuestro producto en su vida cotidiana?
 
-- **XXXX** forma parte del día a día de los padres al facilitar la búsqueda y gestión del cuidado infantil, y también se convierte en una herramienta clave para los cuidadores en la búsqueda de oportunidades laborales.
+- **KYDICARE** forma parte del día a día de los padres al facilitar la búsqueda y gestión del cuidado infantil, y también se convierte en una herramienta clave para los cuidadores en la búsqueda de oportunidades laborales.
 
 ¿Qué desafíos enfrenta el producto y cómo pueden solucionarse?
 
-- Entre los retos de XXXX se encuentran garantizar la calidad y confianza en los cuidadores y educadores, incorporar funciones que permitan actualizaciones en tiempo real sobre las actividades de los niños, y mantener a los usuarios activos a través de recursos útiles. Para superarlos, se proponen mecanismos de verificación robustos, herramientas de comunicación y seguimiento en tiempo real, así como contenido educativo valioso para todos los usuarios.
+- Entre los retos de KYDICARE se encuentran garantizar la calidad y confianza en los cuidadores y educadores, incorporar funciones que permitan actualizaciones en tiempo real sobre las actividades de los niños, y mantener a los usuarios activos a través de recursos útiles. Para superarlos, se proponen mecanismos de verificación robustos, herramientas de comunicación y seguimiento en tiempo real, así como contenido educativo valioso para todos los usuarios.
 
 ¿Cuándo y de qué manera se utiliza la plataforma?
 
-- XXXX se utiliza cuando los padres necesitan contratar o gestionar servicios de cuidado infantil, y cuando los cuidadores están en búsqueda de empleo y desean conectarse con familias. La plataforma permite realizar reservas, comunicarse directamente y hacer seguimiento de las actividades relacionadas con el cuidado.
+- KYDICARE se utiliza cuando los padres necesitan contratar o gestionar servicios de cuidado infantil, y cuando los cuidadores están en búsqueda de empleo y desean conectarse con familias. La plataforma permite realizar reservas, comunicarse directamente y hacer seguimiento de las actividades relacionadas con el cuidado.
 
 ¿Qué funcionalidades son esenciales?
 
@@ -271,7 +271,7 @@ Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre pad
 
 ¿Cómo debe lucir y comportarse la plataforma?
 
-- La interfaz de XXXX debe ser clara, amigable y sencilla de usar, permitiendo una navegación fluida para reservar servicios, establecer comunicación entre padres y cuidadores y acceder a recursos útiles. Debe transmitir confianza, seguridad y facilidad de uso para todos los niveles de experiencia tecnológica.
+- La interfaz de KYDICARE debe ser clara, amigable y sencilla de usar, permitiendo una navegación fluida para reservar servicios, establecer comunicación entre padres y cuidadores y acceder a recursos útiles. Debe transmitir confianza, seguridad y facilidad de uso para todos los niveles de experiencia tecnológica.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements. 
 
