@@ -147,9 +147,6 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint n](#521-sprint-n)
-      - [5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
-  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation-1)
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
@@ -189,6 +186,7 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
           <br>
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo en equipo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
+          <br>
           <b>Walter Fajardo: TB1</b><br>
           Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
           Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
@@ -204,8 +202,10 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
           <b>Lynn Meza: TB1</b><br>
           Desarrolle los to-be Scenario map, user sotires, impact map y Product backlog.<br>
           Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.
+          <br>
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo colaborativo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
+          <br>
           <b>Walter Fajardo: TB1</b><br>
           Realice los lean ux proccess, que constaron de los problem statements, assumptions, canvas y segmentos objetivo además de la implementacion de la seccion de consulta en la landing page
         </td>
@@ -1501,12 +1501,6 @@ Hemos seleccionado GitHub Pages como plataforma para alojar el sitio web estáti
 
    - En este caso, el **Link del Landing Page desplegado del proyecto KYDICARE** es:
      [Landing Page KYDICARE](https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/)
-
-## 5.2. Landing Page, Services & Applications Implementation.
-
-### 5.2.1. Sprint n
-
-#### 5.2.1.1. Sprint Planning n.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
