@@ -42,9 +42,9 @@ URL del repositorio del project Report : [https://github.com/2025-1-Aplicaciones
 **_TB1_**
 Entregrable 1 o TB1 : (25/04/25)
 
-**_TB1_**
+![commit-report](./assets/tb1-colaboration-entrega.png)
 
-Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboracion del informe de la siguiente manera:
+![branch-report](./assets/tb1-branch-entrega.png)
 
 ## CONTENIDO
 
