@@ -1092,7 +1092,7 @@ Estructura básica
   
   4. **Verificar el despliegue:**
     - En este caso, el **Link del Landing Page desplegado del proyecto KYDICARE** es:  
-     [Landing Page SafeChild](https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/)
+     [Landing Page KYDICARE](https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/)
 
 
 ## 5.2. Landing Page, Services & Applications Implementation. 
