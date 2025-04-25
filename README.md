@@ -50,31 +50,15 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-      - [Nombre: Avila Palacios, Aaron Alexander | U201823654](#nombre-avila-palacios-aaron-alexander--u201823654)
   - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1  Antecedentes y problemática](#121--antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process.](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores.](#21-competidores)
-    - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas.](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding.](#23-needfinding)
-    - [2.3.1. User Personas.](#231-user-personas)
-    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
-    - [1.2.1  Antecedentes y problemática](#121--antecedentes-y-problemática)
+    - [What (¿Qué?)](#what-qué)
+    - [When (¿Cuándo?)](#when-cuándo)
+    - [Where (¿Donde?)](#where-donde)
+    - [Who (¿Quienes?)](#who-quienes)
+    - [Why (¿Por qué?)](#why-por-qué)
+    - [How (¿Cómo?)](#how-cómo)
+    - [How much (¿Cuánto?)](#how-much-cuánto)
     - [1.2.2 Lean UX Process.](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
@@ -97,10 +81,6 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
-  - [3.2. User Stories.](#32-user-stories)
-  - [3.3. Impact Mapping.](#33-impact-mapping)
-  - [3.4. Product Backlog.](#34-product-backlog)
   - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
   - [3.2. User Stories.](#32-user-stories)
   - [3.3. Impact Mapping.](#33-impact-mapping)
@@ -158,22 +138,7 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product.](#54-video-about-the-product)
-      - [5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
-      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
-      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews.](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team.](#video-about-the-team)
   - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
   - [Video About-the-Team.](#video-about-the-team)
   - [Bibliografía Anexos](#bibliografía-anexos)
@@ -220,49 +185,192 @@ Además, la plataforma permite a los padres calificar el servicio recibido, prop
 
 ## 1.2. Solution Profile 
 ### 1.2.1  Antecedentes y problemática 
+Actualmente, debido a los ritmos acelerados de vida y las múltiples responsabilidades que enfrentan las familias modernas, encontrar una niñera de confianza se ha convertido en un desafío constante. La falta de tiempo para realizar búsquedas exhaustivas, la incertidumbre sobre la disponibilidad de las cuidadoras y la dificultad para verificar referencias confiables generan preocupación en los padres que buscan garantizar el bienestar de sus hijos. Además, la oferta de servicios de cuidado infantil muchas veces se encuentra dispersa y poco organizada, lo que dificulta aún más el proceso de selección. Esta situación, sumada a la creciente necesidad de conciliar la vida laboral y familiar, resalta la importancia de contar con soluciones prácticas y seguras que faciliten la conexión entre padres y niñeras capacitadas
+
+Nuestro objetivo es comprender las necesidades de nuestros usuarios, por lo tanto, hemos analizamos sus historiales y la problemática bajo el enfoque de las 5 ‘W’s y 2 ‘H’s.
+
+### What (¿Qué?)
+
+¿Cuál es el problema abordado?
+La aplicación KYDICARE aborda el problema que enfrentan muchos padres al buscar niñeras confiables y disponibles que se adapten a sus necesidades específicas, tanto en términos de ubicación como de horario.
+¿Cuál es la relación con la persona en cuestión?
+Los padres que a menudo tienen dificultades para encontrar rápidamente una persona de confianza que cuide de sus hijos y también las niñeras ya que podrán hacer uso de la aplicación para ofrecer sus servicios.
+
+### When (¿Cuándo?)
+
+¿Cuándo sucede el problema?
+El problema ocurre en la vida diaria, especialmente cuando los padres necesitan equilibrar sus responsabilidades laborales, personales o sociales y requieren apoyo confiable para el cuidado infantil
+¿Cuándo utiliza el cliente el producto?
+Los usuarios utilizan la aplicación cuando necesitan buscar, contactar o agendar una niña, ya sea en situaciones de urgencia o con antelación. La flexibilidad de la aplicación permite que sea útil en cualquier momento que surja esta necesidad.
+
+
+### Where (¿Donde?)
+
+¿Dónde está el usuario cuando usa el producto?
+Generalmente, el usuario se encuentra en su hogar, en el trabajo o en movimiento cuando utiliza la aplicación, dado que se trata de una plataforma digital accesible desde cualquier dispositivo con conexión a internet.
+¿Dónde surge el problema?
+El problema surge en cualquier contexto donde los padres requieran asistencia para el cuidado de sus hijos y no cuenten con un apoyo inmediato o un acceso fácil a servicios confiables de niñeras.
+
+### Who (¿Quienes?)
+
+¿Quiénes están involucrados?
+KYDICARE está diseñado para servir a dos principales grupos:
+- Padres y tutores que requieren un cuidador disponible y de confianza
+- Niñeras que cumplen los requisitos solicitados y desean prestar sus servicios.
+¿Quién lo utilizará?
+El producto será utilizado principalmente por padres y  tutores en busca de cuidado infantil, así como por niñeras que desean ofrecer sus servicios y gestionar su disponibilidad.
+
+### Why (¿Por qué?)
+
+¿Cuál es la causa del problema?
+La creciente carga laboral y las agendas ocupadas, sumadas a la dificultad para encontrar servicios confiables de cuidado infantil de forma rápida y sencilla, hacen que muchas familias se enfrenten a complicaciones al buscar apoyo para el cuidado de sus hijos.
+
+### How (¿Cómo?)
+
+¿En qué condiciones los clientes usan nuestro producto?
+Nuestros usuarios pueden usar el producto cumpliendo la única condición de contar con un aparato tecnológico mediante el cual puedan acceder al aplicativo y emplear las opciones que ofrecemos. 
+¿Cómo nos conocieron los compradores?
+Nuestros clientes pueden conocer nuestro producto por recomendaciones de conocidos o publicidad en línea. 
+¿Cómo prefieren los lectores acceder a nuestro contenido?
+Nuestros usuarios prefieren una plataforma que ofrezca información clara, segura y verificada, la cual permita comparar opciones de niñeras, revisar calificaciones de otros usuarios y contar con un proceso sencillo de contacto y contratación.
+¿Qué llevó a la persona a llegar a esta situación?
+Las personas pudieron verse afectadas por factores como la falta de tiempo, la ausencia de contactos de confianza para el cuidado infantil, o la necesidad de contar con alternativas confiables y flexibles, entre otras molestias llevaron a los usuarios a buscar una solución óptima como esta aplicación.
+
+### How much (¿Cuánto?)
+
+El efecto económico es considerable. Numerosas familias no pueden afrontar los altos costos del cuidado infantil, lo que frecuentemente las lleva a tomar decisiones que podrían afectar negativamente el bienestar de sus hijos. La falta de cuidadores calificados también contribuye al aumento de los precios, lo que dificulta aún más el acceso a un cuidado infantil de calidad, perpetuando así las desigualdades sociales y económicas. Sumado a ello existe una fuerte desconfianza de los padres respecto a confiar a sus hijos a otras personas al no contar con referencias.
+
 ### 1.2.2 Lean UX Process. 
+
 #### 1.2.2.1. Lean UX Problem Statements.
+
+Nuestra plataforma KYDICARE tiene como propósito enfrentar un desafío importante en el ámbito del cuidado infantil: la dificultad de conectar a padres con cuidadores confiables. Muchos padres encuentran complicado acceder a opciones de cuidado y educación infantil de calidad en el hogar, lo que genera estrés y dificulta el equilibrio entre el trabajo y la vida familiar. Por otro lado, cuidadores y educadores también enfrentan obstáculos para encontrar familias que requieran sus servicios, lo que reduce sus oportunidades laborales y limita el acceso de las familias a servicios adecuados.
+
+Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre padres que buscan un cuidado infantil confiable y cuidadores que desean trabajar? Entendiendo las dificultades que enfrentan ambas partes, proponemos una solución que permita superar esas barreras a través de una plataforma que promueva conexiones efectivas y aumente tanto la disponibilidad como la calidad del cuidado infantil, generando beneficios mutuos para padres y cuidadores.
+
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+**Business Assumptions**
 
-#### 1.2.2.4. Lean UX Canvas.
+- Se espera que los padres estén abiertos a utilizar una solución digital para encontrar cuidadores confiables, especialmente si esta ofrece perfiles verificados y opciones personalizadas que se ajusten a sus necesidades de cuidado infantil.
 
-## 1.3. Segmentos objetivo.
+- La necesidad de servicios de alta calidad en el cuidado infantil está en aumento, impulsada por una mayor preocupación por la seguridad y el desarrollo de los niños en entornos domésticos.
 
-# Capítulo II: Requirements Elicitation & Analysis
+- Los cuidadores verán con buenos ojos una plataforma que les permita conectarse fácilmente con familias que requieren sus servicios, sobre todo si esta mejora su visibilidad profesional y les brinda mayores oportunidades laborales.
 
-## 2.1. Competidores.
+- Contamos con la capacidad técnica y los recursos necesarios para desarrollar y mantener la plataforma **KYDICARE**, garantizando su correcto funcionamiento y posibilidad de escalar a medida que crece la demanda.
 
-### 2.1.1. Análisis competitivo.
+- La facilidad de uso y el acceso intuitivo serán elementos esenciales para el éxito de la plataforma, permitiendo que tanto padres como cuidadores la utilicen sin dificultad, independientemente de su experiencia tecnológica.
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
+- El mercado del cuidado infantil está en expansión y representa una oportunidad significativa para que **KYDICARE** se establezca como una solución comercial viable.
 
-## 2.2. Entrevistas.
+- La protección y confidencialidad de los datos personales serán aspectos centrales, y se confía en que los usuarios valorarán la seguridad con la que se gestionará su información.
 
-### 2.2.1. Diseño de entrevistas.
+- La plataforma tendrá la capacidad de ajustarse a diversas necesidades educativas y de cuidado infantil, lo que atraerá a una amplia gama de usuarios en busca de servicios confiables, flexibles y de calidad.
 
-### 2.2.2. Registro de entrevistas.
+**User Assumptions**
 
-### 2.2.3. Análisis de entrevistas.
+¿Quiénes son nuestros usuarios?
 
-## 2.3. Needfinding.
+- Nos dirigimos principalmente a padres que necesitan encontrar cuidadores confiables para el cuidado infantil en el hogar, así como a los cuidadores que desean ofrecer sus servicios a estas familias.
 
-### 2.3.1. User Personas.
+¿Cómo se integra nuestro producto en su vida cotidiana?
 
-### 2.3.2. User Task Matrix.
+- **KYDICARE** forma parte del día a día de los padres al facilitar la búsqueda y gestión del cuidado infantil, y también se convierte en una herramienta clave para los cuidadores en la búsqueda de oportunidades laborales.
 
-### 2.3.3. User Journey Mapping.
+¿Qué desafíos enfrenta el producto y cómo pueden solucionarse?
 
-### 2.3.4. Empathy Mapping.
+- Entre los retos de KYDICARE se encuentran garantizar la calidad y confianza en los cuidadores y educadores, incorporar funciones que permitan actualizaciones en tiempo real sobre las actividades de los niños, y mantener a los usuarios activos a través de recursos útiles. Para superarlos, se proponen mecanismos de verificación robustos, herramientas de comunicación y seguimiento en tiempo real, así como contenido educativo valioso para todos los usuarios.
 
-### 2.3.5. As-is Scenario Mapping.
+¿Cuándo y de qué manera se utiliza la plataforma?
 
-## 2.4. Ubiquitous Language.
+- KYDICARE se utiliza cuando los padres necesitan contratar o gestionar servicios de cuidado infantil, y cuando los cuidadores están en búsqueda de empleo y desean conectarse con familias. La plataforma permite realizar reservas, comunicarse directamente y hacer seguimiento de las actividades relacionadas con el cuidado.
 
-# Capítulo III: Requirements Specification
+¿Qué funcionalidades son esenciales?
 
+- Algunas características clave incluyen: perfiles verificados de cuidadores, opciones de personalización según las necesidades de cada familia, notificaciones en tiempo real sobre las actividades de los niños y acceso a materiales educativos relevantes.
+
+¿Cómo debe lucir y comportarse la plataforma?
+
+- La interfaz de KYDICARE debe ser clara, amigable y sencilla de usar, permitiendo una navegación fluida para reservar servicios, establecer comunicación entre padres y cuidadores y acceder a recursos útiles. Debe transmitir confianza, seguridad y facilidad de uso para todos los niveles de experiencia tecnológica.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements. 
+
+<ol> <li><b>Creemos que</b> los padres valorarán poder encontrar y elegir cuidadores verificados según sus necesidades específicas. <b>Sabremos que</b> esto es cierto <b>cuando</b> detectemos una alta retención de usuarios y un aumento constante en las reservas dentro de la plataforma.</li> <li><b>Creemos que</b> los cuidadores apreciarán lo intuitiva que es la plataforma para conectarse con familias que requieren sus servicios. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un crecimiento en la cantidad de cuidadores activos y registrados, junto con una elevada interacción con los perfiles familiares.</li> <li><b>Creemos que</b> establecer un proceso exhaustivo de verificación para cuidadores y educadores incrementará la confianza de los padres en la plataforma. <b>Sabremos que</b> esto es cierto <b>cuando</b> veamos una reducción en las dudas relacionadas con la seguridad y un incremento en usuarios que finalizan su registro y confirman sus reservas.</li> <li><b>Creemos que</b> incluir actualizaciones en tiempo real sobre las actividades de los niños influirá positivamente en la decisión de los padres de usar la plataforma. <b>Sabremos que</b> esto es cierto <b>cuando</b> identifiquemos un uso frecuente de esta función y comentarios positivos por parte de los padres en sus evaluaciones.</li> <li><b>Creemos que</b> brindar recursos educativos y herramientas para seguir el desarrollo infantil ayudará a retener tanto a padres como a cuidadores. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un uso sostenido de estas funcionalidades y una mayor lealtad de los usuarios con el tiempo.</li> </ol>
+
+#### 1.2.2.4. Lean UX Canvas. 
+
+<table>
+  <tr>
+    <th valign="top">
+      <p><b>1. Business Problem</b></p>
+      <p>En Perú, la demanda por servicios de cuidado infantil está creciendo, pero el acceso a cuidadores confiables y calificados sigue siendo limitado. Esto genera dificultades tanto para las familias, que enfrentan estrés por la falta de opciones seguras, como para los cuidadores, que encuentran obstáculos para acceder a oportunidades laborales estables. La carencia de una herramienta eficiente que los conecte intensifica esta problemática.</p>
+    </th>
+    <th valign="top">
+      <p><b>2. Business Outcomes</b></p>
+      <p>- Mayor retención de usuarios, tanto padres como cuidadores.</p>
+      <p>- Crecimiento en el número de reservas repetidas.</p>
+      <p>- Niveles más altos de satisfacción entre los usuarios.</p>
+      <p>- Ampliación de la comunidad de usuarios en la plataforma.</p>
+    </th>
+    <th rowspan="2" valign="top">
+      <p><b>5. Solutions</b></p>
+      <p>- Crear una plataforma que facilite el contacto entre padres y cuidadores verificados.</p>
+      <p>- Incluir funciones como programación de servicios, notificaciones en tiempo real, materiales educativos y seguimiento del desarrollo infantil.</p>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b>3. Users</b></p>
+      <p>- Usuarios principales: Padres que requieren apoyo en el cuidado y educación de sus hijos en casa.</p>
+      <p>- Usuarios secundarios: Niñeras, tutores y educadores que buscan conectar con familias.</p>
+      <p>- Clientes: Familias que contratan servicios, y cuidadores que pagan por visibilidad o acceso a más oportunidades.</p>
+    </td>
+    <td valign="top">
+      <p><b>4. User Benefits</b></p>
+      <p>- Para padres: Posibilidad de acceder a cuidadores y educadores verificados, agendar servicios a medida, y recibir información en tiempo real sobre sus hijos.</p>
+      <p>- Para cuidadores: Acceso directo a empleos y una plataforma que valida y destaca sus habilidades y experiencia.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b>6. Hypothesis</b></p>
+      <p>- Creemos que los padres valorarán poder buscar y elegir cuidadores verificados. Sabremos que esto es cierto al ver una alta retención de usuarios y un aumento en las reservas realizadas.</p>
+      <p>- Creemos que los cuidadores apreciarán la facilidad para conectarse con familias. Sabremos que esto es cierto al observar más cuidadores activos y registrados, y mayor interacción con perfiles de familias.</p>
+      <p>- Creemos que un sistema de verificación sólido fortalecerá la confianza de los padres. Sabremos que esto es cierto si disminuyen las dudas sobre seguridad y aumentan los registros completos y las reservas confirmadas.</p>
+      <p>- Creemos que las actualizaciones en tiempo real serán clave para los padres. Sabremos que esto es cierto si la función se usa con frecuencia y los padres expresan mayor satisfacción.</p>
+      <p>- Creemos que proveer recursos educativos y herramientas de monitoreo del desarrollo infantil ayudará a mantener a los usuarios activos. Sabremos que esto es cierto si se da un uso continuo y mayor lealtad con el tiempo.</p>
+    </td>
+    <td valign="top">
+      <p><b>7. What’s the most important thing we need to learn first?</b></p>
+      <p>Es crucial confirmar si los usuarios valoran aspectos como seguridad, personalización y calidad del servicio que ofrece la plataforma.</p>
+    </td>
+    <td valign="top">
+      <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
+      <p>Lanzaremos una versión beta que incluya las funciones principales y evaluaremos la respuesta y comentarios de los usuarios para validar la propuesta de valor.</p>
+    </td>
+  </tr>
+</table>
+
+
+## 1.3. Segmentos objetivo. 
+# Capítulo II: Requirements Elicitation & Analysis 
+## 2.1. Competidores. 
+### 2.1.1. Análisis competitivo. 
+### 2.1.2. Estrategias y tácticas frente a competidores. 
+## 2.2. Entrevistas. 
+### 2.2.1. Diseño de entrevistas. 
+### 2.2.2. Registro de entrevistas. 
+### 2.2.3. Análisis de entrevistas. 
+## 2.3. Needfinding. 
+### 2.3.1. User Personas. 
+### 2.3.2. User Task Matrix. 
+### 2.3.3. User Journey Mapping. 
+### 2.3.4. Empathy Mapping. 
+### 2.3.5. As-is Scenario Mapping. 
+## 2.4. Ubiquitous Language. 
+# Capítulo III: Requirements Specification 
 ## 3.1. To-Be Scenario Mapping.
 
 - Tutores
