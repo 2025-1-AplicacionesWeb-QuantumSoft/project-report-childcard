@@ -50,8 +50,9 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+      - [Nombre: Avila Palacios, Aaron Alexander | U201823654](#nombre-avila-palacios-aaron-alexander--u201823654)
   - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.1  Antecedentes y problemática](#121--antecedentes-y-problemática)
     - [1.2.2 Lean UX Process.](#122-lean-ux-process)
       - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
@@ -158,20 +159,25 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     </tr>
 </table>
 
-# Capítulo I: Introducción
+# Capítulo I: Introducción 
+## 1.1. Startup Profile 
+### 1.1.1. Descripción de la Startup 
+KYDICARE Es una innovadora plataforma tecnológica diseñada para transformar la manera en que los padres se encuentran y contratan niñeras, ofreciendo una experiencia completa que no solo simplifica, sino que también optimiza el proceso de selección y contratación. Esta aplicación está pensada para familias que buscan un enfoque personalizado y eficiente al momento de elegir a la persona encargada del cuidado de sus hijos. Con esta herramienta, los usuarios pueden buscar cuidadoras por ubicación, consultar su disponibilidad y agendar horarios de manera flexible, garantizando que siempre encontrarán la opción que mejor se adapta a sus necesidades.
 
-## 1.1. Startup Profile
+Además, la plataforma permite a los padres calificar el servicio recibido, proporcionando retroalimentación valiosa que ayuda a las niñeras a mejorar continuamente y fortalecer su reputación dentro de la comunidad. Las cuidadoras, por su parte, pueden gestionar su perfil de manera intuitiva, mostrando su disponibilidad y recibiendo recomendaciones que les permiten destacarse en la plataforma. Gracias a su diseño accesible y funcionalidades pensadas para la comodidad de los usuarios, esta aplicación se posiciona como una aliada confiable para quienes buscan tranquilidad y confianza al momento de contratar servicios de cuidado infantil.
 
-### 1.1.1. Descripción de la Startup
+### 1.1.2. Perfiles de integrantes del equipo 
 
-### 1.1.2. Perfiles de integrantes del equipo
+####  Nombre: Avila Palacios, Aaron Alexander | U201823654
+![Aaron Avila Palacios](assets/AARON_AVILA.png)  
+> Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.
 
-## 1.2. Solution Profile
+![Walter Luis Fajardo Monrroy](assets/WALTER_FAJARDO.png)
+> Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C + + y python, También cuanto con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo.
 
-### 1.2.1 Antecedentes y problemática
-
-### 1.2.2 Lean UX Process.
-
+## 1.2. Solution Profile 
+### 1.2.1  Antecedentes y problemática 
+### 1.2.2 Lean UX Process. 
 #### 1.2.2.1. Lean UX Problem Statements.
 
 #### 1.2.2.2. Lean UX Assumptions.
