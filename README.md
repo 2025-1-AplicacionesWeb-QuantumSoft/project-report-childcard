@@ -705,7 +705,7 @@ El viaje de Alejandro al buscar una niñera refleja una profunda necesidad de co
 El proceso de buscar trabajo como niñera es demandante emocionalmente. Mafer depende de canales poco convencionales como grupos de Facebook o WhatsApp, lo que limita su visibilidad profesional y genera inseguridad constante sobre su capacidad para destacar entre tantas opciones. Luego de un largo tiempo de espera, durante la postulación, enfrenta entrevistas muy variables de acuerdo al carácter del padre de familia. Una vez contratada, no siempre recibe continuidad laboral ni reconocimiento profesional, lo cual la obliga a empezar desde cero en cada oportunidad. El sistema actual le genera frustración, incertidumbre y una sensación de estancamiento, pese a su motivación por mejorar.
 
 **USER PERSONA: Alejandro Dominguez**
-![Scenario Mapping 1](Assets/Scenario-Mapping1.jpg)
+![Scenario Mapping 1](assets/Scenario%20Mapping%20Alejandro.jpg)
 El proceso de encontrar una niñera confiable para Alejandro ocurre principalmente bajo presión y con poco tiempo de anticipación. Esto lo obliga a recurrir a contactos y decisiones rápidas, sin contar con referencias verificadas o una base confiable de candidatas. El proceso genera estrés, y en muchas ocasiones una carga mental adicional al intentar equilibrar su vida laboral y familiar. Aunque logra resolver el problema de cuidado infantil de forma temporal, la elección de la niñera muchas veces deja una sensación de riesgo, incertidumbre y la necesidad de tener que repetir el proceso en futuras ocasiones, sin garantías de mejor resultado.
 
 ## 2.4. Ubiquitous Language.
