@@ -16,12 +16,12 @@
 
 <div align="center">
 
-| Miembro                        |   Código   |
-| :----------------------------- | :--------: |
-| Meza Camayo, Lynn Jeeferzon    | U20201C320 |
-| Fajardo Monrroy, Walter Luis   | U202221632 |
-| Cuentas Peña, Joaquin Alberto  | U20201F788 |
-| Linares Arroyo, Jorge Alexandro  | U202318624 |
+| Miembro                         |   Código   |
+| :------------------------------ | :--------: |
+| Meza Camayo, Lynn Jeeferzon     | U20201C320 |
+| Fajardo Monrroy, Walter Luis    | U202221632 |
+| Cuentas Peña, Joaquin Alberto   | U20201F788 |
+| Linares Arroyo, Jorge Alexandro | U202318624 |
 | Avila Palacios, Aarón Alexander | U201823654 |
 
 </div>
@@ -29,17 +29,19 @@
 
 ## REGISTRO DE VERSIONES
 
-| Versión  |   Fecha   |       Autor     |           Descripción de Modificación           |
-|----------|-----------|-----------------|-------------------------------------------------|
-|    0.1   | 03/04/25  |     Lynn Meza   | Desarrollo de la Structura del informe          |
-|    0.1   | 20/04/25  | Aaron Avila     | Registro y analisis de entrevista               |
-|       |   |        |                  |
+| Versión | Fecha    | Autor       | Descripción de Modificación            |
+| ------- | -------- | ----------- | -------------------------------------- |
+| 0.1     | 03/04/25 | Lynn Meza   | Desarrollo de la Structura del informe |
+| 0.1     | 20/04/25 | Aaron Avila | Registro y analisis de entrevista      |
+|         |          |             |                                        |
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
 URL del repositorio del project Report : [https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard](https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard)
 
 **_TB1_**
+Entregrable 1 o TB1 : (25/04/25)
+
 **_TB1_**
 
 Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboracion del informe de la siguiente manera:
@@ -47,12 +49,13 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 ## CONTENIDO
 
 ### Tabla de contenido
+
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1  Antecedentes y problemática](#121--antecedentes-y-problemática)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
     - [What (¿Qué?)](#what-qué)
     - [When (¿Cuándo?)](#when-cuándo)
     - [Where (¿Donde?)](#where-donde)
@@ -162,7 +165,6 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 
 ### Tabla de imagenes
 
-
 ## STUDENT OUTCOME
 
 <table>
@@ -173,36 +175,54 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     </tr>
     <tr>
         <th>Trabaja en equipo para proporcionar liderazgo en forma conjunta</th>
-        <td></td>
-        <td></td>
+        <td>
+          <b>Lynn: TB1</b><br>
+          Fomentó la colaboración y el crecimiento compartido al participar en el desarrollo de los to-be Scenario map, user sotires, impact map y Product backlog.<br>
+          Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.<br>
+        </td>
+        <td>
+          <b>Lynn: TB1</b><br>
+          En conclusión, a través de un liderazgo colaborativo, nuestro equipo logró desarrollar exitosamente la landing page del producto, integrando habilidades complementarias y tomando decisiones conjuntas en cada etapa. Desde el análisis inicial hasta la implementación final, la comunicación constante, la distribución equitativa de responsabilidades y la retroalimentación grupal nos permitieron alinear objetivos garantizando un producto centrado en el usuario. Este proyecto evidenció que el trabajo en equipo, con un liderazgo compartido y flexible, es fundamental para impulsar soluciones innovadoras y alcanzar resultados sólidos de manera eficiente.
+        </td>
     </tr>
     <tr>
         <th>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</th>
-        <td></td>
-        <td></td>
+        <td>
+          <b>Lynn: TB1</b><br>
+          Desarrollo los to-be Scenario map, user sotires, impact map y Product backlog.<br>
+          Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.
+        </td>
+        <td>
+          <b>TB1:</b><br>
+          En conclucion, El desarrollo de nuestra app de tutores y cuidadores se reflejó un liderazgo colaborativo, donde el equipo trabajó de manera articulada en cada fase, desde el análisis de la problematica y los segmentos objetivos hasta la implementación ágil con sprints . La integración de metodologías Lean UX ayudo en el diseño centrado en el usuario, permitiendo entregar una solución viable y funcional. Este proyecto demostró que el trabajo en equipo, con roles definidos y comunicación constante, es clave para transformar ideas en productos digitales efectivos, superando desafíos técnicos y de usabilidad con un enfoque conjunto.
+        </td>
     </tr>
 </table>
 
-# Capítulo I: Introducción 
-## 1.1. Startup Profile 
-### 1.1.1. Descripción de la Startup 
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+
 KYDICARE Es una innovadora plataforma tecnológica diseñada para transformar la manera en que los padres se encuentran y contratan niñeras, ofreciendo una experiencia completa que no solo simplifica, sino que también optimiza el proceso de selección y contratación. Esta aplicación está pensada para familias que buscan un enfoque personalizado y eficiente al momento de elegir a la persona encargada del cuidado de sus hijos. Con esta herramienta, los usuarios pueden buscar cuidadoras por ubicación, consultar su disponibilidad y agendar horarios de manera flexible, garantizando que siempre encontrarán la opción que mejor se adapta a sus necesidades.
 
 Además, la plataforma permite a los padres calificar el servicio recibido, proporcionando retroalimentación valiosa que ayuda a las niñeras a mejorar continuamente y fortalecer su reputación dentro de la comunidad. Las cuidadoras, por su parte, pueden gestionar su perfil de manera intuitiva, mostrando su disponibilidad y recibiendo recomendaciones que les permiten destacarse en la plataforma. Gracias a su diseño accesible y funcionalidades pensadas para la comodidad de los usuarios, esta aplicación se posiciona como una aliada confiable para quienes buscan tranquilidad y confianza al momento de contratar servicios de cuidado infantil.
 
-### 1.1.2. Perfiles de integrantes del equipo 
+### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Nombre | Código | Descripción |
-|------|--------|--------|-------------|
-| ![Aaron Avila Palacios](assets/AARON_AVILA.png) | **Avila Palacios, Aaron Alexander** | U201823654 | > Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne. |
-| ![Walter Luis Fajardo Monrroy](assets/WALTER_FAJARDO.png) | **Walter Luis Fajardo Monrroy** | U202221632 | > Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C++ y Python. También cuento con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo. |
-| ![Joaquin Alberto Cuentas Peña](assets/JOAQUIN_CUENTAS.jpg) | **Joaquin Alberto Cuentas Peña** | U20201F788 | > Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el 5to ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en equipo. |
-| ![Jorge Alexandro Linares Arroyo](assets/JORGE_LINARES.jpeg) | **Jorge Alexandro Linares Arroyo** | U202318624 | > Estudiante de la carrera de Ingeniería de Software, interesado por el mundo tecnológico y cuento con habilidades para formar parte de ello con conocimiento en desarrollo web. Me considero una persona muy perseverante que le gusta hacer las cosas detalladamente y con criterio. |
-| ![Lynn Jeeferzon Meza Camayo](assets/LYNN_MEZA.jpeg) | **Lynn Jeeferzon Meza Camayo** | U20201C320 | > Mi nombre es Lynn Jeeferzon Meza Camayo, tengo 21 años. Me considero un integrante activo, comprometido con el trabajo y con muchas ganas de aprender más de este proyecto y curso. Escogí esta carrera por mi interés en saber cómo se crean la juegos, aplicaciones y software. Me gusta la tecnología, leer novelas ligeras y jugar videojuegos de trabajo en equipo con amigos. Cuento con conocimiento en C++, HTML, Git, JavaScript, Java y SQL. |
+| Foto                                                         | Nombre                              | Código     | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------ | ----------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Aaron Avila Palacios](assets/AARON_AVILA.png)              | **Avila Palacios, Aaron Alexander** | U201823654 | > Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.                                                                                                                                                                                        |
+| ![Walter Luis Fajardo Monrroy](assets/WALTER_FAJARDO.png)    | **Walter Luis Fajardo Monrroy**     | U202221632 | > Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C++ y Python. También cuento con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo. |
+| ![Joaquin Alberto Cuentas Peña](assets/JOAQUIN_CUENTAS.jpg)  | **Joaquin Alberto Cuentas Peña**    | U20201F788 | > Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el 5to ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en equipo.                                                                                                                                                                                                                                                                                                                                       |
+| ![Jorge Alexandro Linares Arroyo](assets/JORGE_LINARES.jpeg) | **Jorge Alexandro Linares Arroyo**  | U202318624 | > Estudiante de la carrera de Ingeniería de Software, interesado por el mundo tecnológico y cuento con habilidades para formar parte de ello con conocimiento en desarrollo web. Me considero una persona muy perseverante que le gusta hacer las cosas detalladamente y con criterio.                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ![Lynn Jeeferzon Meza Camayo](assets/LYNN_MEZA.jpeg)         | **Lynn Jeeferzon Meza Camayo**      | U20201C320 | > Mi nombre es Lynn Jeeferzon Meza Camayo, tengo 21 años. Me considero un integrante activo, comprometido con el trabajo y con muchas ganas de aprender más de este proyecto y curso. Escogí esta carrera por mi interés en saber cómo se crean la juegos, aplicaciones y software. Me gusta la tecnología, leer novelas ligeras y jugar videojuegos de trabajo en equipo con amigos. Cuento con conocimiento en C++, HTML, Git, JavaScript, Java y SQL.                                                                                                                                                                                                                                                        |
 
+## 1.2. Solution Profile
 
-## 1.2. Solution Profile 
-### 1.2.1  Antecedentes y problemática 
+### 1.2.1 Antecedentes y problemática
+
 Actualmente, debido a los ritmos acelerados de vida y las múltiples responsabilidades que enfrentan las familias modernas, encontrar una niñera de confianza se ha convertido en un desafío constante. La falta de tiempo para realizar búsquedas exhaustivas, la incertidumbre sobre la disponibilidad de las cuidadoras y la dificultad para verificar referencias confiables generan preocupación en los padres que buscan garantizar el bienestar de sus hijos. Además, la oferta de servicios de cuidado infantil muchas veces se encuentra dispersa y poco organizada, lo que dificulta aún más el proceso de selección. Esta situación, sumada a la creciente necesidad de conciliar la vida laboral y familiar, resalta la importancia de contar con soluciones prácticas y seguras que faciliten la conexión entre padres y niñeras capacitadas
 
 Nuestro objetivo es comprender las necesidades de nuestros usuarios, por lo tanto, hemos analizamos sus historiales y la problemática bajo el enfoque de las 5 ‘W’s y 2 ‘H’s.
@@ -221,7 +241,6 @@ El problema ocurre en la vida diaria, especialmente cuando los padres necesitan 
 ¿Cuándo utiliza el cliente el producto?
 Los usuarios utilizan la aplicación cuando necesitan buscar, contactar o agendar una niña, ya sea en situaciones de urgencia o con antelación. La flexibilidad de la aplicación permite que sea útil en cualquier momento que surja esta necesidad.
 
-
 ### Where (¿Donde?)
 
 ¿Dónde está el usuario cuando usa el producto?
@@ -233,10 +252,11 @@ El problema surge en cualquier contexto donde los padres requieran asistencia pa
 
 ¿Quiénes están involucrados?
 KYDICARE está diseñado para servir a dos principales grupos:
+
 - Padres y tutores que requieren un cuidador disponible y de confianza
 - Niñeras que cumplen los requisitos solicitados y desean prestar sus servicios.
-¿Quién lo utilizará?
-El producto será utilizado principalmente por padres y  tutores en busca de cuidado infantil, así como por niñeras que desean ofrecer sus servicios y gestionar su disponibilidad.
+  ¿Quién lo utilizará?
+  El producto será utilizado principalmente por padres y tutores en busca de cuidado infantil, así como por niñeras que desean ofrecer sus servicios y gestionar su disponibilidad.
 
 ### Why (¿Por qué?)
 
@@ -246,9 +266,9 @@ La creciente carga laboral y las agendas ocupadas, sumadas a la dificultad para 
 ### How (¿Cómo?)
 
 ¿En qué condiciones los clientes usan nuestro producto?
-Nuestros usuarios pueden usar el producto cumpliendo la única condición de contar con un aparato tecnológico mediante el cual puedan acceder al aplicativo y emplear las opciones que ofrecemos. 
+Nuestros usuarios pueden usar el producto cumpliendo la única condición de contar con un aparato tecnológico mediante el cual puedan acceder al aplicativo y emplear las opciones que ofrecemos.
 ¿Cómo nos conocieron los compradores?
-Nuestros clientes pueden conocer nuestro producto por recomendaciones de conocidos o publicidad en línea. 
+Nuestros clientes pueden conocer nuestro producto por recomendaciones de conocidos o publicidad en línea.
 ¿Cómo prefieren los lectores acceder a nuestro contenido?
 Nuestros usuarios prefieren una plataforma que ofrezca información clara, segura y verificada, la cual permita comparar opciones de niñeras, revisar calificaciones de otros usuarios y contar con un proceso sencillo de contacto y contratación.
 ¿Qué llevó a la persona a llegar a esta situación?
@@ -258,14 +278,13 @@ Las personas pudieron verse afectadas por factores como la falta de tiempo, la a
 
 El efecto económico es considerable. Numerosas familias no pueden afrontar los altos costos del cuidado infantil, lo que frecuentemente las lleva a tomar decisiones que podrían afectar negativamente el bienestar de sus hijos. La falta de cuidadores calificados también contribuye al aumento de los precios, lo que dificulta aún más el acceso a un cuidado infantil de calidad, perpetuando así las desigualdades sociales y económicas. Sumado a ello existe una fuerte desconfianza de los padres respecto a confiar a sus hijos a otras personas al no contar con referencias.
 
-### 1.2.2 Lean UX Process. 
+### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
 Nuestra plataforma KYDICARE tiene como propósito enfrentar un desafío importante en el ámbito del cuidado infantil: la dificultad de conectar a padres con cuidadores confiables. Muchos padres encuentran complicado acceder a opciones de cuidado y educación infantil de calidad en el hogar, lo que genera estrés y dificulta el equilibrio entre el trabajo y la vida familiar. Por otro lado, cuidadores y educadores también enfrentan obstáculos para encontrar familias que requieran sus servicios, lo que reduce sus oportunidades laborales y limita el acceso de las familias a servicios adecuados.
 
 Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre padres que buscan un cuidado infantil confiable y cuidadores que desean trabajar? Entendiendo las dificultades que enfrentan ambas partes, proponemos una solución que permita superar esas barreras a través de una plataforma que promueva conexiones efectivas y aumente tanto la disponibilidad como la calidad del cuidado infantil, generando beneficios mutuos para padres y cuidadores.
-
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -313,11 +332,11 @@ Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre pad
 
 - La interfaz de KYDICARE debe ser clara, amigable y sencilla de usar, permitiendo una navegación fluida para reservar servicios, establecer comunicación entre padres y cuidadores y acceder a recursos útiles. Debe transmitir confianza, seguridad y facilidad de uso para todos los niveles de experiencia tecnológica.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements. 
+#### 1.2.2.3. Lean UX Hypothesis Statements.
 
 <ol> <li><b>Creemos que</b> los padres valorarán poder encontrar y elegir cuidadores verificados según sus necesidades específicas. <b>Sabremos que</b> esto es cierto <b>cuando</b> detectemos una alta retención de usuarios y un aumento constante en las reservas dentro de la plataforma.</li> <li><b>Creemos que</b> los cuidadores apreciarán lo intuitiva que es la plataforma para conectarse con familias que requieren sus servicios. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un crecimiento en la cantidad de cuidadores activos y registrados, junto con una elevada interacción con los perfiles familiares.</li> <li><b>Creemos que</b> establecer un proceso exhaustivo de verificación para cuidadores y educadores incrementará la confianza de los padres en la plataforma. <b>Sabremos que</b> esto es cierto <b>cuando</b> veamos una reducción en las dudas relacionadas con la seguridad y un incremento en usuarios que finalizan su registro y confirman sus reservas.</li> <li><b>Creemos que</b> incluir actualizaciones en tiempo real sobre las actividades de los niños influirá positivamente en la decisión de los padres de usar la plataforma. <b>Sabremos que</b> esto es cierto <b>cuando</b> identifiquemos un uso frecuente de esta función y comentarios positivos por parte de los padres en sus evaluaciones.</li> <li><b>Creemos que</b> brindar recursos educativos y herramientas para seguir el desarrollo infantil ayudará a retener tanto a padres como a cuidadores. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un uso sostenido de estas funcionalidades y una mayor lealtad de los usuarios con el tiempo.</li> </ol>
 
-#### 1.2.2.4. Lean UX Canvas. 
+#### 1.2.2.4. Lean UX Canvas.
 
 <table>
   <tr>
@@ -371,53 +390,63 @@ Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre pad
   </tr>
 </table>
 
-
 ## 1.3. Segmentos objetivo.
 
 ##### **a)Padres/Tutores:**
+
 Son personas responsables del cuidado de niños que, debido a sus compromisos laborales, personales o imprevistos, requieren de apoyo confiable para garantizar la seguridad y bienestar de sus hijos. Para ellos, ofrecemos una plataforma que facilita la búsqueda y selección de niñeras calificadas, permitiéndoles consultar perfiles verificados, evaluar reseñas de otros usuarios y gestionar contrataciones de manera rápida y segura. La aplicación les brinda tranquilidad al saber que cuentan con acceso a cuidadores confiables que se adaptan a sus horarios y necesidades específicas.
 
 ###### Segmentación Geográfica:
-- **Región:**  Zonas urbanas y suburbanas donde los padres tienen una vida laboral activa y requieren apoyo frecuente con el cuidado infantil.
+
+- **Región:** Zonas urbanas y suburbanas donde los padres tienen una vida laboral activa y requieren apoyo frecuente con el cuidado infantil.
 - **Distribución:** Ciudades medianas y grandes con alta concentración de familias nucleares y profesionales jóvenes, especialmente en zonas con alta densidad de oficinas, centros educativos y servicios.
 
 ###### Segmentación Demográfica:
+
 - **Edad:** Padres, madres o tutores entre 25 y 45 años.
 - **Nivel Socioeconómico:** Clase media y media-alta, con ingresos estables que les permiten invertir en servicios confiables de cuidado infantil..
 - **Ocupación:** Profesionales en activo, emprendedores, trabajadores remotos o híbridos, madres y padres solteros que requieren apoyo adicional.
 
 ###### Segmentación Psicográfica:
+
 - **Estilo de Vida:** Familias modernas con un estilo de vida dinámico, que valoran el equilibrio entre vida laboral y personal, y que buscan soluciones digitales prácticas.
 - **Valores y creencias:** Priorizan la seguridad, la confianza y el bienestar de sus hijos. Valoran la eficiencia, la calidad del servicio y la reputación de las personas a las que confían el cuidado infantil.
 
 ###### Segmentación Conductual:
+
 - **Beneficios Buscados:** Facilidad en el proceso de encontrar niñeras confiables, flexibilidad en la gestión de horarios, transparencia mediante valoraciones y recomendaciones y comunicación directa y fluida con las niñeras.
 - **Uso del Producto:** Uso frecuente, especialmente en días laborales, eventos, o emergencias. También para contrataciones regulares a medio o largo plazo, como apoyo diario o semanal en el hogar
 
 ##### **b) Niñeras/Cuidadores:**
+
 Son profesionales o personas con experiencia en el cuidado infantil que desean conectarse con familias que requieran de sus servicios. Para ellos, nuestra plataforma ofrece la oportunidad de ampliar sus oportunidades laborales, permitiéndoles crear perfiles detallados que destacan sus habilidades, certificaciones y disponibilidad. A través de la aplicación, las niñeras pueden gestionar sus agendas, recibir valoraciones que fortalezcan su reputación y establecer comunicación directa con los padres o tutores interesados ​​en contratarlas, facilitando un proceso transparente y eficiente para ambas partes.
 
 ###### Segmentación Geográfica:
+
 - **Región:** Zonas urbanas y suburbanas con alta densidad de familias y oportunidades laborales en el sector de servicios.
 - **Distribución:** Ciudades medianas y grandes donde existe una demanda constante de cuidado infantil, especialmente en áreas residenciales cercanas a centros educativos, zonas de oficinas y comunidades familiares.
 
 ###### Segmentación Demográfica:
+
 - **Edad: Mujeres y hombres entre 20 y 45 años.**
 - **Nivel Socioeconómico: Clase media o media-baja, con interés en generar ingresos flexibles o complementarios.**
 - **Ocupación:** Estudiantes, jóvenes profesionales del área educativa o de la salud, personas con experiencia previa en el cuidado infantil, madres/padres que desean trabajar cuidando a otros niños, o personas en búsqueda de empleos temporales o medio tiempo.
 
 ###### Segmentación Psicográfica:
+
 - **Estilo de Vida:** Personas activas que buscan flexibilidad laboral, ingresos adicionales o estabilidad en el empleo. Tienden a valorar el trabajo significativo, especialmente aquel relacionado con el cuidado y la formación de los niños.
 - **Valores y creencias:** Valoran el compromiso, la empatía y la responsabilidad. Buscan entornos laborales donde sean valoradas, respetadas y puedan establecer relaciones de confianza con las familias.
 
 ###### Segmentación Conductual:
+
 - **Beneficios Buscados:** Acceso a oportunidades laborales confiables y bien remuneradas, facilidad para gestionar su disponibilidad, visibilidad mediante valoraciones positivas, seguridad en las contrataciones y claridad en las condiciones laborales.
 - **Uso del Producto:** Uso constante para encontrar nuevas oportunidades, mantener comunicación con familias, actualizar su perfil y gestionar horarios. También como herramienta para crear una reputación profesional y acceder a contrataciones a largo plazo.
 
-# Capítulo II: Requirements Elicitation & Analysis 
-## 2.1. Competidores. 
+# Capítulo II: Requirements Elicitation & Analysis
 
-### 2.1.1. Análisis competitivo. 
+## 2.1. Competidores.
+
+### 2.1.1. Análisis competitivo.
 
 A continuación, se presentan algunos de los principales competidores identificados para nuestro proyecto. En esta sección tendremos una breve vista para conocer a nuestros competidores.
 
@@ -426,71 +455,79 @@ A continuación, se presentan algunos de los principales competidores identifica
 **¿Por qué llevar a cabo este análisis?**  
 Este análisis es clave para entender el mercado, las necesidades de los usuarios y cómo Keychild puede ofrecer soluciones innovadoras y efectivas para poder destacarse frente a otras empresas y mejorar el producto.
 
-| Características              | KYDICARE                                                                | Babysits                                                                | Nanny’s App                                                             |
-|-----------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| **Perfil - Overview**       | Plataforma que conecta familias con niñeras locales verificadas, usando preferencias personalizadas. | Plataforma global para conectar padres con niñeras y cuidadores.       | App para contratar niñeras verificadas de forma rápida y sencilla.       |
-| **Ventaja competitiva**     | Perfiles certificados y verificados localmente, opción de entrevistas por videollamada integradas. | Red internacional, gran cantidad de perfiles y calificaciones.          | Contratación inmediata en pocos clics, ideal para eventos puntuales.     |
-| **Mercado objetivo**        | Familias que buscan confianza, personalización y seguridad. Niñeras que buscan publicitar su servicios. | Padres que buscan cuidadoras locales o internacionales confiables.      | Padres con necesidades inmediatas de cuidado infantil.                   |
-| **Estrategias de marketing**| Campañas con influencers en parenting, marketing de contenidos en blogs de crianza, SEO local. | SEO, presencia en redes sociales, campañas digitales y alianzas locales | Publicidad directa, visibilidad en tiendas de apps y eventos.            |
-| **Precios & Costos**        | Freemium: uso básico gratuito, planes premium y soporte prioritario.     | Planes desde gratis hasta membresías premium.                           | Costos por servicio, modelo tipo pay-per-use.                            |
-| **Productos & Servicios**   | Perfiles con verificación documental, entrevistas por videollamada, chat seguro, alertas por geolocalización y reviews verificadas. | Conexión con niñeras, sistema de calificación, perfiles verificados.   | Contratación exprés, perfiles verificados, valoraciones de familias.     |
-| **Canales de distribución** | App móvil (iOS y Android), plataforma web.                                | App móvil (iOS y Android), plataforma web.                              | App móvil (iOS y Android).                                               |
+| Características              | KYDICARE                                                                                                                            | Babysits                                                                | Nanny’s App                                                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Perfil - Overview**        | Plataforma que conecta familias con niñeras locales verificadas, usando preferencias personalizadas.                                | Plataforma global para conectar padres con niñeras y cuidadores.        | App para contratar niñeras verificadas de forma rápida y sencilla.   |
+| **Ventaja competitiva**      | Perfiles certificados y verificados localmente, opción de entrevistas por videollamada integradas.                                  | Red internacional, gran cantidad de perfiles y calificaciones.          | Contratación inmediata en pocos clics, ideal para eventos puntuales. |
+| **Mercado objetivo**         | Familias que buscan confianza, personalización y seguridad. Niñeras que buscan publicitar su servicios.                             | Padres que buscan cuidadoras locales o internacionales confiables.      | Padres con necesidades inmediatas de cuidado infantil.               |
+| **Estrategias de marketing** | Campañas con influencers en parenting, marketing de contenidos en blogs de crianza, SEO local.                                      | SEO, presencia en redes sociales, campañas digitales y alianzas locales | Publicidad directa, visibilidad en tiendas de apps y eventos.        |
+| **Precios & Costos**         | Freemium: uso básico gratuito, planes premium y soporte prioritario.                                                                | Planes desde gratis hasta membresías premium.                           | Costos por servicio, modelo tipo pay-per-use.                        |
+| **Productos & Servicios**    | Perfiles con verificación documental, entrevistas por videollamada, chat seguro, alertas por geolocalización y reviews verificadas. | Conexión con niñeras, sistema de calificación, perfiles verificados.    | Contratación exprés, perfiles verificados, valoraciones de familias. |
+| **Canales de distribución**  | App móvil (iOS y Android), plataforma web.                                                                                          | App móvil (iOS y Android), plataforma web.                              | App móvil (iOS y Android).                                           |
 
 ## Análisis FODA
 
-| Elemento     | KYDICARE                                       | Babysits                                        | Nanny’s App                                      |
-|--------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-| **Fortalezas**   | Comunidad amplia y confiabilidad gracias al sistema de reseñas | Comunidad amplia y sistema de reseñas.          | Cuenta con perfiles verificados.                 |
-| **Oportunidades**| Expandirse a más países, integrar videollamadas | Expandirse a más países, integrar videollamadas o IA para matching | Ampliar su base de datos y servicios complementarios. |
-| **Debilidades**  | Posible saturación de perfiles, alta competencia | Posible saturación de perfiles, alta competencia | Limitado para casos de uso esporádico; menos enfoque en largo plazo |
-| **Amenazas**     | Posible dificultad en encontrar alcance de clientes | Aparición de nuevas plataformas con tecnología más avanzada. | Competencia fuerte y modelos de suscripción más completos |
+| Elemento          | KYDICARE                                                       | Babysits                                                           | Nanny’s App                                                         |
+| ----------------- | -------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **Fortalezas**    | Comunidad amplia y confiabilidad gracias al sistema de reseñas | Comunidad amplia y sistema de reseñas.                             | Cuenta con perfiles verificados.                                    |
+| **Oportunidades** | Expandirse a más países, integrar videollamadas                | Expandirse a más países, integrar videollamadas o IA para matching | Ampliar su base de datos y servicios complementarios.               |
+| **Debilidades**   | Posible saturación de perfiles, alta competencia               | Posible saturación de perfiles, alta competencia                   | Limitado para casos de uso esporádico; menos enfoque en largo plazo |
+| **Amenazas**      | Posible dificultad en encontrar alcance de clientes            | Aparición de nuevas plataformas con tecnología más avanzada.       | Competencia fuerte y modelos de suscripción más completos           |
 
-### 2.1.2. Estrategias y tácticas frente a competidores. 
+### 2.1.2. Estrategias y tácticas frente a competidores.
 
 Estas son las principales estrategias que aplicará KYDICARE para diferenciarse de sus competidores:
- - Ofrecer recomendaciones personalizadas y alertas automáticas de disponibilidad según el historial del usuario.
- - Crear una campaña de marketing emocional enfocada en la seguridad infantil y testimonios reales de familias.
 
- - Incluir un sello de verificación visible en los perfiles y reportes de antecedentes más detallados.
+- Ofrecer recomendaciones personalizadas y alertas automáticas de disponibilidad según el historial del usuario.
+- Crear una campaña de marketing emocional enfocada en la seguridad infantil y testimonios reales de familias.
 
- - Alianzas con instituciones certificadoras o gobiernos locales para reforzar el sistema de validación.
+- Incluir un sello de verificación visible en los perfiles y reportes de antecedentes más detallados.
+
+- Alianzas con instituciones certificadoras o gobiernos locales para reforzar el sistema de validación.
 
 De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada que otras apps del rubro y siendo la más segura del mercado.
 
+## 2.2. Entrevistas.
 
-## 2.2. Entrevistas. 
-### 2.2.1. Diseño de entrevistas. 
-### 2.2.2. Registro de entrevistas. 
-### 2.2.3. Análisis de entrevistas. 
-## 2.3. Needfinding. 
-### 2.3.1. User Personas. 
+### 2.2.1. Diseño de entrevistas.
+
+### 2.2.2. Registro de entrevistas.
+
+### 2.2.3. Análisis de entrevistas.
+
+## 2.3. Needfinding.
+
+### 2.3.1. User Personas.
+
 Los User personas se realizaron en base a las distintas personas que entrevistamos según nuestros segmentos objetivos.
 **Niñera con experiencia:**
 ![María Fernanda User Persona](assets/US%20María%20Fernanda.png)
 **Psicólogo certificado:**
 ![Alejandro Dominguez User Persona](assets/US%20Alejandro%20Dominguez.png)
 
-### 2.3.2. User Task Matrix. 
+### 2.3.2. User Task Matrix.
+
 En esta sección vamos a detallar las tareas que realizan los diferentes segmentos de usuarios representados por los User Personas de Keychild.
 **Niñera con experiencia: María Fernanda**
-| Actividades                          | María Fernanda | Frecuencia     | Importancia |
+| Actividades | María Fernanda | Frecuencia | Importancia |
 |-------------------------------------|------------------|----------------|-------------|
-| Describir su experiencia con familias previas |                  | Frecuentemente | Alta        |
-| Seleccionar su ubicación en el mapa          |                  | Ocasionalmente | Media       |
-| Ver familias en búsqueda de niñera           |                  | Frecuentemente | Alta        |
-| Ver reseñas de familias                      |                  | Ocasionalmente | Media       |
-| Acceder a entrevistas virtuales              |                  | Frecuentemente | Media       |
+| Describir su experiencia con familias previas | | Frecuentemente | Alta |
+| Seleccionar su ubicación en el mapa | | Ocasionalmente | Media |
+| Ver familias en búsqueda de niñera | | Frecuentemente | Alta |
+| Ver reseñas de familias | | Ocasionalmente | Media |
+| Acceder a entrevistas virtuales | | Frecuentemente | Media |
 
 **Padre de familia: Alejandro Dominguez**
-| Actividades                          | Alejandro Dominguez | Frecuencia     | Importancia |
+| Actividades | Alejandro Dominguez | Frecuencia | Importancia |
 |-------------------------------------|----------------------|----------------|-------------|
-| Buscar niñeras                      |                      | Frecuentemente | Alta        |
-| Filtrar niñeras por proximidad      |                      | Frecuentemente | Alta        |
-| Filtrar niñeras por experiencia     |                      | Ocasionalmente | Media       |
-| Agregar descripción familiar        |                      | Ocasionalmente | Media       |
-| Agregar ubicación                   |                      | Frecuentemente | Media       |
+| Buscar niñeras | | Frecuentemente | Alta |
+| Filtrar niñeras por proximidad | | Frecuentemente | Alta |
+| Filtrar niñeras por experiencia | | Ocasionalmente | Media |
+| Agregar descripción familiar | | Ocasionalmente | Media |
+| Agregar ubicación | | Frecuentemente | Media |
 
-### 2.3.3. User Journey Mapping. 
+### 2.3.3. User Journey Mapping.
+
 **USER PERSONA: María Fernanda**
 ![Journey Map 1](assets/Journey%20Map,%20María%20Fernanda.png)
 El viaje de Mafer, una profesional en busca de oportunidades como niñera, es distinto al de Luis en forma pero igual de cargado emocionalmente. Comienza desde una posición de baja visibilidad, con esperanza y aceptación, deseando acceder a oportunidades reales, lo que representa una oportunidad clave para que las plataformas generen confianza inicial a través de rankings, reputación o contenido educativo. En la búsqueda activa de vacantes, la ansiedad se intensifica, haciendo fundamental la transparencia y el seguimiento del estado de las postulaciones. Al ser contactada por padres, Mafer siente entusiasmo y deseo de ser tratada con respeto, por lo que una guía compartida para entrevistas puede mejorar la experiencia para ambas partes. En la etapa de evaluación de ofertas, adopta un enfoque analítico, lo que resalta la utilidad de comparativas claras entre opciones laborales mediante un checklist estándar. Finalmente, al aceptar una oferta, Mafer experimenta tranquilidad y preparación, siendo este el momento ideal para que la plataforma le proporcione herramientas administrativas, como contratos, gestión de horarios y capacitaciones para una buena integración.
@@ -500,13 +537,15 @@ El viaje de Mafer, una profesional en busca de oportunidades como niñera, es di
 El viaje de Alejandro al buscar una niñera refleja una profunda necesidad de confianza, seguridad y compatibilidad emocional. Desde el inicio, se enfrenta a una sobrecarga de opciones poco diferenciadas, lo que genera preocupación y la necesidad de filtros avanzados y validaciones visibles que inspiren confianza. Durante la exploración, la falta de perfiles estandarizados le exige invertir tiempo extra, por lo que se recomienda estructurar mejor la información con campos obligatorios y sellos de verificación. Al contactar a las candidatas, adopta una actitud vigilante, esperando profesionalismo y empatía, donde una agenda integrada para entrevistas puede facilitar el proceso. En la etapa de evaluación, busca una conexión más profunda y emocional, por lo que guías para entrevistas y checklists serían herramientas valiosas. Finalmente, al cerrar el trato, aunque siente alegría, aún le preocupa cómo se adaptarán sus hijos, lo que sugiere la utilidad de herramientas post-contratación como plantillas de contrato, gestión de horarios y seguimiento del desempeño.
 
 ### 2.3.4. Empathy Mapping.
+
 **USER PERSONA: María Fernanada**
 ![Empathy Map 1](assets/Empathy%20map%20Mafer.png)
 
 **USER PERSONA: Alejandro Dominguez**
 ![Empathy Map 2](assets/Empathy%20map%20Alejandro.png)
 
-### 2.3.5. As-is Scenario Mapping. 
+### 2.3.5. As-is Scenario Mapping.
+
 **USER PERSONA: María Fernanda**
 ![Scenario Mapping 1](assets/Scenario%20Mapping%20Mafer.jpg)
 El proceso de buscar trabajo como niñera es demandante emocionalmente. Mafer depende de canales poco convencionales como grupos de Facebook o WhatsApp, lo que limita su visibilidad profesional y genera inseguridad constante sobre su capacidad para destacar entre tantas opciones. Luego de un largo tiempo de espera, durante la postulación, enfrenta entrevistas muy variables de acuerdo al carácter del padre de familia. Una vez contratada, no siempre recibe continuidad laboral ni reconocimiento profesional, lo cual la obliga a empezar desde cero en cada oportunidad. El sistema actual le genera frustración, incertidumbre y una sensación de estancamiento, pese a su motivación por mejorar.
@@ -515,10 +554,11 @@ El proceso de buscar trabajo como niñera es demandante emocionalmente. Mafer de
 ![Scenario Mapping 1](Assets/Scenario-Mapping1.jpg)
 El proceso de encontrar una niñera confiable para Alejandro ocurre principalmente bajo presión y con poco tiempo de anticipación. Esto lo obliga a recurrir a contactos y decisiones rápidas, sin contar con referencias verificadas o una base confiable de candidatas. El proceso genera estrés, y en muchas ocasiones una carga mental adicional al intentar equilibrar su vida laboral y familiar. Aunque logra resolver el problema de cuidado infantil de forma temporal, la elección de la niñera muchas veces deja una sensación de riesgo, incertidumbre y la necesidad de tener que repetir el proceso en futuras ocasiones, sin garantías de mejor resultado.
 
+## 2.4. Ubiquitous Language.
 
-## 2.4. Ubiquitous Language. 
 El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya que nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo.
-**Ubiquitous Language – KYDICARE** 
+**Ubiquitous Language – KYDICARE**
+
 1. Niñera Verificada: Persona cuidadora que ha pasado el proceso de verificación de identidad, referencias y experiencia por parte de la plataforma.
 
 2. Padre de familia: Persona(s) que busca(n) servicios de cuidado infantil a través de la app para sus hijos.
@@ -537,7 +577,8 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 
 9. Panel de Seguridad: Conjunto de funciones dentro de la app que aseguran la transparencia y protección de todos los usuarios (verificación, soporte, seguimiento en tiempo real).
 
-# Capítulo III: Requirements Specification 
+# Capítulo III: Requirements Specification
+
 ## 3.1. To-Be Scenario Mapping.
 
 - Tutores
@@ -637,12 +678,14 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 
 link de Trello : [https://trello.com/invite/b/67f6a7f270ad52954f91b6ac/ATTI705356836b6476fe05a897e8fbdc0db837CDF36C/1asi0730-2510-4380-grupo-3-quantumsoft](https://trello.com/invite/b/67f6a7f270ad52954f91b6ac/ATTI705356836b6476fe05a897e8fbdc0db837CDF36C/1asi0730-2510-4380-grupo-3-quantumsoft)
 
-# Capítulo IV: Product Design 
+# Capítulo IV: Product Design
+
 ## 4.1. Style Guidelines.
 
-En **KindyCare**, establecemos pautas de estilo sólidas para garantizar una experiencia visual coherente, profesional y centrada en el usuario. Estas directrices abarcan tanto el diseño general como los elementos específicos de la interfaz web, con el fin de proyectar una imagen de confianza, seguridad y calidez para los padres y tutores que buscan cuidado infantil de calidad. 
+En **KindyCare**, establecemos pautas de estilo sólidas para garantizar una experiencia visual coherente, profesional y centrada en el usuario. Estas directrices abarcan tanto el diseño general como los elementos específicos de la interfaz web, con el fin de proyectar una imagen de confianza, seguridad y calidez para los padres y tutores que buscan cuidado infantil de calidad.
 
 ### 4.1.1. General Style Guidelines.
+
 **Task:**  
 En esta sección, se detallarán las directrices generales de estilo que guiarán el diseño y la presentación de **KindyCare**. Estas directrices asegurarán que todos los elementos visuales y textuales sean coherentes y alineados con la identidad de nuestra marca, proporcionando una experiencia de usuario fluida, confiable y profesional.
 
@@ -669,7 +712,6 @@ Se utiliza una fuente moderna y altamente legible tanto en pantallas móviles co
 
 **Íconos y Elementos Gráficos:**  
 Los íconos son minimalistas, con bordes redondeados y líneas suaves. Se emplean para guiar al usuario en la navegación y mejorar la comprensión del contenido sin sobrecargar visualmente la interfaz.
-
 
 ### 4.1.2. Web Style Guidelines
 
@@ -777,12 +819,12 @@ El diseño de la plataforma KindyCare responde a la necesidad de crear una exper
 
 Para mejorar la navegación, KindyCare utiliza etiquetas claras y descriptivas:
 
-- Buscar Cuidadores  
-- Registrarse como Cuidador  
-- Reservar Servicio  
-- Historial de Servicios  
-- Mi Perfil  
-- Certificaciones y Habilidades  
+- Buscar Cuidadores
+- Registrarse como Cuidador
+- Reservar Servicio
+- Historial de Servicios
+- Mi Perfil
+- Certificaciones y Habilidades
 - Disponibilidad
 
 ---
@@ -791,8 +833,8 @@ Para mejorar la navegación, KindyCare utiliza etiquetas claras y descriptivas:
 
 Cada página de la plataforma incluirá:
 
-- Meta título con palabras clave relevantes como *"cuidado infantil seguro"*, *"niñeras calificadas cerca de mí"*, etc.  
-- Meta descripciones optimizadas para buscadores.  
+- Meta título con palabras clave relevantes como _"cuidado infantil seguro"_, _"niñeras calificadas cerca de mí"_, etc.
+- Meta descripciones optimizadas para buscadores.
 - Uso estratégico de etiquetas `alt` en imágenes para mejorar accesibilidad y SEO.
 
 ---
@@ -807,10 +849,10 @@ El sistema de búsqueda dentro de la plataforma permitirá a los padres y cuidad
 2. **Búsqueda por Ubicación:**  
    Filtro de resultados según proximidad al hogar.
 
-   - Por Tipo de Servicio: Cuidado nocturno, apoyo escolar, acompañamiento en casa, etc.  
-   - Por Ubicación: Integración con mapas.  
-   - Por Calificación: Filtro por puntuación y reseñas.  
-   - Por Certificación o Idioma: Habilidades específicas.  
+   - Por Tipo de Servicio: Cuidado nocturno, apoyo escolar, acompañamiento en casa, etc.
+   - Por Ubicación: Integración con mapas.
+   - Por Calificación: Filtro por puntuación y reseñas.
+   - Por Certificación o Idioma: Habilidades específicas.
    - Por Rango de Precio y Disponibilidad: Compatible con calendarios.
 
 ---
@@ -834,71 +876,88 @@ El sistema de navegación está diseñado para ofrecer una experiencia fluida, f
 5. **Flujo de Navegación Intuitivo:**  
    Desde la búsqueda hasta la reserva de servicios, con un flujo lógico y claro que guía a los usuarios en cada etapa.
 
-## 4.3. Landing Page UI Design. 
+## 4.3. Landing Page UI Design.
+
 ### 4.3.1. Landing Page Wireframe.
+
 **Hero Section**
+
 <p align="center">
   <img src="./assets/hero-section-wireframe.png" alt="Hero Section" width="850">
 </p>
 
 **Features Section**
+
 <p align="center">
   <img src="./assets/features-section-wireframe.png" alt="Features Section" width="850">
 </p>
 
 **Benefits Section**
+
 <p align="center">
   <img src="./assets/benefits-section-wireframe.png" alt="Benefits Section" width="850">
 </p>
 
 **Steps Section**
+
 <p align="center">
   <img src="./assets/steps-section-wireframe.png" alt="Steps Section" width="850">
 </p>
 
 **Testimonial Section**
+
 <p align="center">
   <img src="./assets/testimonial-section-wireframe.png" alt="Testimonial Section" width="850">
 </p>
 
 **Contact Section**
+
 <p align="center">
   <img src="./assets/contact-section-wireframe.png" alt="Contact Section" width="850">
 </p>
 
 ### 4.3.2. Landing Page Mock-up.
+
 **Hero Section**
+
 <p align="center">
   <img src="./assets/hero-section-mockup.png" alt="Hero Section" width="850">
 </p>
 
 **Features Section**
+
 <p align="center">
   <img src="./assets/features-section-mockup.png" alt="Features Section" width="850">
 </p>
 
 **Benefits Section**
+
 <p align="center">
   <img src="./assets/benefits-section-mockup.png" alt="Benefits Section" width="850">
 </p>
 
 **Steps Section**
+
 <p align="center">
   <img src="./assets/steps-section-mockup.png" alt="Steps Section" width="850">
 </p>
 
 **Testimonial Section**
+
 <p align="center">
   <img src="./assets/testimonial-section-mockup.png" alt="Testimonial Section" width="850">
 </p>
 
 **Contact Section**
+
 <p align="center">
   <img src="./assets/contact-section-mockup.png" alt="Contact Section" width="850">
 </p>
 
-## 4.4. Web Applications UX/UI Design. 
+## 4.4. Web Applications UX/UI Design.
+
 ### 4.4.1. Web Applications Wireframes.
+
 **Log In**
 
 <p align="center">
@@ -906,73 +965,87 @@ El sistema de navegación está diseñado para ofrecer una experiencia fluida, f
 </p>
 
 **Sign Up**
+
 <p align="center">
   <img src="./assets/wireframes-app/signup.png" alt="Sign Up" width="850">
 </p>
 
-**Babysitter List**  
+**Babysitter List**
+
 <p align="center">
   <img src="./assets/wireframes-app/babysitter-list.png" alt="Babysitter List" width="850">
 </p>
 
-**Babysitter Detail**  
+**Babysitter Detail**
+
 <p align="center">
   <img src="./assets/wireframes-app/babysitter-detail.png" alt="Babysitter Detail" width="850">
 </p>
 
 **Babysitter Profile**
+
 <p align="center">
   <img src="./assets/wireframes-app/babysitter-profile.png" alt="Babysitter Profile" width="850">
 </p>
 
-**Babysitter Review**  
+**Babysitter Review**
+
 <p align="center">
   <img src="./assets/wireframes-app/review-babysitter.png" alt="Babysitter Review" width="850">
 </p>
 
-**Babysitter Booking**  
+**Babysitter Booking**
+
 <p align="center">
   <img src="./assets/wireframes-app/booking-babysitter.png" alt="Babysitter Booking" width="850">
 </p>
 
-**Babysitter Payment**  
+**Babysitter Payment**
+
 <p align="center">
   <img src="./assets/wireframes-app/payment-babysitter.png" alt="Babysitter Payment" width="850">
 </p>
 
-**Parent Profile**  
+**Parent Profile**
+
 <p align="center">
   <img src="./assets/wireframes-app/parent-profile.png" alt="Parent Profile" width="850">
 </p>
 
-**Parent Review**  
+**Parent Review**
+
 <p align="center">
   <img src="./assets/wireframes-app/review-parent.png" alt="Log In" width="850">
 </p>
 
-**Parent Payment**  
+**Parent Payment**
+
 <p align="center">
   <img src="./assets/wireframes-app/payment-parent.png" alt="Parent Payment" width="850">
 </p>
 
-**Parent Booking**  
+**Parent Booking**
+
 <p align="center">
   <img src="./assets/wireframes-app/booking-parent.png" alt="Parent Booking" width="850">
 </p>
 
-**Chat**  
+**Chat**
+
 <p align="center">
   <img src="./assets/wireframes-app/chat.png" alt="Chat" width="850">
 </p>
 
-**Dashboard**  
+**Dashboard**
+
 <p align="center">
   <img src="./assets/wireframes-app/main-dashboard.png" alt="Dashboard" width="850">
 </p>
 
-### 4.4.2. Web Applications Wireflow Diagrams. 
+### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.2. Web Applications Mock-ups.
+
 **Log In**
 
 <p align="center">
@@ -980,121 +1053,144 @@ El sistema de navegación está diseñado para ofrecer una experiencia fluida, f
 </p>
 
 **Sign Up**
+
 <p align="center">
   <img src="./assets/mockups-app/signup.png" alt="Sign Up" width="850">
 </p>
 
-**Babysitter List**  
+**Babysitter List**
+
 <p align="center">
   <img src="./assets/mockups-app/babysitters-list.png" alt="Babysitter List" width="850">
 </p>
 
-**Babysitter Detail**  
+**Babysitter Detail**
+
 <p align="center">
   <img src="./assets/mockups-app/babysitter-detail.png" alt="Babysitter Detail" width="850">
 </p>
 
 **Babysitter Profile**
+
 <p align="center">
   <img src="./assets/mockups-app/profile-babysitter.png" alt="Babysitter Profile" width="850">
 </p>
 
-**Babysitter Review**  
+**Babysitter Review**
+
 <p align="center">
   <img src="./assets/mockups-app/review-babysitter.png" alt="Babysitter Review" width="850">
 </p>
 
-**Babysitter Booking**  
+**Babysitter Booking**
+
 <p align="center">
   <img src="./assets/mockups-app/booking-babysitter.png" alt="Babysitter Booking" width="850">
 </p>
 
-**Babysitter Payment**  
+**Babysitter Payment**
+
 <p align="center">
   <img src="./assets/mockups-app/payment-babysitter.png" alt="Babysitter Payment" width="850">
 </p>
 
-**Parent Profile**  
+**Parent Profile**
+
 <p align="center">
   <img src="./assets/mockups-app/profile-parent.png" alt="Parent Profile" width="850">
 </p>
 
-**Parent Review**  
+**Parent Review**
+
 <p align="center">
   <img src="./assets/mockups-app/review-parent.png" alt="Log In" width="850">
 </p>
 
-**Parent Payment**  
+**Parent Payment**
+
 <p align="center">
   <img src="./assets/mockups-app/payment-parent.png" alt="Parent Payment" width="850">
 </p>
 
-**Parent Booking**  
+**Parent Booking**
+
 <p align="center">
   <img src="./assets/mockups-app/booking-parent.png" alt="Parent Booking" width="850">
 </p>
 
-**Chat**  
+**Chat**
+
 <p align="center">
   <img src="./assets/mockups-app/chat.png" alt="Chat" width="850">
 </p>
 
-**Dashboard**  
+**Dashboard**
+
 <p align="center">
   <img src="./assets/mockups-app/main-dashboard.png" alt="Dashboard" width="850">
-</p> 
+</p>
 
-### 4.4.3. Web Applications User Flow Diagrams. 
+### 4.4.3. Web Applications User Flow Diagrams.
 
 ## 4.5. Web Applications Prototyping.
+
 <p align="center">
   <img src="./assets/prototyping.png" alt="Prototyping" width="850">
-</p>  
+</p>
 
-## 4.6. Domain-Driven Software Architecture. 
+## 4.6. Domain-Driven Software Architecture.
+
 ### 4.6.1. Software Architecture Context Diagram.
+
 <p align="center">
   <img src="./assets/context-diagram.png" alt="context-diagram" width="850">
-</p> 
+</p>
 
-### 4.6.2. Software Architecture Container Diagrams. 
+### 4.6.2. Software Architecture Container Diagrams.
+
 <p align="center">
   <img src="./assets/container-diagram.png" alt="container-diagram" width="850">
 </p>
 
-### 4.6.3. Software Architecture Components Diagrams. 
+### 4.6.3. Software Architecture Components Diagrams.
+
 <p align="center">
   <img src="./assets/components-diagram.png" alt="components-diagram" width="850">
 </p>
 
-## 4.7. Software Object-Oriented Design. 
+## 4.7. Software Object-Oriented Design.
+
 ### 4.7.1. Class Diagrams.
+
 <p align="center">
   <img src="./assets/class-diagram.jpg" alt="class-diagram" width="850">
 </p>
 
-### 4.7.2. Class Dictionary. 
-| Clase         | Descripción                                                                                                                                  |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| User          | Representa a cualquier persona que utiliza la plataforma, ya sea padre o niñera. Contiene información general como nombre, email y rol.     |
-| Parent        | Es una especialización de User. Representa a los usuarios que buscan contratar servicios de niñeras para el cuidado de sus hijos.           |
-| Babysitter    | También especializada desde User. Representa a las niñeras registradas, incluyendo su perfil, experiencia, disponibilidad y calificaciones. |
-| Message       | Representa un mensaje individual enviado entre usuarios dentro de una sesión de chat. Incluye contenido, hora de envío y emisor/receptor.    |
-| ChatSession   | Define una conversación entre un padre y una niñera. Agrupa todos los mensajes relacionados a una interacción específica.                    |
-| Notification  | Almacena alertas generadas para los usuarios, como confirmaciones de reserva, nuevos mensajes y pagos.|
-| Availability  | Registra los días y horas que una niñera está disponible para ser contratada. Se vincula con su perfil para facilitar las búsquedas.         |
-| Reservation   | Representa una reserva de servicio entre un padre y una niñera, incluyendo fechas, duración, estado (pendiente, aceptada, cancelada, etc).  |
-| Review        | Almacena comentarios y calificaciones que los padres dejan sobre las niñeras después de una reserva. Ayuda a construir reputación.           |
-| Payment       | Registra transacciones realizadas por los padres para pagar por los servicios contratados despues de una reserva, y puede incluir métodos de pago y estado.         |
+### 4.7.2. Class Dictionary.
+
+| Clase        | Descripción                                                                                                                                                 |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| User         | Representa a cualquier persona que utiliza la plataforma, ya sea padre o niñera. Contiene información general como nombre, email y rol.                     |
+| Parent       | Es una especialización de User. Representa a los usuarios que buscan contratar servicios de niñeras para el cuidado de sus hijos.                           |
+| Babysitter   | También especializada desde User. Representa a las niñeras registradas, incluyendo su perfil, experiencia, disponibilidad y calificaciones.                 |
+| Message      | Representa un mensaje individual enviado entre usuarios dentro de una sesión de chat. Incluye contenido, hora de envío y emisor/receptor.                   |
+| ChatSession  | Define una conversación entre un padre y una niñera. Agrupa todos los mensajes relacionados a una interacción específica.                                   |
+| Notification | Almacena alertas generadas para los usuarios, como confirmaciones de reserva, nuevos mensajes y pagos.                                                      |
+| Availability | Registra los días y horas que una niñera está disponible para ser contratada. Se vincula con su perfil para facilitar las búsquedas.                        |
+| Reservation  | Representa una reserva de servicio entre un padre y una niñera, incluyendo fechas, duración, estado (pendiente, aceptada, cancelada, etc).                  |
+| Review       | Almacena comentarios y calificaciones que los padres dejan sobre las niñeras después de una reserva. Ayuda a construir reputación.                          |
+| Payment      | Registra transacciones realizadas por los padres para pagar por los servicios contratados despues de una reserva, y puede incluir métodos de pago y estado. |
 
 ## 4.8. Database Design.
-### 4.8.1. Database Diagram. 
+
+### 4.8.1. Database Diagram.
+
 <p align="center">
   <img src="./assets/database-diagram.png" alt="database-diagram" width="850">
 </p>
 
+# Capítulo V: Product Implementation, Validation & Deployment
 
-# Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management.
 
 A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambio de desarrollo de KydiCare.
@@ -1103,47 +1199,45 @@ A continuación, se describe el proceso por el cual organizamos, gestionamos y c
 
 Gestión de las necesidades
 
-  - Trello: Herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente marcos en red de trabajos ágiles. El segmento para visualizar y actualizar el estado real de las tareas e historias de usuario pertenecientes al sprint a desarrollado.
-  
-    Ruta de referencia:[https://trello.com/es](https://trello.com/es)
+- Trello: Herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente marcos en red de trabajos ágiles. El segmento para visualizar y actualizar el estado real de las tareas e historias de usuario pertenecientes al sprint a desarrollado.
+
+  Ruta de referencia:[https://trello.com/es](https://trello.com/es)
 
 Diseño UX/UI
 
-  - Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizada para el diseño digital. En el caso del proyecto, se utilizó para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+- Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizada para el diseño digital. En el caso del proyecto, se utilizó para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
 
-    Ruta de referencia: https://www.figma.com/login
+  Ruta de referencia: https://www.figma.com/login
 
-  - Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de flujos de cable, flujos de usuario y el diagrama de clases asociadas a la aplicación.
-    Ruta de referencia: https://www.lucidchart.com/
+- Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de flujos de cable, flujos de usuario y el diagrama de clases asociadas a la aplicación.
+  Ruta de referencia: https://www.lucidchart.com/
 
 Desarrollo de software
 
-  - Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación de los factores de control por dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone valor para el desarrollo del proyecto puesto que incluye la posibilidad de añadir extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidad en varios sistemas, operativos entre otros beneficios.
-    Ruta de referencia: https://code.visualstudio.com/
+- Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación de los factores de control por dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone valor para el desarrollo del proyecto puesto que incluye la posibilidad de añadir extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidad en varios sistemas, operativos entre otros beneficios.
+  Ruta de referencia: https://code.visualstudio.com/
 
-  - HTML5: HyperText Markup Language, o siglas por sus HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
-    Ruta de referencia: https://www.w3schools.com/html/html5-syntax.asp
+- HTML5: HyperText Markup Language, o siglas por sus HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+  Ruta de referencia: https://www.w3schools.com/html/html5-syntax.asp
 
-  - CSS: Hojas de estilo en cascada es un lenguaje que maneja el diseño y presentación de las páginas web, el que va de la mano con HTML.
-    Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+- CSS: Hojas de estilo en cascada es un lenguaje que maneja el diseño y presentación de las páginas web, el que va de la mano con HTML.
+  Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
 
-  - Bootstrap: Marco CSS que crea motores web de forma rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos.
-    Ruta de referencia: https://getbootstrap.com/
+- Bootstrap: Marco CSS que crea motores web de forma rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos.
+  Ruta de referencia: https://getbootstrap.com/
 
-  
 Implementación de software
 
-  - Git: Una herramienta de control de versiones que facilitan el registro y la gestión de las versiones distintas del programa. Su propósito es mantener un historial de cambios y simplificar el corrección de errores. Los integrantes del equipo A través de la línea de comandos en sus sistemas locales.
+- Git: Una herramienta de control de versiones que facilitan el registro y la gestión de las versiones distintas del programa. Su propósito es mantener un historial de cambios y simplificar el corrección de errores. Los integrantes del equipo A través de la línea de comandos en sus sistemas locales.
 
-    Ruta de referencia: https://git-scm.com/
+  Ruta de referencia: https://git-scm.com/
 
-    Documentación y gestión de proyectos de software
+  Documentación y gestión de proyectos de software
 
-  - Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitir la colaboración en tiempo real y la revisión de las contribuciones de cada miembro del equipo. Los integrantes del equipo se puede acceder a través de sus navegadores web.
-    Ruta de referencia: https://github.com/
+- Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitir la colaboración en tiempo real y la revisión de las contribuciones de cada miembro del equipo. Los integrantes del equipo se puede acceder a través de sus navegadores web.
+  Ruta de referencia: https://github.com/
 
-
-### 5.1.2. Source Code Management. 
+### 5.1.2. Source Code Management.
 
 El proyecto sigue el flujo de trabajo GitFlow para el control de versiones, GitHub como plataforma de alojamiento y gestión del código. A continuación, se detalla la implementación de este modelo.
 
@@ -1155,114 +1249,117 @@ El proyecto adopta el modelo GitFlow, una estrategia de ramificación basada en 
 
 Ramas Principales
 
-  - main(principal)
+- main(principal)
 
-    - Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de KydiCare.
+  - Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de KydiCare.
 
-    - Cada release se marca con etiquetas semánticas (ej. v1.0.0) para facilitar el rastreo y la aplicación de las actualizaciones.
+  - Cada release se marca con etiquetas semánticas (ej. v1.0.0) para facilitar el rastreo y la aplicación de las actualizaciones.
 
-  - develop(rama de desarrollo)
+- develop(rama de desarrollo)
 
-    - Alberga la versión más reciente en estado de preproducción, donde se integran todas las funcionalidades completadas.
+  - Alberga la versión más reciente en estado de preproducción, donde se integran todas las funcionalidades completadas.
 
-    - Funciona como base para pruebas internas y ajustes previos a su fusión con main.
+  - Funciona como base para pruebas internas y ajustes previos a su fusión con main.
 
 Ramas de Soporte
 
-  - feature/*(ramas de características)
+- feature/\*(ramas de características)
 
-    - Cada nueva funcionalidad se desarrolla en un rama independiente (ej. feature/login), derivada de develop.
+  - Cada nueva funcionalidad se desarrolla en un rama independiente (ej. feature/login), derivada de develop.
 
-    - Perfilo trabajo paralelo sin afectar la base de los códigos principales hasta su revisión y aprobación.
+  - Perfilo trabajo paralelo sin afectar la base de los códigos principales hasta su revisión y aprobación.
 
-  - release/*(ramas de lanzamiento)
+- release/\*(ramas de lanzamiento)
 
-    - Preparadas para versiones específicas, permiten pruebas finales y corrección de bugs antes de su despliegue en main.
+  - Preparadas para versiones específicas, permiten pruebas finales y corrección de bugs antes de su despliegue en main.
 
-  - hotfix/*(ramas de las urgencias)
+- hotfix/\*(ramas de las urgencias)
 
-    - Resuelven errores desprendentes en producción, derivando directamente de mainy fusión tanto en maincomo en develop.
-  
-  ![Git-Flow](./assets/git-flow.png)
+  - Resuelven errores desprendentes en producción, derivando directamente de mainy fusión tanto en maincomo en develop.
 
-### 5.1.3. Source Code Style Guide & Conventions. 
+![Git-Flow](./assets/git-flow.png)
+
+### 5.1.3. Source Code Style Guide & Conventions.
 
 Para garantizar coherencia, mantenibilidad y escalabilidad del código, se establecen las siguientes normas de estilo:
 
-  1. HTML
-Estructura básica  
-        
-          <!DOCTYPE html>
-          HTM lang = " es ">
+1.  HTML
+    Estructura básica
 
-     - Reglas generales:
-        - Todos los elementos deben estar correctamente cerrados 
+              <!DOCTYPE html>
+              HTM lang = " es ">
 
-               (ej. <img />, <div></div>).
+         - Reglas generales:
+            - Todos los elementos deben estar correctamente cerrados
 
-         - Usar comillas dobles (" ") en atributos que contengan espacios.
+                   (ej. <img />, <div></div>).
 
-         - Incluir atributos esenciales en imágenes.
+             - Usar comillas dobles (" ") en atributos que contengan espacios.
 
+             - Incluir atributos esenciales en imágenes.
 
-1. CSS
+1.  CSS
 
     Formato:
 
-      - Sangría: 2 espacios (sin pestañas).
+    - Sangría: 2 espacios (sin pestañas).
 
-      - Minúsculas en Selectores, propiedades y valores.
+    - Minúsculas en Selectores, propiedades y valores.
 
-      - Empiteación en blanco innecesarios y líneas vacías redundantes.
+    - Empiteación en blanco innecesarios y líneas vacías redundantes.
 
-2. Tailwind
+1.  Tailwind
 
     Principios:
 
-      - Aprovechar al máximo las utilidades predefinidas (sistema de red, componentes, ayudantes).
+    - Aprovechar al máximo las utilidades predefinidas (sistema de red, componentes, ayudantes).
 
-      - Evitar sobrescribir estilos base; usar clases contextuales (ej. bg-primary, text-success).
+    - Evitar sobrescribir estilos base; usar clases contextuales (ej. bg-primary, text-success).
 
-      - Solo agrega CSS personalizado.
+    - Solo agrega CSS personalizado.
 
-3. vue.js
+1.  vue.js
 
     Reglas clave:
 
     - Nombres de Compentes: PascalCase(Ej: UserProfile.vue)
     - Props: Definir tipos y valores por defecto.
-  
 
-### 5.1.4. Software Deployment Configuration. 
+### 5.1.4. Software Deployment Configuration.
 
-  Hemos seleccionado GitHub Pages como plataforma para alojar el sitio web estático del proyecto. A continuación se detalla el proceso completo:
+Hemos seleccionado GitHub Pages como plataforma para alojar el sitio web estático del proyecto. A continuación se detalla el proceso completo:
 
-  1. **Creación del repositorio en GitHub:**
+1. **Creación del repositorio en GitHub:**
 
-    - Primero, se debe crear un nuevo repositorio en GitHub. Asegúrate de que el repositorio sea público para que GitHub Pages pueda generar y alojar el sitio.
-   - Clona el repositorio a tu máquina local para realizar los desarrollos necesarios.
-   - **Ejemplo:**
-     ```bash
-     git clone https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard.git
-     ```
-  2. **Desarrollo del sitio estático:**
+   - Primero, se debe crear un nuevo repositorio en GitHub. Asegúrate de que el repositorio sea público para que GitHub Pages pueda generar y alojar el sitio.
 
-   - El desarrollo del **Landing Page** se realiza utilizando HTML, CSS, Tailwind.css , JavaScript y vue.js. Estos archivos deben estar en la raíz del repositorio o en la carpeta `docs`, dependiendo de la configuración elegida para GitHub Pages.
+- Clona el repositorio a tu máquina local para realizar los desarrollos necesarios.
+- **Ejemplo:**
+  ```bash
+  git clone https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard.git
+  ```
 
-  3. **Configuración de GitHub Pages:**
+2. **Desarrollo del sitio estático:**
 
-   - Dirígete a la configuración del repositorio en GitHub:
-     - Ir a la seccion `Settings`.
-     - Desplázate hacia abajo hasta la sección **Pages**.
-     - En el menú desplegable "Source", selecciona la creada `gh-pages`  y la carpeta raíz (`/root`) o `docs/` si los archivos están organizados dentro de esa carpeta.
-   - Una vez seleccionado, GitHub Pages generará una URL para acceder a tu sitio web.
-  
-  4. **Verificar el despliegue:**
-    - En este caso, el **Link del Landing Page desplegado del proyecto KYDICARE** es:  
+- El desarrollo del **Landing Page** se realiza utilizando HTML, CSS, Tailwind.css , JavaScript y vue.js. Estos archivos deben estar en la raíz del repositorio o en la carpeta `docs`, dependiendo de la configuración elegida para GitHub Pages.
+
+3. **Configuración de GitHub Pages:**
+
+- Dirígete a la configuración del repositorio en GitHub:
+  - Ir a la seccion `Settings`.
+  - Desplázate hacia abajo hasta la sección **Pages**.
+  - En el menú desplegable "Source", selecciona la creada `gh-pages` y la carpeta raíz (`/root`) o `docs/` si los archivos están organizados dentro de esa carpeta.
+- Una vez seleccionado, GitHub Pages generará una URL para acceder a tu sitio web.
+
+4. **Verificar el despliegue:**
+
+   - En este caso, el **Link del Landing Page desplegado del proyecto KYDICARE** es:
      [Landing Page KYDICARE](https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/)
-     
-## 5.2. Landing Page, Services & Applications Implementation. 
-### 5.2.1. Sprint n 
+
+## 5.2. Landing Page, Services & Applications Implementation.
+
+### 5.2.1. Sprint n
+
 #### 5.2.1.1. Sprint Planning n.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
@@ -1287,7 +1384,6 @@ El equipo de desarrollo se reunió virtualmente para definir los objetivos, tare
 | Sprint 1 Goal                      | Desarrollar y desplegar la landing page funcional en Github Pages, garantizando que cumpla con los requisitos básicos de diseño, contenido y accesibilidad para servir como base de proyecto |
 | Sprint 1 Velocity                  | 8                                                                                                                                                                                            |
 | Sum of Story Points                | 5                                                                                                                                                                                            |
-
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
