@@ -297,11 +297,173 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram. 
 # Capítulo V: Product Implementation, Validation & Deployment  
-## 5.1. Software Configuration Management. 
-### 5.1.1. Software Development Environment Configuration. 
+## 5.1. Software Configuration Management.
+
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambio de desarrollo de ChildCard.
+
+### 5.1.1. Software Development Environment Configuration.
+
+Gestión de las necesidades
+
+  - Trello: Herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente marcos en red de trabajos ágiles. El segmento para visualizar y actualizar el estado real de las tareas e historias de usuario pertenecientes al sprint a desarrollado.
+  
+    Ruta de referencia:[https://trello.com/es](https://trello.com/es)
+
+Diseño UX/UI
+
+  - Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizada para el diseño digital. En el caso del proyecto, se utilizó para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+
+    Ruta de referencia: https://www.figma.com/login
+
+  - Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de flujos de cable, flujos de usuario y el diagrama de clases asociadas a la aplicación.
+    Ruta de referencia: https://www.lucidchart.com/
+
+Desarrollo de software
+
+  - Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación de los factores de control por dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone valor para el desarrollo del proyecto puesto que incluye la posibilidad de añadir extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidad en varios sistemas, operativos entre otros beneficios.
+    Ruta de referencia: https://code.visualstudio.com/
+
+  - HTML5: HyperText Markup Language, o siglas por sus HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+    Ruta de referencia: https://www.w3schools.com/html/html5-syntax.asp
+
+  - CSS: Hojas de estilo en cascada es un lenguaje que maneja el diseño y presentación de las páginas web, el que va de la mano con HTML.
+    Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+
+  - Bootstrap: Marco CSS que crea motores web de forma rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos.
+    Ruta de referencia: https://getbootstrap.com/
+
+  
+Implementación de software
+
+  - Git: Una herramienta de control de versiones que facilitan el registro y la gestión de las versiones distintas del programa. Su propósito es mantener un historial de cambios y simplificar el corrección de errores. Los integrantes del equipo A través de la línea de comandos en sus sistemas locales.
+
+    Ruta de referencia: https://git-scm.com/
+
+    Documentación y gestión de proyectos de software
+
+  - Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitir la colaboración en tiempo real y la revisión de las contribuciones de cada miembro del equipo. Los integrantes del equipo se puede acceder a través de sus navegadores web.
+    Ruta de referencia: https://github.com/
+
+
 ### 5.1.2. Source Code Management. 
+
+El proyecto sigue el flujo de trabajo GitFlow para el control de versiones, GitHub como plataforma de alojamiento y gestión del código. A continuación, se detalla la implementación de este modelo.
+
+**Flujo de trabajo GitFlow**
+
+Flujo de Trabajo GitFlow para el Desarrollo de UniRider
+
+El proyecto adopta el modelo GitFlow, una estrategia de ramificación basada en Git diseñada para optimizar la colaboración y el control de versiones en equipos de desarrollo. Este enfoque organiza el trabajo en ramas específicas, una integración fluida de nuevas funcionalidades y una gestión eficiente de lanzamientos.
+
+Ramas Principales
+
+  - main(principal)
+
+    - Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de ChildCard.
+
+    - Cada release se marca con etiquetas semánticas (ej. v1.0.0) para facilitar el rastreo y la aplicación de las actualizaciones.
+
+  - develop(rama de desarrollo)
+
+    - Alberga la versión más reciente en estado de preproducción, donde se integran todas las funcionalidades completadas.
+
+    - Funciona como base para pruebas internas y ajustes previos a su fusión con main.
+
+Ramas de Soporte
+
+  - feature/*(ramas de características)
+
+    - Cada nueva funcionalidad se desarrolla en un rama independiente (ej. feature/login), derivada de develop.
+
+    - Perfilo trabajo paralelo sin afectar la base de los códigos principales hasta su revisión y aprobación.
+
+  - release/*(ramas de lanzamiento)
+
+    - Preparadas para versiones específicas, permiten pruebas finales y corrección de bugs antes de su despliegue en main.
+
+  - hotfix/*(ramas de las urgencias)
+
+    - Resuelven errores desprendentes en producción, derivando directamente de mainy fusión tanto en maincomo en develop.
+  
+  ![Git-Flow](./assets/git-flow.png)
+
 ### 5.1.3. Source Code Style Guide & Conventions. 
+
+Para garantizar coherencia, mantenibilidad y escalabilidad del código, se establecen las siguientes normas de estilo:
+
+  1. HTML
+Estructura básica  
+        
+          <!DOCTYPE html>
+          HTM lang = " es ">
+
+     - Reglas generales:
+        - Todos los elementos deben estar correctamente cerrados 
+
+               (ej. <img />, <div></div>).
+
+         - Usar comillas dobles (" ") en atributos que contengan espacios.
+
+         - Incluir atributos esenciales en imágenes.
+
+
+1. CSS
+
+    Formato:
+
+      - Sangría: 2 espacios (sin pestañas).
+
+      - Minúsculas en Selectores, propiedades y valores.
+
+      - Empiteación en blanco innecesarios y líneas vacías redundantes.
+
+2. Tailwind
+
+    Principios:
+
+      - Aprovechar al máximo las utilidades predefinidas (sistema de red, componentes, ayudantes).
+
+      - Evitar sobrescribir estilos base; usar clases contextuales (ej. bg-primary, text-success).
+
+      - Solo agrega CSS personalizado.
+
+3. vue.js
+
+    Reglas clave:
+
+    - Nombres de Compentes: PascalCase(Ej: UserProfile.vue)
+    - Props: Definir tipos y valores por defecto.
+  
+
 ### 5.1.4. Software Deployment Configuration. 
+
+  Hemos seleccionado GitHub Pages como plataforma para alojar el sitio web estático del proyecto. A continuación se detalla el proceso completo:
+
+  1. **Creación del repositorio en GitHub:**
+
+    - Primero, se debe crear un nuevo repositorio en GitHub. Asegúrate de que el repositorio sea público para que GitHub Pages pueda generar y alojar el sitio.
+   - Clona el repositorio a tu máquina local para realizar los desarrollos necesarios.
+   - **Ejemplo:**
+     ```bash
+     git clone https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard.git
+     ```
+  2. **Desarrollo del sitio estático:**
+
+   - El desarrollo del **Landing Page** se realiza utilizando HTML, CSS, Tailwind.css , JavaScript y vue.js. Estos archivos deben estar en la raíz del repositorio o en la carpeta `docs`, dependiendo de la configuración elegida para GitHub Pages.
+
+  3. **Configuración de GitHub Pages:**
+
+   - Dirígete a la configuración del repositorio en GitHub:
+     - Ir a la seccion `Settings`.
+     - Desplázate hacia abajo hasta la sección **Pages**.
+     - En el menú desplegable "Source", selecciona la creada `gh-pages`  y la carpeta raíz (`/root`) o `docs/` si los archivos están organizados dentro de esa carpeta.
+   - Una vez seleccionado, GitHub Pages generará una URL para acceder a tu sitio web.
+  
+  4. **Verificar el despliegue:**
+    - En este caso, el **Link del Landing Page desplegado del proyecto KYDICARE** es:  
+     [Landing Page SafeChild](https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint n 
 #### 5.2.1.1. Sprint Planning n.
