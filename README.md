@@ -278,6 +278,60 @@ Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre pad
 <ol> <li><b>Creemos que</b> los padres valorarán poder encontrar y elegir cuidadores verificados según sus necesidades específicas. <b>Sabremos que</b> esto es cierto <b>cuando</b> detectemos una alta retención de usuarios y un aumento constante en las reservas dentro de la plataforma.</li> <li><b>Creemos que</b> los cuidadores apreciarán lo intuitiva que es la plataforma para conectarse con familias que requieren sus servicios. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un crecimiento en la cantidad de cuidadores activos y registrados, junto con una elevada interacción con los perfiles familiares.</li> <li><b>Creemos que</b> establecer un proceso exhaustivo de verificación para cuidadores y educadores incrementará la confianza de los padres en la plataforma. <b>Sabremos que</b> esto es cierto <b>cuando</b> veamos una reducción en las dudas relacionadas con la seguridad y un incremento en usuarios que finalizan su registro y confirman sus reservas.</li> <li><b>Creemos que</b> incluir actualizaciones en tiempo real sobre las actividades de los niños influirá positivamente en la decisión de los padres de usar la plataforma. <b>Sabremos que</b> esto es cierto <b>cuando</b> identifiquemos un uso frecuente de esta función y comentarios positivos por parte de los padres en sus evaluaciones.</li> <li><b>Creemos que</b> brindar recursos educativos y herramientas para seguir el desarrollo infantil ayudará a retener tanto a padres como a cuidadores. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un uso sostenido de estas funcionalidades y una mayor lealtad de los usuarios con el tiempo.</li> </ol>
 
 #### 1.2.2.4. Lean UX Canvas. 
+
+<table>
+  <tr>
+    <th valign="top">
+      <p><b>1. Business Problem</b></p>
+      <p>En Perú, la demanda por servicios de cuidado infantil está creciendo, pero el acceso a cuidadores confiables y calificados sigue siendo limitado. Esto genera dificultades tanto para las familias, que enfrentan estrés por la falta de opciones seguras, como para los cuidadores, que encuentran obstáculos para acceder a oportunidades laborales estables. La carencia de una herramienta eficiente que los conecte intensifica esta problemática.</p>
+    </th>
+    <th valign="top">
+      <p><b>2. Business Outcomes</b></p>
+      <p>- Mayor retención de usuarios, tanto padres como cuidadores.</p>
+      <p>- Crecimiento en el número de reservas repetidas.</p>
+      <p>- Niveles más altos de satisfacción entre los usuarios.</p>
+      <p>- Ampliación de la comunidad de usuarios en la plataforma.</p>
+    </th>
+    <th rowspan="2" valign="top">
+      <p><b>5. Solutions</b></p>
+      <p>- Crear una plataforma que facilite el contacto entre padres y cuidadores verificados.</p>
+      <p>- Incluir funciones como programación de servicios, notificaciones en tiempo real, materiales educativos y seguimiento del desarrollo infantil.</p>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b>3. Users</b></p>
+      <p>- Usuarios principales: Padres que requieren apoyo en el cuidado y educación de sus hijos en casa.</p>
+      <p>- Usuarios secundarios: Niñeras, tutores y educadores que buscan conectar con familias.</p>
+      <p>- Clientes: Familias que contratan servicios, y cuidadores que pagan por visibilidad o acceso a más oportunidades.</p>
+    </td>
+    <td valign="top">
+      <p><b>4. User Benefits</b></p>
+      <p>- Para padres: Posibilidad de acceder a cuidadores y educadores verificados, agendar servicios a medida, y recibir información en tiempo real sobre sus hijos.</p>
+      <p>- Para cuidadores: Acceso directo a empleos y una plataforma que valida y destaca sus habilidades y experiencia.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><b>6. Hypothesis</b></p>
+      <p>- Creemos que los padres valorarán poder buscar y elegir cuidadores verificados. Sabremos que esto es cierto al ver una alta retención de usuarios y un aumento en las reservas realizadas.</p>
+      <p>- Creemos que los cuidadores apreciarán la facilidad para conectarse con familias. Sabremos que esto es cierto al observar más cuidadores activos y registrados, y mayor interacción con perfiles de familias.</p>
+      <p>- Creemos que un sistema de verificación sólido fortalecerá la confianza de los padres. Sabremos que esto es cierto si disminuyen las dudas sobre seguridad y aumentan los registros completos y las reservas confirmadas.</p>
+      <p>- Creemos que las actualizaciones en tiempo real serán clave para los padres. Sabremos que esto es cierto si la función se usa con frecuencia y los padres expresan mayor satisfacción.</p>
+      <p>- Creemos que proveer recursos educativos y herramientas de monitoreo del desarrollo infantil ayudará a mantener a los usuarios activos. Sabremos que esto es cierto si se da un uso continuo y mayor lealtad con el tiempo.</p>
+    </td>
+    <td valign="top">
+      <p><b>7. What’s the most important thing we need to learn first?</b></p>
+      <p>Es crucial confirmar si los usuarios valoran aspectos como seguridad, personalización y calidad del servicio que ofrece la plataforma.</p>
+    </td>
+    <td valign="top">
+      <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
+      <p>Lanzaremos una versión beta que incluya las funciones principales y evaluaremos la respuesta y comentarios de los usuarios para validar la propuesta de valor.</p>
+    </td>
+  </tr>
+</table>
+
+
 ## 1.3. Segmentos objetivo. 
 # Capítulo II: Requirements Elicitation & Analysis 
 ## 2.1. Competidores. 
