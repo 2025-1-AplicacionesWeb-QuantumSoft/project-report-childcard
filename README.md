@@ -187,6 +187,10 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo en equipo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
           <br>
+          <b>Joaquin Cuentas: TB1</b><br>
+          Fomenté la investigación de nuestros usuarios y las ideas que nos diferenciarán de nuestros competidores.<br>
+          Materialicé la información obtenida en diagramas del modelo Scrum que nos permitirán ofrecer a nuestros usuarios sus opiniones manidestadas. <br>
+          <br>
           <b>Walter Fajardo: TB1</b><br>
           Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
           Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
@@ -205,6 +209,10 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
           <br>
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo colaborativo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
+          <br>
+          <b>Joaquin Cuentas: TB1</b><br>
+          Me planifiqué a completar el capítulo 2, caracterirzado por la investigación de competidores, la recolección de datos mediante entrevistas y los diagramas del modelo scrum. <br>
+          Cumplí estos objetivos dentro del plazo establecido y obtuvimos un proyecto eficiente<br>
           <br>
           <b>Walter Fajardo: TB1</b><br>
           Realice los lean ux proccess, que constaron de los problem statements, assumptions, canvas y segmentos objetivo además de la implementacion de la seccion de consulta en la landing page
