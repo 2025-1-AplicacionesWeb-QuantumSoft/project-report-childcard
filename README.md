@@ -224,7 +224,89 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
 
 
 ### 2.2.2. Registro de entrevistas. 
+
+![Entrevista 1](assets/Entrevista%201.jpg)
+
+- Entrevista N°1: Andrea Santur
+- Sexo: Niñera
+- Edad: 23 años
+
+- Ubicación en Los olivos, Lima, Perú
+
+#### Entrevista: ####
+
+link: https://youtu.be/XEUXEqPSi4k
+
+**Resumen**
+Andrea, de 23 años, ha trabajado como niñera en varios hogares y encuentra trabajo principalmente por redes sociales y recomendaciones. Considera importante que las familias sean claras con sus necesidades y respeten los horarios acordados. Si usara una app, compartiría su foto, referencias, turnos y servicios específicos. Se siente cómoda recibiendo calificaciones públicas, ya que ayudan a mejorar su visibilidad y desempeño. Además, le gustaría que la app incluya comentarios, calificaciones, estadísticas y opciones de contacto.
+
+
+![Entrevista 2](assets/Entrevista%202.jpg)
+
+- Entrevista N°2: Alessandra Becerra
+- Sexo: Femenino
+- Edad: 20 años
+
+- Ubicación no especificada para esta entrevista
+
+#### Entrevista: ####
+link: https://youtu.be/pCsz0xk5Z2k
+
+**Resumen:**
+Alessandra, una niñera de 20 años, comparte que encuentra trabajo principalmente a través de Facebook, recomendaciones y WhatsApp. Valora la confianza, el respeto y el buen trato con las familias. Le gustaría mostrar en su perfil experiencia, disponibilidad, referencias y formación. Apoya la idea de recibir comentarios respetuosos que ayuden a generar confianza. Considera útil que una app tenga filtrado por zona, calendario, chat y verificación de perfiles, aunque no ha tenido buena experiencia con apps similares. Confiaría en una nueva si se verificara a los padres.
+
+
+#### Segmento 2:Padres de familia ####
+
+![Entrevista 3](assets/Entrevista%203.jpg)
+
+- Entrevista N°3: Edery Abanto
+- Sexo: Masculino
+- Edad: 30 años
+
+- Ubicación no especificada para esta entrevista
+
+#### Entrevista: ####
+link: https://youtu.be/k-bONuGLquw
+
+**Resumen:**
+Edery, un padre de familia comparte sus expectativas sobre una aplicación para contratar niñeras. Él busca principalmente seguridad, verificación de identidad y antecedentes, referencias reales, y disponibilidad clara. Prefiere tener una interacción previa con la niñera a través de chat o videollamada, y estaría dispuesto a pagar entre 20 y 50 soles por hora según el servicio. También valora una interfaz fácil de usar, reseñas de otros padres y la posibilidad de hacer evaluaciones públicas. Sus respuestas ofrecen una guía directa para diseñar una plataforma confiable, útil y centrada en las necesidades reales de los usuarios.
+
+
+![Entrevista 4](assets/Entrevista%204.jpg)
+
+- Entrevista N°4: Eric Olivera
+- Sexo: Masculino
+- Edad: 27 años
+
+- Ubicación en San Miguel, Lima, Perú
+
+#### Entrevista: ####
+link: https://youtu.be/5tE2mM7XAik
+
+**Resumen**
+Eric, de 27 años, es padre de dos hijos y suele buscar niñeras a través de recomendaciones personales. Aunque ha probado grupos en redes sociales, no le inspiran confianza. Encuentra difícil conseguir niñeras disponibles y confiables. Busca personas con experiencia, responsabilidad, puntualidad y manejo de emergencias. En una app, le gustaría ver perfiles con fotos, referencias, videos de presentación, formación y disponibilidad. Considera esencial que la plataforma verifique identidad. Está dispuesto a pagar entre 100 y 200 soles, o suscribirse mensualmente, si se le garantiza seguridad y buenas opciones
+
 ### 2.2.3. Análisis de entrevistas. 
+
+ **Segmento 1: Niñeras con experiencia**
+ **Entrevista 1: Andrea Santur** 
+**Análisis de la entrevista:** La entrevista con Andrea, una joven niñera de 23 años con experiencia previa, valora que las familias sean claras en sus requerimientos y respetuosas con los horarios y límites. Al presentarse en una app, desea mostrar su rostro, disponibilidad, referencias y experiencia. Está completamente abierta a recibir calificaciones públicas y espera funciones como valoraciones, estadísticas de desempeño, chats en vivo y la posibilidad de ofrecer servicios premium. Para acceder a suscribirse, consideraría clave la facilidad de uso, buena reputación y funcionalidades específicas que le ayuden a visibilizarse
+
+
+ **Entrevista 2: Alessandra Becerra**
+ **Análisis de la entrevista:**  La entrevista con Alessandra, permite comprender las necesidades, preferencias y limitaciones de las niñeras en la búsqueda de empleo. Ella destaca la importancia de la confianza mutua con las familias, la visibilidad de su experiencia, referencias y formación, así como el uso frecuente de canales de comunicación como redes sociales y WhatsApp. Identifica limitaciones como la inestabilidad en la demanda y la baja efectividad de las plataformas existentes. Finalmente, expresa disposición para ser evaluada y pagar por una aplicación útil
+
+
+**Segmento 2: Padres de familia**
+
+**Entrevista 1:  Edery Abanto**
+**Análisis de la entrevista:** El entrevistado, un padre de familia, revela su preocupación fundamental por la seguridad, la verificación de antecedentes, y la transparencia en los perfiles de las niñeras. Además, menciona su preferencia por plataformas con interacción previa, variedad de servicios y buena experiencia de usuario. La entrevista refleja una necesidad de soluciones tecnológicas confiables en el ámbito del cuidado de niños pequeños, destacando puntos clave para el desarrollo de nuestra aplicación.
+
+ **Entrevista 2: Eric Olivera**
+ **Análisis de la entrevista:** La entrevista con Eric, revela preocupaciones comunes en los padres al buscar servicios de niñera: confianza, seguridad y facilidad de uso. Prefiere recomendaciones cercanas, pero reconoce que eso limita las opciones. Su principal barrera al usar plataformas digitales es la falta de verificación confiable. Eric busca una niñera responsable, puntual, con experiencia y capacidad para manejar emergencias. Valora perfiles detallados, con fotos, videos, referencias y disponibilidad clara. Además, espera poder interactuar con las candidatas antes de contratarlas.
+
+
 ## 2.3. Needfinding. 
 ### 2.3.1. User Personas. 
 ### 2.3.2. User Task Matrix. 
