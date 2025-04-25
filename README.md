@@ -37,7 +37,7 @@
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
-URL del repositorio del project Report : [https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard](https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard)
+URL del repositorio del project Report : https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard
 
 **_TB1_**
 Entregrable 1 o TB1 : (25/04/25)
@@ -830,7 +830,7 @@ El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya q
 | 30      | US04    | Contacto con la Equipo                   | Como visitante, quiero contactar al equipo para tener un medio directo con el equipo de desarrollo.                                                                  | 1            |
 | 31      | US05    | Beneficios                               | Como visitante, quiero conocer los beneficios y funciones que ofrece la app, para conocer sus servicios..                                                            | 1            |
 
-link de Trello : [https://trello.com/invite/b/67f6a7f270ad52954f91b6ac/ATTI705356836b6476fe05a897e8fbdc0db837CDF36C/1asi0730-2510-4380-grupo-3-quantumsoft](https://trello.com/invite/b/67f6a7f270ad52954f91b6ac/ATTI705356836b6476fe05a897e8fbdc0db837CDF36C/1asi0730-2510-4380-grupo-3-quantumsoft)
+link de Trello : https://trello.com/invite/b/67f6a7f270ad52954f91b6ac/ATTI705356836b6476fe05a897e8fbdc0db837CDF36C/1asi0730-2510-4380-grupo-3-quantumsoft
 
 # Capítulo IV: Product Design
 
@@ -1355,7 +1355,7 @@ Gestión de las necesidades
 
 - Trello: Herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente marcos en red de trabajos ágiles. El segmento para visualizar y actualizar el estado real de las tareas e historias de usuario pertenecientes al sprint a desarrollado.
 
-  Ruta de referencia:[https://trello.com/es](https://trello.com/es)
+  Ruta de referencia:https://trello.com/es
 
 Diseño UX/UI
 
@@ -1508,7 +1508,7 @@ Hemos seleccionado GitHub Pages como plataforma para alojar el sitio web estáti
 4. **Verificar el despliegue:**
 
    - En este caso, el **Link del Landing Page desplegado del proyecto KYDICARE** es:
-     [Landing Page KYDICARE](https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/)
+     https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -1559,7 +1559,7 @@ En esta sección se detallan las tareas específicas que el equipo se compromete
 | US-05          | Beneficios               | W-04   | Crear sección de los Beneficio y funcionalidades | Desarrollar una sección de Beneficios y funcionalidades de la app.     | 2                      | Avila Palacios, Aarón Alexander | in progres |
 | US-02          | Testimonios de Usuarios  | W-04   | Crear sección de Reseñas y Footer                | Desarrollar una sección de reseñas con testimonios y el pie de página. | 2                      | Cuentas Peña, Joaquin Alberto   | Done       |
 
-Link del Trello: [https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-3-quantumsoft](https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-3-quantumsoft)
+Link del Trello: https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-3-quantumsoft
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
