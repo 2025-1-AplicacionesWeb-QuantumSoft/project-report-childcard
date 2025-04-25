@@ -339,7 +339,7 @@ link de Trello : [https://trello.com/invite/b/67f6a7f270ad52954f91b6ac/ATTI70535
 # Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management.
 
-A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambio de desarrollo de ChildCard.
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambio de desarrollo de KydiCare.
 
 ### 5.1.1. Software Development Environment Configuration.
 
@@ -399,7 +399,7 @@ Ramas Principales
 
   - main(principal)
 
-    - Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de ChildCard.
+    - Contiene el código estable y listo para la producción, correspondiente a las versiones oficiales de KydiCare.
 
     - Cada release se marca con etiquetas semánticas (ej. v1.0.0) para facilitar el rastreo y la aplicación de las actualizaciones.
 
