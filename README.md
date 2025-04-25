@@ -74,7 +74,33 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
   - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
+    - [1.2.1  Antecedentes y problemática](#121--antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process.](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements.](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores.](#21-competidores)
+    - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas.](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding.](#23-needfinding)
+    - [2.3.1. User Personas.](#231-user-personas)
+    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
+  - [3.2. User Stories.](#32-user-stories)
+  - [3.3. Impact Mapping.](#33-impact-mapping)
+  - [3.4. Product Backlog.](#34-product-backlog)
   - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
   - [3.2. User Stories.](#32-user-stories)
   - [3.3. Impact Mapping.](#33-impact-mapping)
@@ -132,7 +158,22 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product.](#54-video-about-the-product)
+      - [5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
+      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
+      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
+  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
+  - [Video About-the-Team.](#video-about-the-team)
   - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
   - [Video About-the-Team.](#video-about-the-team)
   - [Bibliografía Anexos](#bibliografía-anexos)
@@ -168,12 +209,14 @@ Además, la plataforma permite a los padres calificar el servicio recibido, prop
 
 ### 1.1.2. Perfiles de integrantes del equipo 
 
-####  Nombre: Avila Palacios, Aaron Alexander | U201823654
-![Aaron Avila Palacios](assets/AARON_AVILA.png)  
-> Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.
+| Foto | Nombre | Código | Descripción |
+|------|--------|--------|-------------|
+| ![Aaron Avila Palacios](assets/AARON_AVILA.png) | **Avila Palacios, Aaron Alexander** | U201823654 | > Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne. |
+| ![Walter Luis Fajardo Monrroy](assets/WALTER_FAJARDO.png) | **Walter Luis Fajardo Monrroy** | U202221632 | > Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C++ y Python. También cuento con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo. |
+| ![Joaquin Alberto Cuentas Peña](assets/JOAQUIN_CUENTAS.jpg) | **Joaquin Alberto Cuentas Peña** | U20201F788 | > Soy estudiante de la UPC de la carrera de Ingeniería de Software y me encuentro cursando el 5to ciclo. Cuento con habilidades de programación en C++ y Python, así como aptitudes para el desarrollo en UX y UI. Asimismo, en cuanto a habilidades extracurriculares, he contribuido en proyectos con edición de video y fomentando una actitud colaborativa en equipo. |
+| ![Jorge Alexandro Linares Arroyo](assets/JORGE_LINARES.jpeg) | **Jorge Alexandro Linares Arroyo** | U202318624 | > Estudiante de la carrera de Ingeniería de Software, interesado por el mundo tecnológico y cuento con habilidades para formar parte de ello con conocimiento en desarrollo web. Me considero una persona muy perseverante que le gusta hacer las cosas detalladamente y con criterio. |
+| ![Lynn Jeeferzon Meza Camayo](assets/LYNN_MEZA.jpeg) | **Lynn Jeeferzon Meza Camayo** | U20201C320 | > Mi nombre es Lynn Jeeferzon Meza Camayo, tengo 21 años. Me considero un integrante activo, comprometido con el trabajo y con muchas ganas de aprender más de este proyecto y curso. Escogí esta carrera por mi interés en saber cómo se crean la juegos, aplicaciones y software. Me gusta la tecnología, leer novelas ligeras y jugar videojuegos de trabajo en equipo con amigos. Cuento con conocimiento en C++, HTML, Git, JavaScript, Java y SQL. |
 
-![Walter Luis Fajardo Monrroy](assets/WALTER_FAJARDO.png)
-> Soy Walter Luis Fajardo Monrroy, cuento con 20 años y por motivos de estudio resido en Lima. Soy estudiante de la carrera de ingeniería de software, en mi formación como estudiante durante estos ciclos adquirí conocimientos en programación principalmente con lenguaje C + + y python, También cuanto con conocimientos en patrones de software al momento de realizar mis proyectos, además de experiencia realizando diagramas de clases y empleando el DDD (Diseño orientado a objetos). Las habilidades primarias para resaltar serían la responsabilidad y resiliencia frente a las adversidades. Cuento con experiencia en organización y trabajo grupal lo cual emplearé para beneficio del equipo.
 
 ## 1.2. Solution Profile 
 ### 1.2.1  Antecedentes y problemática 
