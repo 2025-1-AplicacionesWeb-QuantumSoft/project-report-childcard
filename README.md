@@ -98,10 +98,6 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
   - [3.2. User Stories.](#32-user-stories)
   - [3.3. Impact Mapping.](#33-impact-mapping)
   - [3.4. Product Backlog.](#34-product-backlog)
-  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
-  - [3.2. User Stories.](#32-user-stories)
-  - [3.3. Impact Mapping.](#33-impact-mapping)
-  - [3.4. Product Backlog.](#34-product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1. Style Guidelines.](#41-style-guidelines)
     - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
@@ -143,6 +139,9 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
   - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint n](#521-sprint-n)
       - [5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)
+  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation-1)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
       - [5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)
       - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
@@ -150,14 +149,13 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+      - [Colaboración y Desarrollo de Actividades](#colaboración-y-desarrollo-de-actividades)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product.](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team.](#video-about-the-team)
   - [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)
   - [Video About-the-Team.](#video-about-the-team)
   - [Bibliografía Anexos](#bibliografía-anexos)
@@ -1266,6 +1264,30 @@ Estructura básica
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint n 
 #### 5.2.1.1. Sprint Planning n.
+
+## 5.2. Landing Page, Services & Applications Implementation.
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1.
+
+El equipo de desarrollo se reunió virtualmente para definir los objetivos, tareas y entregables del primer sprint, el cual tendrá una duración de una semana. El enfoque principal será el desarrollo y despliegue de la landing page del proyecto en GitHub Pages, asegurando que el producto inicial esté operativo y sirva como base sólida para las siguientes iteracciones.
+
+| Sprint                             | Sprint 1                                                                                                                                                                                     |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background         |
+| Date                               | 2025/04/21                                                                                                                                                                                   |
+| Time                               | 21:00 PM                                                                                                                                                                                     |
+| Location                           | El desarrollo de la reunión se hizo virtualmente por medio de Discord                                                                                                                        |
+| Prepared By                        | Meza Camayo, Lynn Jeeferzon                                                                                                                                                                  |
+| Attendees (to planning meeting)    | Meza Camayo, Lynn Jeeferzon/ Fajardo Monrroy, Walter Luis / Cuentas Peña, Joaquin Alberto/Linares Arroyo, Jorge Alexandro/ Avila Palacios, Aarón Alexander/                                  |
+| Sprint n – 1 Review Summary        | Se desarrollara el primer sprint donde se planea desarrollar el landing page con HTML , CSS3 y tailwind CSS.                                                                                 |
+| Sprint n – 1 Retrospective Summary |                                                                                                                                                                                              |
+| Sprint Goal & User Stories         |
+| Sprint 1 Goal                      | Desarrollar y desplegar la landing page funcional en Github Pages, garantizando que cumpla con los requisitos básicos de diseño, contenido y accesibilidad para servir como base de proyecto |
+| Sprint 1 Velocity                  | 8                                                                                                                                                                                            |
+| Sum of Story Points                | 5                                                                                                                                                                                            |
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
