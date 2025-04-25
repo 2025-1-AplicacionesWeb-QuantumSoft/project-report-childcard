@@ -325,7 +325,7 @@ Para garantizar una ejecución eficiente del Sprint, el equipo ha definido una m
 
 En esta sección se detallan las tareas específicas que el equipo se compromete a completar durante el Sprint 1, alineadas con el Sprint Goal previamente definido. El Sprint Backlog incluye actividades técnicas, de diseño y validación necesarias para desarrollar la landing page funcional, con estimaciones de tiempo, responsables asignados según la matriz LACX.
 
-| **Sprint #**   | **Sprint 1**             |
+| **Sprint #**   | **Sprint 1**             |        |                                                  |                                                                        |                        |                                 |            |
 | -------------- | ------------------------ | ------ | ------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------- | ------------------------------- | ---------- |
 | **User Story** | **Work-Item / Task**     |
 | **Id**         | **Title**                | **Id** | **Title**                                        | **Description**                                                        | **Estimation (Hours)** | **Assigned to**                 | **Status** |
@@ -352,7 +352,7 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-Se logro desarrollar y desplegar la landing page del proyecto. A continuación, presentamos capturas de las vistas implementadas. 
+Se logro desarrollar y desplegar la landing page del proyecto. A continuación, presentamos capturas de las vistas implementadas.
 
 - **Navbar**:
 
@@ -380,7 +380,6 @@ Se logro desarrollar y desplegar la landing page del proyecto. A continuación, 
 
 Link del landing page desplegado: <https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/>
 
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint 1 se desarrollo la landing page, por lo que no hay evidencias del empleo de web services.
@@ -393,8 +392,8 @@ pasos para el despliegue:
 
 1. **Creación del Repositorio en GitHub:** Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
 2. **Configuración de la Rama de despliegue:** Aseguramos que la rama principal del repositorio se llamara `gh-pages`, ya que GitHub Pages toma esta rama como base para el despliegue automático.
-4. **Generación del Enlace de GitHub Pages:** Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente de GitHub Pages para que tomara el contenido de la rama `gh-pages`.
-5. **Despliegue Automático:** GitHub Pages automáticamente detectó los cambios en la rama `gh-pages` y desplegó la landing page en la URL proporcionada por GitHub Pages.
+3. **Generación del Enlace de GitHub Pages:** Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente de GitHub Pages para que tomara el contenido de la rama `gh-pages`.
+4. **Despliegue Automático:** GitHub Pages automáticamente detectó los cambios en la rama `gh-pages` y desplegó la landing page en la URL proporcionada por GitHub Pages.
 
 ![Despliegue-landing-page](./assets/despliegue-landing-page.png)
 
@@ -405,11 +404,11 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
 #### Colaboración y Desarrollo de Actividades
 
 1. **Asignación de Tareas**:
-   
+
 ![evidencia-trello](./assets/evidencia-trello.png)
 
 2. **Evidencia de commits**:
-  
+
 ![commits-sprint-1](./assets/commits-sprint-1.png)
 
 3. **Evidencia de Nertwork**:
@@ -419,7 +418,6 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
 4.**Contributions**
 
 ![contribution-sprint-1](./assets/contribution-sprint-1.png)
-
 
 ## 5.3. Validation Interviews.
 
@@ -439,7 +437,6 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
 
 ## Bibliografía Anexos
 
-
 - **ANEXOS**
 
   - link del repositorio: <https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard>
@@ -447,4 +444,3 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
   - link del figma de web app: <https://www.figma.com/design/mfHgEotBOQ0IGAOMq0gTwG/KidyCare?node-id=0-1&p=f&t=D0Q9mT3m8KE5z9qo-0>
   - link del Trello: <https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-3-quantumsoft>
   - link de la landing page: <https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/>
-  
