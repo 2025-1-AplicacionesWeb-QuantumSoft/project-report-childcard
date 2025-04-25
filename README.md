@@ -228,7 +228,54 @@ Nos planteamos la siguiente pregunta: ¿cómo podemos cerrar la brecha entre pad
 
 
 #### 1.2.2.2. Lean UX Assumptions.
+
+**Business Assumptions**
+
+- Se espera que los padres estén abiertos a utilizar una solución digital para encontrar cuidadores confiables, especialmente si esta ofrece perfiles verificados y opciones personalizadas que se ajusten a sus necesidades de cuidado infantil.
+
+- La necesidad de servicios de alta calidad en el cuidado infantil está en aumento, impulsada por una mayor preocupación por la seguridad y el desarrollo de los niños en entornos domésticos.
+
+- Los cuidadores verán con buenos ojos una plataforma que les permita conectarse fácilmente con familias que requieren sus servicios, sobre todo si esta mejora su visibilidad profesional y les brinda mayores oportunidades laborales.
+
+- Contamos con la capacidad técnica y los recursos necesarios para desarrollar y mantener la plataforma **XXXX**, garantizando su correcto funcionamiento y posibilidad de escalar a medida que crece la demanda.
+
+- La facilidad de uso y el acceso intuitivo serán elementos esenciales para el éxito de la plataforma, permitiendo que tanto padres como cuidadores la utilicen sin dificultad, independientemente de su experiencia tecnológica.
+
+- El mercado del cuidado infantil está en expansión y representa una oportunidad significativa para que **XXXX** se establezca como una solución comercial viable.
+
+- La protección y confidencialidad de los datos personales serán aspectos centrales, y se confía en que los usuarios valorarán la seguridad con la que se gestionará su información.
+
+- La plataforma tendrá la capacidad de ajustarse a diversas necesidades educativas y de cuidado infantil, lo que atraerá a una amplia gama de usuarios en busca de servicios confiables, flexibles y de calidad.
+
+**User Assumptions**
+
+¿Quiénes son nuestros usuarios?
+
+- Nos dirigimos principalmente a padres que necesitan encontrar cuidadores confiables para el cuidado infantil en el hogar, así como a los cuidadores que desean ofrecer sus servicios a estas familias.
+
+¿Cómo se integra nuestro producto en su vida cotidiana?
+
+- **XXXX** forma parte del día a día de los padres al facilitar la búsqueda y gestión del cuidado infantil, y también se convierte en una herramienta clave para los cuidadores en la búsqueda de oportunidades laborales.
+
+¿Qué desafíos enfrenta el producto y cómo pueden solucionarse?
+
+- Entre los retos de XXXX se encuentran garantizar la calidad y confianza en los cuidadores y educadores, incorporar funciones que permitan actualizaciones en tiempo real sobre las actividades de los niños, y mantener a los usuarios activos a través de recursos útiles. Para superarlos, se proponen mecanismos de verificación robustos, herramientas de comunicación y seguimiento en tiempo real, así como contenido educativo valioso para todos los usuarios.
+
+¿Cuándo y de qué manera se utiliza la plataforma?
+
+- XXXX se utiliza cuando los padres necesitan contratar o gestionar servicios de cuidado infantil, y cuando los cuidadores están en búsqueda de empleo y desean conectarse con familias. La plataforma permite realizar reservas, comunicarse directamente y hacer seguimiento de las actividades relacionadas con el cuidado.
+
+¿Qué funcionalidades son esenciales?
+
+- Algunas características clave incluyen: perfiles verificados de cuidadores, opciones de personalización según las necesidades de cada familia, notificaciones en tiempo real sobre las actividades de los niños y acceso a materiales educativos relevantes.
+
+¿Cómo debe lucir y comportarse la plataforma?
+
+- La interfaz de XXXX debe ser clara, amigable y sencilla de usar, permitiendo una navegación fluida para reservar servicios, establecer comunicación entre padres y cuidadores y acceder a recursos útiles. Debe transmitir confianza, seguridad y facilidad de uso para todos los niveles de experiencia tecnológica.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements. 
+
+
 #### 1.2.2.4. Lean UX Canvas. 
 ## 1.3. Segmentos objetivo. 
 # Capítulo II: Requirements Elicitation & Analysis 
