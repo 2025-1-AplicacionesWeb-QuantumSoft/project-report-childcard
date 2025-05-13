@@ -599,10 +599,11 @@ El sistema de navegación está diseñado para ofrecer una experiencia fluida, f
 
 ### 4.4.3. Web Applications User Flow Diagrams. 
 
-## 4.5. Web Applications Prototyping.
 <p align="center">
   <img src="./assets/prototyping.png" alt="Prototyping" width="850">
 </p>  
+
+## 4.5. Web Applications Prototyping.
 
 ## 4.6. Domain-Driven Software Architecture. 
 ### 4.6.1. Software Architecture Context Diagram.
