@@ -196,7 +196,9 @@ Entregrable 1 o TB1 : (25/04/25)
         </td>
         <td>
           <b>TB1</b><br>
-          En conclusión, a través de un liderazgo colaborativo, nuestro equipo logró desarrollar exitosamente la landing page del producto, integrando habilidades complementarias y tomando decisiones conjuntas en cada etapa. Desde el análisis inicial hasta la implementación final, la comunicación constante, la distribución equitativa de responsabilidades y la retroalimentación grupal nos permitieron alinear objetivos garantizando un producto centrado en el usuario. Este proyecto evidenció que el trabajo en equipo, con un liderazgo compartido y flexible, es fundamental para impulsar soluciones innovadoras y alcanzar resultados sólidos de manera eficiente.<br>
+          En conclusión, a través de un liderazgo colaborativo, nuestro equipo logró desarrollar exitosamente la landing page del producto, integrando habilidades complementarias y tomando decisiones conjuntas en cada etapa. Desde el análisis inicial hasta la implementación final, la comunicación constante, la distribución equitativa de responsabilidades y la retroalimentación grupal nos permitieron alinear objetivos garantizando un producto centrado en el usuario. Este proyecto evidenció que el trabajo en equipo, con un liderazgo compartido y flexible, es fundamental para impulsar soluciones innovadoras y alcanzar resultados sólidos de manera eficiente.<br><br>
+          <b>TB2:</b><br>
+          En conclusión, el desarrollo del frontend de nuestro proyecto se logró gracias a un liderazgo compartido y enfocado en la colaboración. Cada miembro del equipo asumió responsabilidades según sus habilidades, lo que facilitó una organización eficiente y una toma de decisiones conjunta. Definimos fechas de entrega y fomentamos una comunicación constante mediante el grupo de whatsapp. Esta forma de trabajo no solo reforzó nuestras capacidades técnicas, sino que también promovió el crecimiento del liderazgo tanto individual como grupal.
         </td>
     </tr>
     <tr>
@@ -218,10 +220,13 @@ Entregrable 1 o TB1 : (25/04/25)
         </td>
         <td>
           <b>TB1:</b><br>
-          En conclucion, El desarrollo de nuestra app de tutores y cuidadores se reflejó un liderazgo colaborativo, donde el equipo trabajó de manera articulada en cada fase, desde el análisis de la problematica y los segmentos objetivos hasta la implementación ágil con sprints . La integración de metodologías Lean UX ayudo en el diseño centrado en el usuario, permitiendo entregar una solución viable y funcional. Este proyecto demostró que el trabajo en equipo, con roles definidos y comunicación constante, es clave para transformar ideas en productos digitales efectivos, superando desafíos técnicos y de usabilidad con un enfoque conjunto.
+          En conclucion, El desarrollo de nuestra app de tutores y cuidadores se reflejó un liderazgo colaborativo, donde el equipo trabajó de manera articulada en cada fase, desde el análisis de la problematica y los segmentos objetivos hasta la implementación ágil con sprints . La integración de metodologías Lean UX ayudo en el diseño centrado en el usuario, permitiendo entregar una solución viable y funcional. Este proyecto demostró que el trabajo en equipo, con roles definidos y comunicación constante, es clave para transformar ideas en productos digitales efectivos, superando desafíos técnicos y de usabilidad con un enfoque conjunto.<br><br>
+          <b>TB2:</b><br>
+          En conclusión, la implementación del frontend se desarrolló dentro de un ambiente de trabajo inclusivo y seguro, en el que todos los integrantes del equipo pudieron participar libremente, compartir sus ideas y contribuir en cada etapa del proyecto. Promovimos el respeto, la equidad y la escucha activa, asegurándonos de que cada voz fuera tomada en cuenta, sin importar el rol o la experiencia previa.
         </td>
     </tr>
 </table>
+
 
 # Capítulo I: Introducción
 
