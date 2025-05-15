@@ -1695,9 +1695,30 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+En este sprint 1 se desarrollo del frontend, por lo que no hay evidencias del empleo de web services.
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 2, el equipo de desarrollo en implementar todas las funcionalidades del frontend.
+
+#### Colaboración y Desarrollo de Actividades
+
+1. **Asignación de Tareas**:
+
+https://trello.com/u/u20201c3201/boards
+
+2. **Evidencia de commits**:
+
+
+3. **Evidencia de Nertwork**:
+
+
+4.**Contributions**
+
+
 
 ## 5.3. Validation Interviews.
 
