@@ -1676,10 +1676,20 @@ En esta sección se detallan las tareas específicas que el equipo se compromete
 | US-01          | Cuerpo de la App         | W-01   | Implementar de BC Registration Services | Creación de la sección de Registracr servicios de niñera | 2                      | Linares Arroyo, Jorge Alexandro | Done       |
 | US-03          | Lista de Características | W-02   | Implementar de BC Payment               | Desarrollar la sección de pagos.                         | 2                      | Meza Camayo, Lynn Jeeferzon     | Done       |
 | US-04          | Contacto con el Equipo   | W-03   | Implementar de BC Reservation           | Implementar una sección de reservaciones                 | 2                      | Fajardo Monrroy, Walter Luis    | Done       |
-| US-05          | Beneficios               | W-04   | Implementar de BC Comunication System   | Desarrollar una sección de Comunicacion                  | 2                      | Avila Palacios, Aarón Alexander | Done |
+| US-20          | Beneficios               | W-04   | Implementar de BC Comunication System   | Desarrollar una sección de Comunicacion                  | 2                      | Avila Palacios, Aarón Alexander | Done |
 | US-02          | Testimonios de Usuarios  | W-04   | Implementar de BC Review System         | Desarrollar una sección de reseñas .                     | 2                      | Cuentas Peña, Joaquin Alberto   | Done       |
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
+En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub.
+
+| **Repository** | **Branch**              | **Commit Id**                            | **Commit Message**                         | **Commit Message Body**                               | **Commited on (Date)** |
+| -------------- | ----------------------- | ---------------------------------------- | ------------------------------------------ | ----------------------------------------------------- | ---------------------- |
+| frontend       | develop                    | 22aedd5437da06acab87fce31332cf7673d13cdb | feat: routes fixed                            | Cambio de rutas                                       | 14/05/2025             |
+| frontend  | features/registration-services-v.0.1 | 999037abc30fe8ece87c13f90ea3c9f60ff4da95 | feat: 6                            | Mejora final del registration-service bounded context              | 14/05/2025 |
+| frontend   | feature/communication-system    | c3ae9e3595d45e28b6265153135d5cf67f9827fc | feat(chat): Connection to db.json in messages and profiles |  Mejora final del comunication-system bounded context   | 14/05/2025          |
+| frontend   | features/review-system-v.0.1  | f9502439f406427bb724c0e0b8c905e44a8df7de | feat: Actualizando features/review-system-v.0.1                       | actualizando routes                  | 14/05/2025             |
+| frontend   | feature/bc-payment.v.0.1     | 8d9b4ca391c6dce822bf1b5b6cb7d4d4f0ae0150 | feat: styles paymnet | Agrega css al bounded context payment           | 14/05/2025             |
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
