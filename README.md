@@ -68,17 +68,7 @@ Entregrable 1 o TB1 : (25/04/25)
       - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
       - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
-        - [**a)Padres/Tutores:**](#apadrestutores)
-          - [Segmentación Geográfica:](#segmentación-geográfica)
-          - [Segmentación Demográfica:](#segmentación-demográfica)
-          - [Segmentación Psicográfica:](#segmentación-psicográfica)
-          - [Segmentación Conductual:](#segmentación-conductual)
-        - [**b) Niñeras/Cuidadores:**](#b-niñerascuidadores)
-          - [Segmentación Geográfica:](#segmentación-geográfica-1)
-          - [Segmentación Demográfica:](#segmentación-demográfica-1)
-          - [Segmentación Psicográfica:](#segmentación-psicográfica-1)
-          - [Segmentación Conductual:](#segmentación-conductual-1)
+  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo) - [**a)Padres/Tutores:**](#apadrestutores) - [Segmentación Geográfica:](#segmentación-geográfica) - [Segmentación Demográfica:](#segmentación-demográfica) - [Segmentación Psicográfica:](#segmentación-psicográfica) - [Segmentación Conductual:](#segmentación-conductual) - [**b) Niñeras/Cuidadores:**](#b-niñerascuidadores) - [Segmentación Geográfica:](#segmentación-geográfica-1) - [Segmentación Demográfica:](#segmentación-demográfica-1) - [Segmentación Psicográfica:](#segmentación-psicográfica-1) - [Segmentación Conductual:](#segmentación-conductual-1)
 - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1. Competidores.](#21-competidores)
     - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
@@ -157,6 +147,15 @@ Entregrable 1 o TB1 : (25/04/25)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
       - [Colaboración y Desarrollo de Actividades](#colaboración-y-desarrollo-de-actividades)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
@@ -516,8 +515,7 @@ De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada
 
 ### 2.2.1. Diseño de entrevistas.
 
-
-### Preguntas para niñeras certificadas: 
+### Preguntas para niñeras certificadas:
 
 1. ¿Qué medios usas actualmente para encontrar trabajo como niñera?
 
@@ -538,7 +536,6 @@ De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada
 9. ¿Cómo prefieres que te contacten las familias: por mensaje, llamada, a través de la app...?
 
 10. ¿Estarías dispuesta a pagar una pequeña comisión o suscripción si la app te ayudara a conseguir trabajo más fácilmente? ¿Por qué sí o por qué no?
-
 
 ### Preguntas para Para padres de familia
 
@@ -562,9 +559,7 @@ De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada
 
 10 .¿Qué te haría confiar en una nueva aplicación para contratar niñeras?
 
-
 ### 2.2.2. Registro de entrevistas.
-
 
 ![Entrevista 1](assets/Entrevista%201.jpg)
 
@@ -574,13 +569,12 @@ De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada
 
 - Ubicación en Los olivos, Lima, Perú
 
-#### Entrevista: ####
+#### Entrevista:
 
 link: https://youtu.be/XEUXEqPSi4k
 
 **Resumen**
 Andrea, de 23 años, ha trabajado como niñera en varios hogares y encuentra trabajo principalmente por redes sociales y recomendaciones. Considera importante que las familias sean claras con sus necesidades y respeten los horarios acordados. Si usara una app, compartiría su foto, referencias, turnos y servicios específicos. Se siente cómoda recibiendo calificaciones públicas, ya que ayudan a mejorar su visibilidad y desempeño. Además, le gustaría que la app incluya comentarios, calificaciones, estadísticas y opciones de contacto.
-
 
 ![Entrevista 2](assets/Entrevista%202.jpg)
 
@@ -590,14 +584,14 @@ Andrea, de 23 años, ha trabajado como niñera en varios hogares y encuentra tra
 
 - Ubicación no especificada para esta entrevista
 
-#### Entrevista: ####
+#### Entrevista:
+
 link: https://youtu.be/pCsz0xk5Z2k
 
 **Resumen:**
 Alessandra, una niñera de 20 años, comparte que encuentra trabajo principalmente a través de Facebook, recomendaciones y WhatsApp. Valora la confianza, el respeto y el buen trato con las familias. Le gustaría mostrar en su perfil experiencia, disponibilidad, referencias y formación. Apoya la idea de recibir comentarios respetuosos que ayuden a generar confianza. Considera útil que una app tenga filtrado por zona, calendario, chat y verificación de perfiles, aunque no ha tenido buena experiencia con apps similares. Confiaría en una nueva si se verificara a los padres.
 
-
-#### Segmento 2:Padres de familia ####
+#### Segmento 2:Padres de familia
 
 ![Entrevista 3](assets/Entrevista%203.jpg)
 
@@ -607,12 +601,12 @@ Alessandra, una niñera de 20 años, comparte que encuentra trabajo principalmen
 
 - Ubicación no especificada para esta entrevista
 
-#### Entrevista: ####
+#### Entrevista:
+
 link: https://youtu.be/k-bONuGLquw
 
 **Resumen:**
 Edery, un padre de familia comparte sus expectativas sobre una aplicación para contratar niñeras. Él busca principalmente seguridad, verificación de identidad y antecedentes, referencias reales, y disponibilidad clara. Prefiere tener una interacción previa con la niñera a través de chat o videollamada, y estaría dispuesto a pagar entre 20 y 50 soles por hora según el servicio. También valora una interfaz fácil de usar, reseñas de otros padres y la posibilidad de hacer evaluaciones públicas. Sus respuestas ofrecen una guía directa para diseñar una plataforma confiable, útil y centrada en las necesidades reales de los usuarios.
-
 
 ![Entrevista 4](assets/Entrevista%204.jpg)
 
@@ -622,7 +616,8 @@ Edery, un padre de familia comparte sus expectativas sobre una aplicación para 
 
 - Ubicación en San Miguel, Lima, Perú
 
-#### Entrevista: ####
+#### Entrevista:
+
 link: https://youtu.be/5tE2mM7XAik
 
 **Resumen**
@@ -630,24 +625,20 @@ Eric, de 27 años, es padre de dos hijos y suele buscar niñeras a través de re
 
 ### 2.2.3. Análisis de entrevistas.
 
-
- **Segmento 1: Niñeras con experiencia**
- **Entrevista 1: Andrea Santur** 
+**Segmento 1: Niñeras con experiencia**
+**Entrevista 1: Andrea Santur**
 **Análisis de la entrevista:** La entrevista con Andrea, una joven niñera de 23 años con experiencia previa, valora que las familias sean claras en sus requerimientos y respetuosas con los horarios y límites. Al presentarse en una app, desea mostrar su rostro, disponibilidad, referencias y experiencia. Está completamente abierta a recibir calificaciones públicas y espera funciones como valoraciones, estadísticas de desempeño, chats en vivo y la posibilidad de ofrecer servicios premium. Para acceder a suscribirse, consideraría clave la facilidad de uso, buena reputación y funcionalidades específicas que le ayuden a visibilizarse
 
-
- **Entrevista 2: Alessandra Becerra**
- **Análisis de la entrevista:**  La entrevista con Alessandra, permite comprender las necesidades, preferencias y limitaciones de las niñeras en la búsqueda de empleo. Ella destaca la importancia de la confianza mutua con las familias, la visibilidad de su experiencia, referencias y formación, así como el uso frecuente de canales de comunicación como redes sociales y WhatsApp. Identifica limitaciones como la inestabilidad en la demanda y la baja efectividad de las plataformas existentes. Finalmente, expresa disposición para ser evaluada y pagar por una aplicación útil
-
+**Entrevista 2: Alessandra Becerra**
+**Análisis de la entrevista:** La entrevista con Alessandra, permite comprender las necesidades, preferencias y limitaciones de las niñeras en la búsqueda de empleo. Ella destaca la importancia de la confianza mutua con las familias, la visibilidad de su experiencia, referencias y formación, así como el uso frecuente de canales de comunicación como redes sociales y WhatsApp. Identifica limitaciones como la inestabilidad en la demanda y la baja efectividad de las plataformas existentes. Finalmente, expresa disposición para ser evaluada y pagar por una aplicación útil
 
 **Segmento 2: Padres de familia**
 
-**Entrevista 1:  Edery Abanto**
+**Entrevista 1: Edery Abanto**
 **Análisis de la entrevista:** El entrevistado, un padre de familia, revela su preocupación fundamental por la seguridad, la verificación de antecedentes, y la transparencia en los perfiles de las niñeras. Además, menciona su preferencia por plataformas con interacción previa, variedad de servicios y buena experiencia de usuario. La entrevista refleja una necesidad de soluciones tecnológicas confiables en el ámbito del cuidado de niños pequeños, destacando puntos clave para el desarrollo de nuestra aplicación.
 
- **Entrevista 2: Eric Olivera**
- **Análisis de la entrevista:** La entrevista con Eric, revela preocupaciones comunes en los padres al buscar servicios de niñera: confianza, seguridad y facilidad de uso. Prefiere recomendaciones cercanas, pero reconoce que eso limita las opciones. Su principal barrera al usar plataformas digitales es la falta de verificación confiable. Eric busca una niñera responsable, puntual, con experiencia y capacidad para manejar emergencias. Valora perfiles detallados, con fotos, videos, referencias y disponibilidad clara. Además, espera poder interactuar con las candidatas antes de contratarlas.
-
+**Entrevista 2: Eric Olivera**
+**Análisis de la entrevista:** La entrevista con Eric, revela preocupaciones comunes en los padres al buscar servicios de niñera: confianza, seguridad y facilidad de uso. Prefiere recomendaciones cercanas, pero reconoce que eso limita las opciones. Su principal barrera al usar plataformas digitales es la falta de verificación confiable. Eric busca una niñera responsable, puntual, con experiencia y capacidad para manejar emergencias. Valora perfiles detallados, con fotos, videos, referencias y disponibilidad clara. Además, espera poder interactuar con las candidatas antes de contratarlas.
 
 ## 2.3. Needfinding.
 
@@ -1642,6 +1633,61 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
 4.**Contributions**
 
 ![contribution-sprint-1](./assets/contribution-sprint-1.png)
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+| Sprint                             | Sprint 1                                                                                                                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sprint Planning Background         |
+| Date                               | 2025/05/09                                                                                                                                                                                       |
+| Time                               | 21:00 PM                                                                                                                                                                                         |
+| Location                           | El desarrollo de la reunión se hizo virtualmente por medio de Discord                                                                                                                            |
+| Prepared By                        | Meza Camayo, Lynn Jeeferzon                                                                                                                                                                      |
+| Attendees (to planning meeting)    | Meza Camayo, Lynn Jeeferzon/ Fajardo Monrroy, Walter Luis / Cuentas Peña, Joaquin Alberto/Linares Arroyo, Jorge Alexandro/ Avila Palacios, Aarón Alexander/                                      |
+| Sprint n – 1 Review Summary        | Se desarrollara el primer sprint donde se planea desarrollar el landing page con HTML , CSS3 y tailwind CSS.                                                                                     |
+| Sprint n – 1 Retrospective Summary | Se mejoro el Landing page                                                                                                                                                                        |
+| Sprint Goal & User Stories         |
+| Sprint 1 Goal                      | Desarrollar y desplegar la primera versión de la pagian web funcional, garantizando que cumpla con los requisitos básicos de diseño, contenido y accesibilidad para servir como base de proyecto |
+| Sprint 1 Velocity                  | 8                                                                                                                                                                                                |
+| Sum of Story Points                | 5                                                                                                                                                                                                |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+Para garantizar una ejecución eficiente del Sprint, el equipo ha definido una matriz de liderazgo y colaboración (LACX), que asigna responsabilidades claras en los aspectos clave del desarrollo. Esta estructura promueve la coordinación efectiva, evita duplicidad de esfuerzos y asegura que cada tarea cuente con un líder responsable y colaboradores de apoyo.
+
+| Team Member (Last Name, First Name) | GitHub Username | BC Registration Services | BC Payment | BC Reservation | BC Comunication System | BC Review System |
+| ----------------------------------- | --------------- | ------------------------ | ---------- | -------------- | ---------------------- | ---------------- |
+| Meza Camayo, Lynn Jeeferzon         | ajimenezrosas   | C                        | L          | C              | C                      | C                |
+| Fajardo Monrroy, Walter Luis        | ajimenezrosas   | L                        | C          | c              | C                      | C                |
+| Cuentas Peña, Joaquin Alberto       | ajimenezrosas   | C                        | C          | C              | C                      | L                |
+| Linares Arroyo, Jorge Alexandro     | ajimenezrosas   | C                        | C          | L              | C                      | C                |
+| Avila Palacios, Aarón Alexander     | ajimenezrosas   | C                        | C          | C              | L                      | C                |
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+En esta sección se detallan las tareas específicas que el equipo se compromete a completar durante el Sprint 1, alineadas con el Sprint Goal previamente definido. El Sprint Backlog incluye actividades técnicas, de diseño y validación necesarias para desarrollar la landing page funcional, con estimaciones de tiempo, responsables asignados según la matriz LACX.
+
+| **Sprint #**   | **Sprint 1**             |        |                                         |                                                          |                        |                                 |            |
+| -------------- | ------------------------ | ------ | --------------------------------------- | -------------------------------------------------------- | ---------------------- | ------------------------------- | ---------- |
+| **User Story** | **Work-Item / Task**     |
+| **Id**         | **Title**                | **Id** | **Title**                               | **Description**                                          | **Estimation (Hours)** | **Assigned to**                 | **Status** |
+| US-01          | Cuerpo de la App         | W-01   | Implementar de BC Registration Services | Creación de la sección de Registracr servicios de niñera | 2                      | Linares Arroyo, Jorge Alexandro | Done       |
+| US-03          | Lista de Características | W-02   | Implementar de BC Payment               | Desarrollar la sección de pagos.                         | 2                      | Meza Camayo, Lynn Jeeferzon     | Done       |
+| US-04          | Contacto con el Equipo   | W-03   | Implementar de BC Reservation           | Implementar una sección de reservaciones                 | 2                      | Fajardo Monrroy, Walter Luis    | Done       |
+| US-05          | Beneficios               | W-04   | Implementar de BC Comunication System   | Desarrollar una sección de Comunicacion                  | 2                      | Avila Palacios, Aarón Alexander | Done |
+| US-02          | Testimonios de Usuarios  | W-04   | Implementar de BC Review System         | Desarrollar una sección de reseñas .                     | 2                      | Cuentas Peña, Joaquin Alberto   | Done       |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 
