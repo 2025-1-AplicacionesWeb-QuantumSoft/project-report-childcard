@@ -1698,6 +1698,10 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+En el Sprint 2, el equipo consiguió desarrollar e integrar diversas funcionalidades esenciales para la plataforma web. Entre las principales se encuentran los paneles de filtrado de cuidadores, el sistema de mensajería en línea, la opción de reservar citas y la integración del sistema de pagos. Estas mejoras han contribuido notablemente a optimizar la experiencia del usuario, ofreciendo una navegación más ágil e intuitiva. A continuación, se muestran capturas que ilustran las vistas y funciones más relevantes desarrolladas durante este Sprint.
+
+(imagenes)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint 1 se desarrollo del frontend, por lo que no hay evidencias del empleo de web services.
