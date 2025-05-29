@@ -1695,6 +1695,31 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 | frontend   | features/review-system-v.0.1  | f9502439f406427bb724c0e0b8c905e44a8df7de | feat: Actualizando features/review-system-v.0.1                       | actualizando routes                  | 14/05/2025             |
 | frontend   | feature/bc-payment.v.0.1     | 8d9b4ca391c6dce822bf1b5b6cb7d4d4f0ae0150 | feat: styles paymnet | Agrega css al bounded context payment           | 14/05/2025             |
 
+| frontend   | develop     | 3ef095257c8c5ca9c3767922d1ec7347c6e5e733 | routes images modified |            | 15/05/2025             |
+| frontend   | develop     | 430391ca502fc8b695128dd68ff6b4b1a9e4a23c | sidebar fixedt |           | 15/05/2025             |
+| frontend   | develop    | c64bd316b82c0c20c98e88af960ca54b9b9b7e02 | sidebar modified |            | 15/05/2025             |
+| frontend   | develop   | e2687453784f012551c5725eb5171df5c9d9b71d | routes fixed |           | 15/05/2025             |
+| frontend   | develop    | 90bf7d1fc8757a709f02dd671e5a24932a984bcf | Merge branch 'features/review-system-v.0.1' into develop |           | 14/05/2025             |
+| frontend   | develop    | 172df4c283cfd02ec2ca8979f5fc43ac2d89aedd | server fixed |         | 14/05/2025             |
+| frontend   | develop    | 2bd732991e2df11e777644b9115444712073d598 | server fix |         | 14/05/2025             |
+| frontend   | develop    | fb06269e93b20359785924e3fe1be0771d70fe59 | packege fixed |         | 14/05/2025             |
+| frontend   | develop    | f67819e47d55f96b852bac1f15322dea926f066d | fix server |         | 14/05/2025             |
+| frontend   | develop    | d37a08f904e20cffa6e034f540435f6b9d705d51 | fixed server |         | 14/05/2025             |
+| frontend   | develop    | 22aedd5437da06acab87fce31332cf7673d13cdb | routes fixed |         | 14/05/2025             |
+| frontend   | develop + features/review-system-v.0.1  | cc21184490459c5387bbac5279bc52e1258f9cbe | Actualizando bounded context review-system 14/05 |         | 14/05/2025             |
+| frontend   | develop + features/registration-services-v.0.1  | 8054668dc617fc19fbdca0d6ac2f4e3943e21250 | feat: change5 |         | 14/05/2025             |
+| frontend   | develop + features/registration-services-v.0.1    | f92ee0510c604827ffbd4c538a3938e8d4ed88b5 | feat: change4 |         | 14/05/2025             |
+| frontend   | develop + feature/communication-system   | c3ae9e3595d45e28b6265153135d5cf67f9827fc | feat(chat): Connection to db.json in messages and profiles |         | 14/05/2025             |
+| frontend   | develop + feature/communication-system   | 9cff1886b2958a118989775f88dcac4b2f9d29dd | feat(chat): breakdown of components |         | 14/05/2025             |
+| frontend   | develop + features/registration-services-v.0.1   | f54e4cbd5f8238eb1db09ba8d601683e3b953a53 | feat: change3 |         | 14/05/2025             |
+| frontend   | develop + features/registration-services-v.0.1   | 80651078c9e8ade2b6de700c9744d2198d5c2ff3 | feat: change2 |         | 14/05/2025             |
+| frontend   | develop + features/registration-services-v.0.1   | fbd3be8e9562f4bb16d9aa06c2159d9ea45d165d | feat: change |         | 14/05/2025             |
+| frontend   | develop + features/registration-services-v.0.1   | fbd3be8e9562f4bb16d9aa06c2159d9ea45d165d | feat: preview 1 |         | 14/05/2025             |
+| frontend   | develop + feature/bc-payment.v.0.1   | 832e2ad92613d03e2541664481a15b53425bf7d0 | fix: update .env.development |         | 14/05/2025             |
+| frontend   | develop + features/review-system-v.0.1   | 6b3c8e73d7ee19b3b7d7c46b554a3e695e6b1094 | Agregando los idiomas a features/review-system |         | 14/05/2025             |
+| frontend   | develop    |  |  |         | 14/05/2025             |
+
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
