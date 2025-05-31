@@ -1694,7 +1694,6 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 | frontend   | feature/communication-system    | c3ae9e3595d45e28b6265153135d5cf67f9827fc | feat(chat): Connection to db.json in messages and profiles |  Mejora final del comunication-system bounded context   | 14/05/2025          |
 | frontend   | features/review-system-v.0.1  | f9502439f406427bb724c0e0b8c905e44a8df7de | feat: Actualizando features/review-system-v.0.1                       | actualizando routes                  | 14/05/2025             |
 | frontend   | feature/bc-payment.v.0.1     | 8d9b4ca391c6dce822bf1b5b6cb7d4d4f0ae0150 | feat: styles paymnet | Agrega css al bounded context payment           | 14/05/2025             |
-
 | frontend   | develop     | 3ef095257c8c5ca9c3767922d1ec7347c6e5e733 | routes images modified |            | 15/05/2025             |
 | frontend   | develop     | 430391ca502fc8b695128dd68ff6b4b1a9e4a23c | sidebar fixedt |           | 15/05/2025             |
 | frontend   | develop    | c64bd316b82c0c20c98e88af960ca54b9b9b7e02 | sidebar modified |            | 15/05/2025             |
@@ -1717,7 +1716,16 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 | frontend   | develop + features/registration-services-v.0.1   | fbd3be8e9562f4bb16d9aa06c2159d9ea45d165d | feat: preview 1 |         | 14/05/2025             |
 | frontend   | develop + feature/bc-payment.v.0.1   | 832e2ad92613d03e2541664481a15b53425bf7d0 | fix: update .env.development |         | 14/05/2025             |
 | frontend   | develop + features/review-system-v.0.1   | 6b3c8e73d7ee19b3b7d7c46b554a3e695e6b1094 | Agregando los idiomas a features/review-system |         | 14/05/2025             |
-| frontend   | develop    |  |  |         | 14/05/2025             |
+| frontend   | develop + feature/bc-payment.v.0.1    | 8d9b4ca391c6dce822bf1b5b6cb7d4d4f0ae0150 | feat: styles paymnet |         | 13/05/2025             |
+| frontend   | develop + feature/bc-payment.v.0.1    | c97f63255fbd954ca0c821291e9948ed6f8bfbea | feat: styles paymnet |         | 13/05/2025             |
+| frontend   | develop + feature/communication-system   | 0fbc6eadc1cf6e5f0b38f60d99365558a1e1c6d1 | feat(chat): add basic chat interface with message display and input |         | 13/05/2025             |
+| frontend   | develop + feature/bc-payment.v.0.1   | c91e7882c260c4858eacefe8adcc589846e6bdb1 | fix:update payment |         | 13/05/2025             |
+| frontend   | develop + feature/bc-payment.v.0.1   | f002faf20885db650e5d43c52d7f934a5da42d82 | fix:update payment page |         | 13/05/2025             |
+| frontend   | develop + feature/bc-payment.v.0.1   | 944ec53c9c8165441727a9f17d7e975b38ce028b | pix:update payment history |         | 12/05/2025             |
+| frontend   | develop + feature/bc-payment.v.0.1   | 2f3aa39d6e2e947280a22720bb0e96fcb96538fa | fix: update branch |         | 12/05/2025             |
+| frontend   | develop + feature/bc-payment.v.0.1   | 19b46b1ec19405ca4d3ad8763614ad64f913002b | feat: create component payment |         | 12/05/2025             |
+| frontend   | develop + features/review-system-v.0.1   | 86c9c90b2ff991b01327b4ac8f315be55f1bfae2 | Actualizando rama interview 07-05-20225 |         | 07/05/2025             |
+| frontend   | develop + features/review-system-v.0.1   | 490c1e797796518223acd44e78104d1e0cb8ccd7 | Agregado el bounded context de reseñas - 06/05/2025 |         | 06/05/2025             |
 
 
 
