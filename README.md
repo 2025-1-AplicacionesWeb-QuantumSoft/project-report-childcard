@@ -1733,13 +1733,48 @@ En esta sección, se presentan los commits realizados en el repositorio de la la
 
 En el Sprint 2, el equipo consiguió desarrollar e integrar diversas funcionalidades esenciales para la plataforma web. Entre las principales se encuentran los paneles de filtrado de cuidadores, el sistema de mensajería en línea, la opción de reservar citas y la integración del sistema de pagos. Estas mejoras han contribuido notablemente a optimizar la experiencia del usuario, ofreciendo una navegación más ágil e intuitiva. A continuación, se muestran capturas que ilustran las vistas y funciones más relevantes desarrolladas durante este Sprint.
 
-(imagenes)
+**Main Section**
+
+<p align="center">
+  <img src="./assets/Landing-page-1.png" alt="Main Section1" width="850">
+</p>
+
+<p align="center">
+  <img src="./assets/Landing-page-2.png" alt="Main Section2" width="850">
+</p>
+
+**Babysitters Section**
+
+<p align="center">
+  <img src="./assets/Landing-page-3.png" alt="Babysitters Section" width="850">
+</p>
+
+**Reservations Section**
+
+<p align="center">
+  <img src="./assets/Landing-page-4.png" alt="Reservations Section" width="850">
+</p>
+
+**Payment Section**
+
+<p align="center">
+  <img src="./assets/Landing-page-5.png" alt="Reservations Section" width="850">
+</p>
+
+**Messages Section**
+
+<p align="center">
+  <img src="./assets/Landing-page-6.png" alt="Reservations Section" width="850">
+</p>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-En este sprint 1 se desarrollo del frontend, por lo que no hay evidencias del empleo de web services.
+Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend del proyecto, utilizando Vue.js para las funcionalidades interactivas.
+
+Repositorio de Web Services (Planificado para los próximos sprints): Se ha preparado el repositorio que se utilizará para el desarrollo de la lógica del backend y para la implementación de los endpoints REST que se necesitarán en los próximos sprints
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
@@ -1758,7 +1793,7 @@ https://trello.com/u/u20201c3201/boards
 3. **Evidencia de Nertwork**:
 
 
-4.**Contributions**
+4. **Contributions**
 
 
 
