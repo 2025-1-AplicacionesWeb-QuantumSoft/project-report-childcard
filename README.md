@@ -1619,7 +1619,7 @@ pasos para el despliegue:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionalidades de la landing page.
+Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionalidades de la landing page y la realización del documento.
 
 #### Colaboración y Desarrollo de Actividades
 
@@ -1629,14 +1629,32 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
 
 2. **Evidencia de commits**:
 
+Repositorio:
+
+**Documento**
+![commits-documento](./assets/commits-documento.png)
+
+**Landing Page**
 ![commits-sprint-1](./assets/commits-sprint-1.png)
 
 3. **Evidencia de Nertwork**:
 
+Repositorio:
+
+**Documento**
+![network-documento](./assets/network-documento.png)
+
+**Landing Page**
 ![nerwortk-sprint-1](./assets/network-sprint-1.png)
 
 4.**Contributions**
 
+Repositorios:
+
+**Documento**
+![contributors-documento](./assets/contributors-documento.png)
+
+**Landing Page**
 ![contribution-sprint-1](./assets/contribution-sprint-1.png)
 
 ### 5.2.2. Sprint 2
@@ -1789,20 +1807,6 @@ https://trello.com/u/u20201c3201/boards
 
 2. **Evidencia de commits**:
 
-Repositorios: 
-
-**Documento**
-
-<p align="center">
-  <img src="./assets/commits-documento.png" alt="Documento 1" width="850">
-</p>
-
-**Landing Page**
-
-<p align="center">
-  <img src="" alt="Landing Page 1" width="850">
-</p>
-
 **Frontend**
 
 <p align="center">
@@ -1811,20 +1815,6 @@ Repositorios:
 
 3. **Evidencia de Nertwork**
 
-Repositorios: 
-
-**Documento**
-
-<p align="center">
-  <img src="./assets/network-documento.png" alt="Documento 2" width="850">
-</p>
-
-**Landing Page**
-
-<p align="center">
-  <img src="" alt="Landing Page 2" width="850">
-</p>
-
 **Frontend**
 
 <p align="center">
@@ -1832,20 +1822,6 @@ Repositorios:
 </p>
 
 4. **Contributors**
-
-Repositorios: 
-
-**Documento**
-
-<p align="center">
-  <img src="./assets/contributors-documento.png" alt="Documento 3" width="850">
-</p>
-
-**Landing Page**
-
-<p align="center">
-  <img src="" alt="Landing Page 3" width="850">
-</p>
 
 **Frontend**
 
