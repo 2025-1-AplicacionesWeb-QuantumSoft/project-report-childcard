@@ -1789,12 +1789,69 @@ https://trello.com/u/u20201c3201/boards
 
 2. **Evidencia de commits**:
 
+Repositorios: 
 
-3. **Evidencia de Nertwork**:
+**Documento**
 
+<p align="center">
+  <img src="./assets/commits-documento.png" alt="Documento 1" width="850">
+</p>
 
-4. **Contributions**
+**Landing Page**
 
+<p align="center">
+  <img src="" alt="Landing Page 1" width="850">
+</p>
+
+**Frontend**
+
+<p align="center">
+  <img src="" alt="Frontend 1" width="850">
+</p>
+
+3. **Evidencia de Nertwork**
+
+Repositorios: 
+
+**Documento**
+
+<p align="center">
+  <img src="./assets/network-documento.png" alt="Documento 2" width="850">
+</p>
+
+**Landing Page**
+
+<p align="center">
+  <img src="" alt="Landing Page 2" width="850">
+</p>
+
+**Frontend**
+
+<p align="center">
+  <img src="" alt="Frontend 2" width="850">
+</p>
+
+4. **Contributors**
+
+Repositorios: 
+
+**Documento**
+
+<p align="center">
+  <img src="./assets/contributors-documento.png" alt="Documento 3" width="850">
+</p>
+
+**Landing Page**
+
+<p align="center">
+  <img src="" alt="Landing Page 3" width="850">
+</p>
+
+**Frontend**
+
+<p align="center">
+  <img src="" alt="Frontend 3" width="850">
+</p>
 
 
 ## 5.3. Validation Interviews.
