@@ -1657,14 +1657,13 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 5. Actualización de Reserva
 6. Historial de pagos
 7. Registro de Review
-8. Actualizacion de Reserva
-9. Perfil de Usuario
+8. Perfil de Usuario
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 
-10. Iniciar Sesion y Registro
-11. Registro de Servicios
-12. Sistema de Pago
+1. Iniciar Sesion y Registro
+2. Registro de Servicios
+3. Sistema de Pago
 
 ### ESCALA DE SEVERIDAD:
 
