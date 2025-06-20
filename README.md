@@ -1659,7 +1659,9 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 7. Registro de Review
 8. Actualizacion de Reserva
 9. Perfil de Usuario
-   No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
 10. Iniciar Sesion y Registro
 11. Registro de Servicios
 12. Sistema de Pago
@@ -1681,7 +1683,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 | --- | -------------------------------------------------------- | ------------------- | ------------------------------------------------------ |
 | 1   | Los iconos de los perfiles al buscar no aparece.         | 2                   | Inclusive Design: Proporciona experiencias comparables |
 | 2   | El toolbar de filtrado no tienen una buena presentación. | 1                   | Inclusive Design: Proporciona experiencias comparables |
-| 4   | Se presenta el sistema de chat de forma incompleta       | 4                   | Usabilidad - Consistencia y estándares                 |
+| 3   | Se presenta el sistema de chat de forma incompleta       | 4                   | Usabilidad - Consistencia y estándares                 |
 
 ## DESCRIPCIÓN DE PROBLEMAS:
 
