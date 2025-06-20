@@ -1644,8 +1644,36 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
 ![contribution-sprint-1](./assets/contribution-sprint-1.png)
 
 ## 5.3. Validation Interviews.
+Después de avanzar en el desarrollo de la landing page, la aplicación web (frontend) y la API RESTful (backend) de KidyCare, realizamos entrevistas de validación. Estas entrevistas permitieron a los usuarios de ambos segmentos objetivos obtener una primera impresión del software.
 
 ### 5.3.1. Diseño de Entrevistas.
+
+ Elaboramos las siguientes preguntas para obtener información de nuestros segmentos objetivos mediante las entrevistas.
+
+-	PRESENTACION  DE A QUE SEGMENTO OBJETIVO PERTENECE(nombre, edad, ocupación)
+ 
+-	EXPLORACION LANDING PAGE:
+-	Según lo que viste en la landing page, ¿qué entendiste que ofrece Kydicare?
+-	¿Crees que esta aplicación sería adecuada para tu ocupación?
+
+-	EXPLORACION DEL LA APP (EN SILENCIO el entrevistado explora todas las opciones de la app)
+
+…“En base al testeo de la aplicación, ahora le haré las siguientes preguntas” :
+
+¿Cómo describirías tu experiencia al buscar una niñera según tus preferencias?
+¿La información de las niñeras se presenta de forma clara y fácil de comparar?
+¿El sistema informa de manera clara si el pago fue realizado con éxito?
+¿El proceso de pago te resulta familiar y similar a otros que has utilizado en compras en línea?
+¿El sistema muestra de forma clara cuándo los cambios en el perfil han sido guardados correctamente?
+¿La información que se debe ingresar en el perfil es comprensible y fácil de completar?
+¿La información mostrada en las reseñas es comprensible sin necesidad de explicaciones adicionales?
+¿El formulario de reseñas mantiene un estilo visual coherente con el resto de la aplicación (colores, botones, campos, etc.)?
+¿Pudiste enviar un mensaje correctamente desde el apartado de mensajería?
+¿El sistema de mensajería fue fácil de usar y entender?
+CIERRE
+-	Qué es lo que más te gustó de la app
+-	Cómo niñera usarías/padre familia esta aplicación en base a sus funciones?
+
 
 ### 5.3.2. Registro de Entrevistas.
 
