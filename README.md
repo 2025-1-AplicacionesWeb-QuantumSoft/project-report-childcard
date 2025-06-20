@@ -68,17 +68,7 @@ Para el desarrollo de la entrega TB1, se desarrollo las actividades de elaboraci
       - [1.2.2.2. Lean UX Assumptions.](#1222-lean-ux-assumptions)
       - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
-  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
-        - [**a)Padres/Tutores:**](#apadrestutores)
-          - [Segmentación Geográfica:](#segmentación-geográfica)
-          - [Segmentación Demográfica:](#segmentación-demográfica)
-          - [Segmentación Psicográfica:](#segmentación-psicográfica)
-          - [Segmentación Conductual:](#segmentación-conductual)
-        - [**b) Niñeras/Cuidadores:**](#b-niñerascuidadores)
-          - [Segmentación Geográfica:](#segmentación-geográfica-1)
-          - [Segmentación Demográfica:](#segmentación-demográfica-1)
-          - [Segmentación Psicográfica:](#segmentación-psicográfica-1)
-          - [Segmentación Conductual:](#segmentación-conductual-1)
+  - [1.3. Segmentos objetivo.](#13-segmentos-objetivo) - [**a)Padres/Tutores:**](#apadrestutores) - [Segmentación Geográfica:](#segmentación-geográfica) - [Segmentación Demográfica:](#segmentación-demográfica) - [Segmentación Psicográfica:](#segmentación-psicográfica) - [Segmentación Conductual:](#segmentación-conductual) - [**b) Niñeras/Cuidadores:**](#b-niñerascuidadores) - [Segmentación Geográfica:](#segmentación-geográfica-1) - [Segmentación Demográfica:](#segmentación-demográfica-1) - [Segmentación Psicográfica:](#segmentación-psicográfica-1) - [Segmentación Conductual:](#segmentación-conductual-1)
 - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1. Competidores.](#21-competidores)
     - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
@@ -516,8 +506,7 @@ De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada
 
 ### 2.2.1. Diseño de entrevistas.
 
-
-### Preguntas para niñeras certificadas: 
+### Preguntas para niñeras certificadas:
 
 1. ¿Qué medios usas actualmente para encontrar trabajo como niñera?
 
@@ -538,7 +527,6 @@ De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada
 9. ¿Cómo prefieres que te contacten las familias: por mensaje, llamada, a través de la app...?
 
 10. ¿Estarías dispuesta a pagar una pequeña comisión o suscripción si la app te ayudara a conseguir trabajo más fácilmente? ¿Por qué sí o por qué no?
-
 
 ### Preguntas para Para padres de familia
 
@@ -562,9 +550,7 @@ De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada
 
 10 .¿Qué te haría confiar en una nueva aplicación para contratar niñeras?
 
-
 ### 2.2.2. Registro de entrevistas.
-
 
 ![Entrevista 1](assets/Entrevista%201.jpg)
 
@@ -574,13 +560,12 @@ De esta manera nos diferenciaremos ofreciendo una experiencia más personalizada
 
 - Ubicación en Los olivos, Lima, Perú
 
-#### Entrevista: ####
+#### Entrevista:
 
 link: https://youtu.be/XEUXEqPSi4k
 
 **Resumen**
 Andrea, de 23 años, ha trabajado como niñera en varios hogares y encuentra trabajo principalmente por redes sociales y recomendaciones. Considera importante que las familias sean claras con sus necesidades y respeten los horarios acordados. Si usara una app, compartiría su foto, referencias, turnos y servicios específicos. Se siente cómoda recibiendo calificaciones públicas, ya que ayudan a mejorar su visibilidad y desempeño. Además, le gustaría que la app incluya comentarios, calificaciones, estadísticas y opciones de contacto.
-
 
 ![Entrevista 2](assets/Entrevista%202.jpg)
 
@@ -590,14 +575,14 @@ Andrea, de 23 años, ha trabajado como niñera en varios hogares y encuentra tra
 
 - Ubicación no especificada para esta entrevista
 
-#### Entrevista: ####
+#### Entrevista:
+
 link: https://youtu.be/pCsz0xk5Z2k
 
 **Resumen:**
 Alessandra, una niñera de 20 años, comparte que encuentra trabajo principalmente a través de Facebook, recomendaciones y WhatsApp. Valora la confianza, el respeto y el buen trato con las familias. Le gustaría mostrar en su perfil experiencia, disponibilidad, referencias y formación. Apoya la idea de recibir comentarios respetuosos que ayuden a generar confianza. Considera útil que una app tenga filtrado por zona, calendario, chat y verificación de perfiles, aunque no ha tenido buena experiencia con apps similares. Confiaría en una nueva si se verificara a los padres.
 
-
-#### Segmento 2:Padres de familia ####
+#### Segmento 2:Padres de familia
 
 ![Entrevista 3](assets/Entrevista%203.jpg)
 
@@ -607,12 +592,12 @@ Alessandra, una niñera de 20 años, comparte que encuentra trabajo principalmen
 
 - Ubicación no especificada para esta entrevista
 
-#### Entrevista: ####
+#### Entrevista:
+
 link: https://youtu.be/k-bONuGLquw
 
 **Resumen:**
 Edery, un padre de familia comparte sus expectativas sobre una aplicación para contratar niñeras. Él busca principalmente seguridad, verificación de identidad y antecedentes, referencias reales, y disponibilidad clara. Prefiere tener una interacción previa con la niñera a través de chat o videollamada, y estaría dispuesto a pagar entre 20 y 50 soles por hora según el servicio. También valora una interfaz fácil de usar, reseñas de otros padres y la posibilidad de hacer evaluaciones públicas. Sus respuestas ofrecen una guía directa para diseñar una plataforma confiable, útil y centrada en las necesidades reales de los usuarios.
-
 
 ![Entrevista 4](assets/Entrevista%204.jpg)
 
@@ -622,7 +607,8 @@ Edery, un padre de familia comparte sus expectativas sobre una aplicación para 
 
 - Ubicación en San Miguel, Lima, Perú
 
-#### Entrevista: ####
+#### Entrevista:
+
 link: https://youtu.be/5tE2mM7XAik
 
 **Resumen**
@@ -630,24 +616,20 @@ Eric, de 27 años, es padre de dos hijos y suele buscar niñeras a través de re
 
 ### 2.2.3. Análisis de entrevistas.
 
-
- **Segmento 1: Niñeras con experiencia**
- **Entrevista 1: Andrea Santur** 
+**Segmento 1: Niñeras con experiencia**
+**Entrevista 1: Andrea Santur**
 **Análisis de la entrevista:** La entrevista con Andrea, una joven niñera de 23 años con experiencia previa, valora que las familias sean claras en sus requerimientos y respetuosas con los horarios y límites. Al presentarse en una app, desea mostrar su rostro, disponibilidad, referencias y experiencia. Está completamente abierta a recibir calificaciones públicas y espera funciones como valoraciones, estadísticas de desempeño, chats en vivo y la posibilidad de ofrecer servicios premium. Para acceder a suscribirse, consideraría clave la facilidad de uso, buena reputación y funcionalidades específicas que le ayuden a visibilizarse
 
-
- **Entrevista 2: Alessandra Becerra**
- **Análisis de la entrevista:**  La entrevista con Alessandra, permite comprender las necesidades, preferencias y limitaciones de las niñeras en la búsqueda de empleo. Ella destaca la importancia de la confianza mutua con las familias, la visibilidad de su experiencia, referencias y formación, así como el uso frecuente de canales de comunicación como redes sociales y WhatsApp. Identifica limitaciones como la inestabilidad en la demanda y la baja efectividad de las plataformas existentes. Finalmente, expresa disposición para ser evaluada y pagar por una aplicación útil
-
+**Entrevista 2: Alessandra Becerra**
+**Análisis de la entrevista:** La entrevista con Alessandra, permite comprender las necesidades, preferencias y limitaciones de las niñeras en la búsqueda de empleo. Ella destaca la importancia de la confianza mutua con las familias, la visibilidad de su experiencia, referencias y formación, así como el uso frecuente de canales de comunicación como redes sociales y WhatsApp. Identifica limitaciones como la inestabilidad en la demanda y la baja efectividad de las plataformas existentes. Finalmente, expresa disposición para ser evaluada y pagar por una aplicación útil
 
 **Segmento 2: Padres de familia**
 
-**Entrevista 1:  Edery Abanto**
+**Entrevista 1: Edery Abanto**
 **Análisis de la entrevista:** El entrevistado, un padre de familia, revela su preocupación fundamental por la seguridad, la verificación de antecedentes, y la transparencia en los perfiles de las niñeras. Además, menciona su preferencia por plataformas con interacción previa, variedad de servicios y buena experiencia de usuario. La entrevista refleja una necesidad de soluciones tecnológicas confiables en el ámbito del cuidado de niños pequeños, destacando puntos clave para el desarrollo de nuestra aplicación.
 
- **Entrevista 2: Eric Olivera**
- **Análisis de la entrevista:** La entrevista con Eric, revela preocupaciones comunes en los padres al buscar servicios de niñera: confianza, seguridad y facilidad de uso. Prefiere recomendaciones cercanas, pero reconoce que eso limita las opciones. Su principal barrera al usar plataformas digitales es la falta de verificación confiable. Eric busca una niñera responsable, puntual, con experiencia y capacidad para manejar emergencias. Valora perfiles detallados, con fotos, videos, referencias y disponibilidad clara. Además, espera poder interactuar con las candidatas antes de contratarlas.
-
+**Entrevista 2: Eric Olivera**
+**Análisis de la entrevista:** La entrevista con Eric, revela preocupaciones comunes en los padres al buscar servicios de niñera: confianza, seguridad y facilidad de uso. Prefiere recomendaciones cercanas, pero reconoce que eso limita las opciones. Su principal barrera al usar plataformas digitales es la falta de verificación confiable. Eric busca una niñera responsable, puntual, con experiencia y capacidad para manejar emergencias. Valora perfiles detallados, con fotos, videos, referencias y disponibilidad clara. Además, espera poder interactuar con las candidatas antes de contratarlas.
 
 ## 2.3. Needfinding.
 
@@ -1650,6 +1632,83 @@ Durante el Sprint 1, el equipo de desarrollo en implementar todas las funcionali
 ### 5.3.2. Registro de Entrevistas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+- CARRERA: Ingeniería de Software
+- CURSO: Desarrollo de Aplicaciones Web
+- SECCIÓN: 4380
+- PROFESOR: Hugo Allan Mori Paiva
+- AUDITOR: PropioConnect
+- CLIENTE(S): Padres y Niñeras
+- SITE o APP A EVALUAR: Kydicare
+
+SITE o APP A EVALUAR: KydiCare
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Reserva de Cuidado
+2. Sistema de Mensajeria
+3. Filtrado de Niñera
+4. Registro de Tarjeta de Pago
+5. Actualización de Reserva
+6. Historial de pagos
+7. Registro de Review
+8. Actualizacion de Reserva
+9. Perfil de Usuario
+   No están incluidas en esta versión de la evaluación las siguientes tareas:
+10. Iniciar Sesion y Registro
+11. Registro de Servicios
+12. Sistema de Pago
+
+### ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+| Nivel | Description                                                                                                                                                                                    |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
+
+## TABLA RESUMEN:
+
+| #   | Problema                                                 | Escala de severidad | Heurística/Principio violado                           |
+| --- | -------------------------------------------------------- | ------------------- | ------------------------------------------------------ |
+| 1   | Los iconos de los perfiles al buscar no aparece.         | 2                   | Inclusive Design: Proporciona experiencias comparables |
+| 2   | El toolbar de filtrado no tienen una buena presentación. | 1                   | Inclusive Design: Proporciona experiencias comparables |
+| 4   | Se presenta el sistema de chat de forma incompleta       | 4                   | Usabilidad - Consistencia y estándares                 |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+#### PROBLEMA #1: Los iconos de los perfiles al buscar no aparece.
+
+- **Severidad**: 2
+- **Heurística violada**: Inclusive Design - Proporciona experiencias comparables
+- **Problema**: 
+  - Cuando un usuario realiza una búsqueda, los iconos de los perfiles no aparecen, lo que genera confusión, ya que no se puede distinguir visualmente entre los distintos usuarios. Esto afecta la experiencia de usuario, dificultando la navegación y comprensión del contenido.
+- **Recomendación**: 
+  - Es recomendable asegurar que los iconos de los perfiles sean visibles y correctamente asociados a los resultados de búsqueda, de manera que los usuarios puedan fácilmente identificar los perfiles correspondientes.
+
+#### PROBLEMA #2: El toolbar de filtrado no tiene una buena presentación.
+- **Severidad**: 1
+- **Heurística violada**: Inclusive Design - Proporciona experiencias comparables
+- **Problema**:
+  - El toolbar de filtrado no tiene una presentación clara ni atractiva. Los botones no están bien alineados y los textos no se destacan correctamente, lo que dificulta su interacción. Esto hace que los usuarios tengan dificultades para aplicar filtros, afectando la eficiencia de la navegación.
+- **Recomendación**:
+  - Se debe mejorar la visualización del toolbar de filtrado, utilizando un diseño más limpio, con botones bien organizados y textos legibles. Además, se puede añadir un diseño que destaque los filtros aplicados para mejorar la experiencia del usuario.
+
+#### PROBLEMA #3: Se presenta el sistema de chat de forma incompleta.
+- **Severidad**: 4
+- **Heurística violada**: Usabilidad - Consistencia y estándares
+- **Problema**:
+  - El sistema de chat no está completamente integrado en la página web y presenta fallas en su funcionamiento. La interfaz está incompleta, lo que genera frustración en los usuarios, ya que no pueden utilizarla de manera efectiva para resolver dudas o realizar consultas.
+- **Recomendación**:
+  - Es necesario completar la integración del sistema de chat y asegurarse de que funcione correctamente en todas las páginas relevantes, para que los usuarios puedan acceder a soporte de manera eficiente.
 
 ## 5.4. Video About-the-Product.
 
