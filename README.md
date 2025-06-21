@@ -182,6 +182,8 @@ Entregrable 1 o TB1 : (25/04/25)
           <b>Lynn Meza: TB1</b><br>
           Fomentó la colaboración y el crecimiento compartido al participar en el desarrollo de los to-be Scenario map, user sotires, impact map y Product backlog.<br>
           Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.<br>
+          <b>Lynn Meza: TB2</b><br>
+          Deserralle el boounded context pay, que esta incluido endpoint de card y payment. Ademas, de la correcion del mismo bounded en el fronend.<br>
           <br>
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo en equipo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
@@ -189,16 +191,20 @@ Entregrable 1 o TB1 : (25/04/25)
           <b>Joaquin Cuentas: TB1</b><br>
           Fomenté la investigación de nuestros usuarios y las ideas que nos diferenciarán de nuestros competidores.<br>
           Materialicé la información obtenida en diagramas del modelo Scrum que nos permitirán ofrecer a nuestros usuarios sus opiniones manidestadas. <br>
+          <b>Joaquin Cuentas: TB2</b><br>
+          Fomenté la participación de grupo instando reuniones para planificar el sprint 2, así como resolver dudas acerca de la implementación del backend. asímismo, materialicé mi esfuerzo planificando fechas para avanzar el backends.<br>
           <br>
           <b>Walter Fajardo: TB1</b><br>
           Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
           Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
+          <b>Walter Fajardo: TB2</b><br>
+          Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
         </td>
         <td>
           <b>TB1</b><br>
           En conclusión, a través de un liderazgo colaborativo, nuestro equipo logró desarrollar exitosamente la landing page del producto, integrando habilidades complementarias y tomando decisiones conjuntas en cada etapa. Desde el análisis inicial hasta la implementación final, la comunicación constante, la distribución equitativa de responsabilidades y la retroalimentación grupal nos permitieron alinear objetivos garantizando un producto centrado en el usuario. Este proyecto evidenció que el trabajo en equipo, con un liderazgo compartido y flexible, es fundamental para impulsar soluciones innovadoras y alcanzar resultados sólidos de manera eficiente.<br><br>
           <b>TB2:</b><br>
-          En conclusión, el desarrollo del frontend de nuestro proyecto se logró gracias a un liderazgo compartido y enfocado en la colaboración. Cada miembro del equipo asumió responsabilidades según sus habilidades, lo que facilitó una organización eficiente y una toma de decisiones conjunta. Definimos fechas de entrega y fomentamos una comunicación constante mediante el grupo de whatsapp. Esta forma de trabajo no solo reforzó nuestras capacidades técnicas, sino que también promovió el crecimiento del liderazgo tanto individual como grupal.
+          En conclusión, el desarrollo del backend de nuestro proyecto se logró gracias a un liderazgo compartido y enfocado en la colaboración. Cada miembro del equipo asumió responsabilidades según sus habilidades, lo que facilitó una organización eficiente y una toma de decisiones conjunta. Definimos fechas de entrega y fomentamos una comunicación constante mediante el grupo de whatsapp. Esta forma de trabajo no solo reforzó nuestras capacidades técnicas, sino que también promovió el crecimiento del liderazgo tanto individual como grupal.
         </td>
     </tr>
     <tr>
@@ -207,22 +213,30 @@ Entregrable 1 o TB1 : (25/04/25)
           <b>Lynn Meza: TB1</b><br>
           Desarrolle los to-be Scenario map, user sotires, impact map y Product backlog.<br>
           Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.
+          <b>Lynn Meza: TB1</b><br>
+          Implemente el boounded context pay, que esta incluido endpoint de card y payment. Ademas, de la correcion del mismo bounded en el fronend.<br>
           <br>
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo colaborativo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
+          <b>Jorge Linares: TB2</b><br>
+          Desarrollo del bounded context Reservations, Revision de segunda version del frotend. Despliegue backend. Participacion del spring 3.<br>
           <br>
           <b>Joaquin Cuentas: TB1</b><br>
           Me planifiqué a completar el capítulo 2, caracterirzado por la investigación de competidores, la recolección de datos mediante entrevistas y los diagramas del modelo scrum. <br>
           Cumplí estos objetivos dentro del plazo establecido y obtuvimos un proyecto eficiente<br>
+          <b>Joaquin Cuentas: TB2</b><br>
+          Me planifiqué a implementar el PUT y POST del backend del bounded context Review, así como planificar las entrevistas para la evaluación de landing page y frontend para su posterior análisis. <br>
           <br>
           <b>Walter Fajardo: TB1</b><br>
           Realice los lean ux proccess, que constaron de los problem statements, assumptions, canvas y segmentos objetivo además de la implementacion de la seccion de consulta en la landing page
         </td>
+        <b>Walter Fajardo: TB2</b><br>
+          Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
         <td>
           <b>TB1:</b><br>
           En conclucion, El desarrollo de nuestra app de tutores y cuidadores se reflejó un liderazgo colaborativo, donde el equipo trabajó de manera articulada en cada fase, desde el análisis de la problematica y los segmentos objetivos hasta la implementación ágil con sprints . La integración de metodologías Lean UX ayudo en el diseño centrado en el usuario, permitiendo entregar una solución viable y funcional. Este proyecto demostró que el trabajo en equipo, con roles definidos y comunicación constante, es clave para transformar ideas en productos digitales efectivos, superando desafíos técnicos y de usabilidad con un enfoque conjunto.<br><br>
           <b>TB2:</b><br>
-          En conclusión, la implementación del frontend se desarrolló dentro de un ambiente de trabajo inclusivo y seguro, en el que todos los integrantes del equipo pudieron participar libremente, compartir sus ideas y contribuir en cada etapa del proyecto. Promovimos el respeto, la equidad y la escucha activa, asegurándonos de que cada voz fuera tomada en cuenta, sin importar el rol o la experiencia previa.
+          En conclusión, la implementación del backend se desarrolló dentro de un ambiente de trabajo inclusivo y seguro, en el que todos los integrantes del equipo pudieron participar libremente, compartir sus ideas y contribuir en cada etapa del proyecto. Promovimos el respeto, la equidad y la escucha activa, asegurándonos de que cada voz fuera tomada en cuenta, sin importar el rol o la experiencia previa.
         </td>
     </tr>
 </table>
