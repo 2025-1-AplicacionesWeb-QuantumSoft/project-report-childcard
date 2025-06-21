@@ -1898,6 +1898,40 @@ https://trello.com/u/u20201c3201/boards
 | *Sum of Story Points*         | 18 story points                                                                                                                                                                                                                                                                                |
 
 
+### 5.2.3.2. Sprint Backlog 3
+
+ En esta sección se presenta un resumen del objetivo principal del sprint, destacando las metas a alcanzar y las funcionalidades a implementar. A
+ continuación, se muestra un screenshot del Board del sprint en la herramienta de control seleccionada, Trello, junto con el enlace público
+ correspondiente. 
+
+trello: https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-4-quantumsoft
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+
+
+###  5.2.3.5. Execution Evidence for Sprint Review
+ En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el
+ Sprint 3. Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
+
+ Landing Page:
+
+<p align="center">
+  <img src="./assets/LandingP.png" alt="Landing Page" width="850">
+</p>
+
+ Frontend:
+
+ <p align="center">
+  <img src="./assets/FrontendP.png" alt="Frontend" width="850">
+</p>
+
+ Backend:
+
+  <p align="center">
+  <img src="./assets/backendP.jpg" alt="backend" width="850">
+</p>
 
 ## 5.3. Validation Interviews.
 
