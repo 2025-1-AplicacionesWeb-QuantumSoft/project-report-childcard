@@ -1793,6 +1793,57 @@ Repositorio de Web Services (Planificado para los próximos sprints): Se ha prep
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+Pasos Deploy Frontend
+1.	Subir el proyecto frontend a GitHub.
+ 
+<p align="center">
+  <img src="./assets/deploy-front1.png" alt="Reservations Section" width="850">
+</p>
+
+2.	Crear una cuenta en Render y Elegir crear un nuevo Static Project en este caso.
+ 
+<p align="center">
+  <img src="./assets/deploy-front2.png" alt="Reservations Section" width="350">
+</p>
+
+3.	Conectar cuenta de GitHub con la cuenta de Render.
+ <p align="center">
+  <img src="./assets/deploy-front3.png" alt="Reservations Section" width="850">
+</p>
+
+4.	Configurar el nombre de la app en Render y los comandos para el deploy “npm run build”. Previamente esto se hizo en el proyecto que se sube a GitHub para obtener la carpeta “dist” en este caso por ser un proyecto con Vue.
+ 
+<p align="center">
+  <img src="./assets/deploy-front4.png" alt="Reservations Section" width="550">
+</p>
+
+5.	Render automáticamente realiza el deploy con el package.json encontrado en el proyecto.
+ 
+<p align="center">
+  <img src="./assets/deploy-front5.png" alt="Reservations Section" width="850">
+</p>
+
+Pasos Deploy Json Server
+
+1.	Se creó un repositorio por separado para el json que se usará con el json server y se subió a GitHub en un repositorio db.json junto con los archivos package.json y server.js necesarios para el despliegue.
+ <p align="center">
+  <img src="./assets/deploy-jsonserver1.png" alt="Reservations Section" width="850">
+</p>
+
+2.	Se despliega en un nuevo proyecto en Railway, previamente creando una cuenta y vinculando con la cuenta de GitHub.
+ <p align="center">
+  <img src="./assets/deploy-jsonserver2.png" alt="Reservations Section" width="650">
+</p>
+
+3.	Seleccionar el proyecto a subir en Railway y automáticamente detectará el package.json que lo usará para iniciar el deploy.
+ <p align="center">
+  <img src="./assets/deploy-jsonserver3.png" alt="Reservations Section" width="850">
+</p>
+
+4.	Una vez desplegado el json, la url que nos da railway del deploy se usará como variable de entorno para la url que conecta con el frontend en producción.
+ <p align="center">
+  <img src="./assets/deploy-jsonserver4.png" alt="Reservations Section" width="550">
+</p>
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
@@ -1810,7 +1861,7 @@ https://trello.com/u/u20201c3201/boards
 **Frontend**
 
 <p align="center">
-  <img src="" alt="Frontend 1" width="850">
+  <img src="./assets/sprint2-commits.png" alt="Frontend 1" width="850">
 </p>
 
 3. **Evidencia de Nertwork**
@@ -1818,7 +1869,7 @@ https://trello.com/u/u20201c3201/boards
 **Frontend**
 
 <p align="center">
-  <img src="" alt="Frontend 2" width="850">
+  <img src="./assets/sprint2-network.png" alt="Frontend 2" width="850">
 </p>
 
 4. **Contributors**
@@ -1826,9 +1877,27 @@ https://trello.com/u/u20201c3201/boards
 **Frontend**
 
 <p align="center">
-  <img src="" alt="Frontend 3" width="850">
+  <img src="./assets/sprint2-contribution.png" alt="Frontend 3" width="850">
 </p>
 
+###  5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+
+| *Campo*                        | *Detalle*                                                                                                                                                                                                                                                                                      |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Sprint #*                     | Sprint 3                                                                                                                                                                                                                                                                                        |
+| *Date*                         | 16/06/2025                                                                                                                                                                                                                                                                                     |
+| *Time*                         | 4:00 pm                                                                                                                                                                                                                                                                                        |
+| *Location*                     | Virtual, Zoom                                                                                                                                                                                                                                                                                  |
+| *Prepared by*                 | Walter Fajardo                                                                                                                                                                                                                                                                                 |
+| *Attendees (planning meeting)*| Walter Fajardo, Lynn Meza, Jorge Linares, Joaquin Cuentas                                                                                                                                                                                                                                     |
+| *Sprint 3-1 Review - Summary*  | Durante el Sprint 2, se consiguió desarrollar una versión operativa de la interfaz de usuario que incluye varias pantallas esenciales. Además, se resolvieron ciertos inconvenientes en la parte front, así como implementar funciones que previamente eran estáticas                                |
+| *Sprint 3-1 Retrospective*     | Mejoramos la comunicación dentro del equipo al implementar diversas pantallas alineadas con los bounded contexts definidos por el enfoque de Domain Driven Design.                                                                                                                           |
+| *Sprint 3 Goal*                | Nuestra prioridad en este sprint es completar funciones CRUD en el frontend e implementar la primera versión del backend para la aplicación. Creemos que con esto estará lista una versión funcional de la aplicación con la que los usuarios podrán interactuar con las características principales del sistema. Podremos confirmar esto una vez que logremos implementar exitosamente las funcionalidades y estas superen satisfactoriamente las pruebas correspondientes. |
+| *Sprint 3 Velocity*           | 14 story points                                                                                                                                                                                                                                                                                |
+| *Sum of Story Points*         | 18 story points                                                                                                                                                                                                                                                                                |
+
+..... ssq
 
 ## 5.3. Validation Interviews.
 
