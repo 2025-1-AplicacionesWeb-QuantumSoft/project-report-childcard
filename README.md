@@ -1810,7 +1810,7 @@ https://trello.com/u/u20201c3201/boards
 **Frontend**
 
 <p align="center">
-  <img src="" alt="Frontend 1" width="850">
+  <img src="./assets/sprint2-commits.png" alt="Frontend 1" width="850">
 </p>
 
 3. **Evidencia de Nertwork**
@@ -1818,7 +1818,7 @@ https://trello.com/u/u20201c3201/boards
 **Frontend**
 
 <p align="center">
-  <img src="" alt="Frontend 2" width="850">
+  <img src="./assets/sprint2-network.png" alt="Frontend 2" width="850">
 </p>
 
 4. **Contributors**
@@ -1826,7 +1826,7 @@ https://trello.com/u/u20201c3201/boards
 **Frontend**
 
 <p align="center">
-  <img src="" alt="Frontend 3" width="850">
+  <img src="./assets/sprint2-contribution.png" alt="Frontend 3" width="850">
 </p>
 
 
