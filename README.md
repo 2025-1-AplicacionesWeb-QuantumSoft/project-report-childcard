@@ -1897,7 +1897,7 @@ https://trello.com/u/u20201c3201/boards
 | *Sprint 3 Velocity*           | 14 story points                                                                                                                                                                                                                                                                                |
 | *Sum of Story Points*         | 18 story points                                                                                                                                                                                                                                                                                |
 
-..... ssq
+
 
 ## 5.3. Validation Interviews.
 
