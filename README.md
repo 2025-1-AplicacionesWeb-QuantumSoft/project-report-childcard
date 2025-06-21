@@ -1897,7 +1897,6 @@ https://trello.com/u/u20201c3201/boards
 | *Sprint 3 Velocity*           | 14 story points                                                                                                                                                                                                                                                                                |
 | *Sum of Story Points*         | 18 story points                                                                                                                                                                                                                                                                                |
 
-
 ### 5.2.3.2. Sprint Backlog 3
 
  En esta sección se presenta un resumen del objetivo principal del sprint, destacando las metas a alcanzar y las funcionalidades a implementar. A
@@ -1908,6 +1907,23 @@ trello: https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-4-quantumsoft
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+# 🍼 Historias de Usuario - Aplicación de Niñeras
+
+| Epic / Story ID | Título                                   | Criterios de Aceptación |
+|-----------------|-------------------------------------------|--------------------------|
+| US06            | Cambiar el idioma de la Aplicación       | **Escenario 1:** Given el usuario está en la sección de configuración, when selecciona la opción de cambiar el idioma, then debe poder seleccionar un idioma de la lista de opciones disponibles. |
+| US14            | Registrar Servicio de Cuidado            | **Escenario 1:** Given el usuario está en la sección de una agenda, when selecciona la opción de registrar un servicio, then debe poder ingresar los detalles del servicio, como fecha, duración, tipo de cuidado y nota. |
+| US15            | Clasificar Servicios                     | **Escenario 1:** Given el usuario registra un servicio, when selecciona una categoría para el servicio (ej. cuidado nocturno, emergencias), then el servicio se clasifica automáticamente en la categoría seleccionada. |
+| US16            | Crear Servicios Recurrentes              | **Escenario 1:** Given el usuario está en la sección de una agenda, when selecciona la opción de registrar un servicio y marca la opción de recurrencia configurando la frecuencia, then el servicio se agenda automáticamente según la configuración. |
+| US19            | Asignar Servicio a Otra Niñera           | **Escenario 1:** Given el usuario está en la sección de agenda, when selecciona la opción de reasignar un servicio, then debe poder ingresar los detalles y seleccionar a la niñera de destino para completar la asignación. |
+| US23            | Alerta de Exceso de Horas                | **Escenario 1:** Given el usuario está en la sección de monitoreo, when el total de horas trabajadas por una niñera se acerca al límite mensual, then debe recibir una notificación de alerta que le advierte sobre el exceso de horas. |
+| US24            | Ver Servicios Anteriores                 | **Escenario 1:** Given el usuario está en la sección de historial, when selecciona una niñera o cliente, then debe poder ver los servicios anteriores con sus fechas y detalles. |
+| US25            | Ver Gráfico de Actividad Mensual         | **Escenario 1:** Given el usuario está en la sección de reportes, when selecciona una niñera o cliente, then debe poder ver un gráfico que muestre los servicios realizados por mes. |
+| US32            | Cambiar el idioma desde la Landing Page  | **Escenario 1:** Given el visitante está en la landing page, when selecciona un idioma diferente en el menú de idiomas, then la página debe cambiar al idioma seleccionado. |
+| TS40            | Integración con Sistema Externo          | **Escenario 1:** Given el sistema tiene una API disponible, when se establece la conexión con el sistema externo, then el sistema puede acceder a los datos y funcionalidades del sistema externo. |
+| TS41            | Registro de Servicios por API            | **Escenario 1:** Given el endpoint (`/api/v1/servicios`) está disponible, when se envía una solicitud POST con los datos del servicio, then se recibe una señal de confirmación (201) y el servicio se registra correctamente. |
+| TS42            | Crear Agenda por API                     | **Escenario 1:** Given el endpoint (`/api/v1/agendas`) está disponible, when se envía una solicitud POST con los datos de la agenda, then se recibe confirmación (201) y la agenda queda registrada. |
+| TS43            | Crear Plan de Horarios por API           | **Escenario 1:** Given el endpoint (`/api/v1/horarios`) está disponible, when se envía una solicitud POST con los datos del plan de horarios, then se recibe una señal de confirmación (201) y el sistema registra el plan de horarios. |
 
 
 
@@ -1933,21 +1949,256 @@ trello: https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-4-quantumsoft
   <img src="./assets/backendP.jpg" alt="backend" width="850">
 </p>
 
+ ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+ En el tercer sprint identificamos 20 endpoints provenientes de 5 controladores diferentes. Utilizamos swagger para la presente documentac
+
+   <p align="center">
+  <img src="./assets/endpoints.png" alt="backend" width="850">
+</p>
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+(despliegue)
+
+###  5.2.3.8. Team Collaboration Insights during Sprin
+
+Durante el Sprint 2, el equipo de desarrollo en implementar todas las funcionalidades del frontend.
+
+#### Colaboración y Desarrollo de Actividades
+
+1. **Evidencia de commits**:
+
+**Backend**
+
+<p align="center">
+  <img src="./assets/sprint3-commits.png" alt="Backend 1" width="850">
+</p>
+
+2. **Evidencia de Nertwork**
+
+**Backend**
+
+<p align="center">
+  <img src="./assets/sprint3-network.png" alt="Backend 2" width="850">
+</p>
+
+3. **Contributors**
+
+**Backend**
+
+<p align="center">
+  <img src="./assets/sprint3-contributors.png" alt="Backend 3" width="850">
+</p>
+
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
 
+# 🎯 Objetivo de la Entrevista
+
+Validar la usabilidad y efectividad de la *landing page* y de los *flujos de usuario* de la aplicación *KidyCare*, asegurando que cada flujo sea claro, atractivo y fomente la interacción de los usuarios. Asimismo, se tomarán en cuenta aspectos de mejora.
+
+---
+
+## ✅ Elementos de Validación
+
+### 🖥️ Landing Page
+Se evaluará cómo los usuarios perciben:
+- La claridad del mensaje.
+- El atractivo de las funcionalidades.
+- Si se sienten identificados como posibles usuarios de la aplicación.
+
+### 📱 Aplicación
+Se guiará a los usuarios a través de los flujos principales, como:
+- Reservación
+- Mensajes
+- Métodos de pago
+- Sistema de reseñas
+- Edición de perfil
+
+---
+
+## 📝 Formato de Registro de Entrevista
+
+### 🔍 EXPLORACIÓN LANDING PAGE:
+- ¿Según lo que viste en la landing page, qué entendiste que ofrece KidyCare?  
+- ¿Crees que esta aplicación sería adecuada para tu ocupación?
+
+---
+
+### 🔍 EXPLORACIÓN DEL FRONTEND:
+
+- ¿Cómo describirías tu experiencia al buscar una niñera según tus preferencias?
+- ¿La información de las niñeras se presenta de forma clara y fácil de comparar?
+- ¿El sistema informa de manera clara si el pago fue realizado con éxito?
+- ¿El proceso de pago te resulta familiar y similar a otros que has utilizado en compras en línea?
+- ¿El sistema muestra de forma clara cuándo los cambios en el perfil han sido guardados correctamente?
+- ¿La información que se debe ingresar en el perfil es comprensible y fácil de completar?
+- ¿La información mostrada en las reseñas es comprensible sin necesidad de explicaciones adicionales?
+- ¿El formulario de reseñas mantiene un estilo visual coherente con el resto de la aplicación (colores, botones, campos, etc.)?
+- ¿Pudiste enviar un mensaje correctamente desde el apartado de mensajería?
+- ¿El sistema de mensajería fue fácil de usar y entender?
+- ¿Qué es lo que más te gustó de la app?
+- Como niñera/padre de familia, ¿cómo usarías esta aplicación en base a sus funciones?
+
+
 ### 5.3.2. Registro de Entrevistas.
+
+📋 Entrevista 1
+markdown
+Copiar
+Editar
+| Campo                 | Detalle                                                                                                                    |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Segmento              | Niñeras                                                                                                                    |
+| Nombre                | Melisa Sulca                                                                                                               |
+| Edad                  | 23 años                                                                                                                    |
+| Ocupación             | Estudiante y niñera a tiempo parcial                                                                                       |
+| Duración de entrevista| 17 minutos                                                                                                                 |
+| Análisis de entrevista| La entrevistada tuvo una experiencia positiva. Las funciones estaban claramente ubicadas en la barra lateral. Destacó la utilidad de la mensajería. El diseño en azul y tono piel transmitía calidez y cercanía. Sugirió mejorar el contraste de los textos para facilitar su lectura. |
+📋 Entrevista 2
+markdown
+Copiar
+Editar
+| Campo                 | Detalle                                                                                                                    |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Segmento              | Niñeras                                                                                                                    |
+| Nombre                | Alessandra Becerra                                                                                                         |
+| Edad                  | 20 años                                                                                                                    |
+| Ocupación             | Estudiante y niñera a tiempo parcial                                                                                       |
+| Duración de entrevista| 6 minutos                                                                                                                  |
+| Análisis de entrevista| La entrevistada tuvo una experiencia favorable. Le gustó el panel de niñeras y la disposición del menú lateral. Valoró los colores azul y piel. Recomendó unificar los estilos visuales de la barra lateral para mayor consistencia. |
+📋 Entrevista 3
+markdown
+Copiar
+Editar
+| Campo                 | Detalle                                                                                                                    |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Segmento              | Padres de familia                                                                                                          |
+| Nombre                | Daniel Castañeda                                                                                                           |
+| Edad                  | 25 años                                                                                                                    |
+| Ocupación             | Padre con experiencia en cuidado de niños                                                                                 |
+| Duración de entrevista| 13 minutos                                                                                                                 |
+| Análisis de entrevista| El entrevistado destacó la familiaridad con las funciones, facilitando su uso. Valoró la claridad del menú lateral y el diseño alineado al propósito de la app. Sugirió destacar más la información de las niñeras disponibles.     |
+📋 Entrevista 4
+markdown
+Copiar
+Editar
+| Campo                 | Detalle                                                                                                                    |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Segmento              | Padres de familia                                                                                                          |
+| Nombre                | Alessandro Bravo                                                                                                           |
+| Edad                  | 30 años                                                                                                                    |
+| Ocupación             | Docente                                                                                                                    |
+| Duración de entrevista| 8 minutos                                                                                                                  |
+| Análisis de entrevista| El entrevistado se sintió cómodo con la app por su similitud con otras plataformas. Res
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+### 5.3.3. Evaluaciones según heurísticas.
+
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+- CARRERA: Ingeniería de Software
+- CURSO: Desarrollo de Aplicaciones Web
+- SECCIÓN: 4380
+- PROFESOR: Hugo Allan Mori Paiva
+- AUDITOR: PropioConnect
+- CLIENTE(S): Padres y Niñeras
+- SITE o APP A EVALUAR: Kydicare
+
+SITE o APP A EVALUAR: KydiCare
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Reserva de Cuidado
+2. Sistema de Mensajeria
+3. Filtrado de Niñera
+4. Registro de Tarjeta de Pago
+5. Actualización de Reserva
+6. Historial de pagos
+7. Registro de Review
+8. Perfil de Usuario
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Iniciar Sesion y Registro
+2. Registro de Servicios
+3. Sistema de Pago
+
+### ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+| Nivel | Description                                                                                                                                                                                    |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
+
+## TABLA RESUMEN:
+
+| #   | Problema                                                 | Escala de severidad | Heurística/Principio violado                           |
+| --- | -------------------------------------------------------- | ------------------- | ------------------------------------------------------ |
+| 1   | Los iconos de los perfiles al buscar no aparece.         | 2                   | Inclusive Design: Proporciona experiencias comparables |
+| 2   | El toolbar de filtrado no tienen una buena presentación. | 1                   | Inclusive Design: Proporciona experiencias comparables |
+| 3   | Se presenta el sistema de chat de forma incompleta       | 4                   | Usabilidad - Consistencia y estándares                 |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+#### PROBLEMA #1: Los iconos de los perfiles al buscar no aparece.
+
+- **Severidad**: 2
+- **Heurística violada**: Inclusive Design - Proporciona experiencias comparables
+- **Problema**: 
+  - Cuando un usuario realiza una búsqueda, los iconos de los perfiles no aparecen, lo que genera confusión, ya que no se puede distinguir visualmente entre los distintos usuarios. Esto afecta la experiencia de usuario, dificultando la navegación y comprensión del contenido.
+- **Recomendación**: 
+  - Es recomendable asegurar que los iconos de los perfiles sean visibles y correctamente asociados a los resultados de búsqueda, de manera que los usuarios puedan fácilmente identificar los perfiles correspondientes.
+
+#### PROBLEMA #2: El toolbar de filtrado no tiene una buena presentación.
+- **Severidad**: 1
+- **Heurística violada**: Inclusive Design - Proporciona experiencias comparables
+- **Problema**:
+  - El toolbar de filtrado no tiene una presentación clara ni atractiva. Los botones no están bien alineados y los textos no se destacan correctamente, lo que dificulta su interacción. Esto hace que los usuarios tengan dificultades para aplicar filtros, afectando la eficiencia de la navegación.
+- **Recomendación**:
+  - Se debe mejorar la visualización del toolbar de filtrado, utilizando un diseño más limpio, con botones bien organizados y textos legibles. Además, se puede añadir un diseño que destaque los filtros aplicados para mejorar la experiencia del usuario.
+
+#### PROBLEMA #3: Se presenta el sistema de chat de forma incompleta.
+- **Severidad**: 4
+- **Heurística violada**: Usabilidad - Consistencia y estándares
+- **Problema**:
+  - El sistema de chat no está completamente integrado en la página web y presenta fallas en su funcionamiento. La interfaz está incompleta, lo que genera frustración en los usuarios, ya que no pueden utilizarla de manera efectiva para resolver dudas o realizar consultas.
+- **Recomendación**:
+  - Es necesario completar la integración del sistema de chat y asegurarse de que funcione correctamente en todas las páginas relevantes, para que los usuarios puedan acceder a soporte de manera eficiente.
+
 ## 5.4. Video About-the-Product.
+
+Link: https://drive.google.com/drive/folders/1os7AF_Bl8e1WgM12yBcbhllsJSf7Dys8?usp=sharing
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones.
 
+Durante el desarrollo de la plataforma, se logró entender en profundidad a los dos públicos principales: padres de familia y niñeras peruanas. Esto permitió diseñar una solución centrada en sus necesidades reales, como la búsqueda eficiente, la validación de perfiles, la mensajería directa y los pagos seguros.
+
+A diferencia de otras alternativas, la aplicación destaca por su enfoque local y su propuesta integral, que va más allá del contacto básico al integrar funciones que generan confianza, seguridad y facilidad de uso.
+
+Las entrevistas con usuarios y las pruebas de usabilidad fueron fundamentales para identificar mejoras en la interfaz y los flujos. Gracias a ello, se están realizando ajustes para optimizar la navegación, mejorar el contraste visual y asegurar una experiencia intuitiva.
+
+El uso de metodologías ágiles y de Domain-Driven Design (DDD) ha facilitado la evolución del producto, organizándolo en módulos clave como perfiles, mensajería, pagos y reseñas, lo que mejora su escalabilidad y mantenimiento.
+
+En conjunto, la plataforma no solo busca facilitar el cuidado infantil, sino también profesionalizar el rol de las niñeras y empoderar a las familias mediante herramientas digitales prácticas y confiables.
+
 ## Video About-the-Team.
+
+Link: https://drive.google.com/drive/folders/1EcdymPs_FD-FILP97t-yWz8dz6rhXLI_?usp=sharing
 
 ## Bibliografía Anexos
 
