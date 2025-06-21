@@ -1880,6 +1880,24 @@ https://trello.com/u/u20201c3201/boards
   <img src="./assets/sprint2-contribution.png" alt="Frontend 3" width="850">
 </p>
 
+###  5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+
+| *Campo*                        | *Detalle*                                                                                                                                                                                                                                                                                      |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Sprint #*                     | Sprint 3                                                                                                                                                                                                                                                                                        |
+| *Date*                         | 16/06/2025                                                                                                                                                                                                                                                                                     |
+| *Time*                         | 4:00 pm                                                                                                                                                                                                                                                                                        |
+| *Location*                     | Virtual, Zoom                                                                                                                                                                                                                                                                                  |
+| *Prepared by*                 | Walter Fajardo                                                                                                                                                                                                                                                                                 |
+| *Attendees (planning meeting)*| Walter Fajardo, Lynn Meza, Jorge Linares, Joaquin Cuentas                                                                                                                                                                                                                                     |
+| *Sprint 3-1 Review - Summary*  | Durante el Sprint 2, se consiguió desarrollar una versión operativa de la interfaz de usuario que incluye varias pantallas esenciales. Además, se resolvieron ciertos inconvenientes en la parte front, así como implementar funciones que previamente eran estáticas                                |
+| *Sprint 3-1 Retrospective*     | Mejoramos la comunicación dentro del equipo al implementar diversas pantallas alineadas con los bounded contexts definidos por el enfoque de Domain Driven Design.                                                                                                                           |
+| *Sprint 3 Goal*                | Nuestra prioridad en este sprint es completar funciones CRUD en el frontend e implementar la primera versión del backend para la aplicación. Creemos que con esto estará lista una versión funcional de la aplicación con la que los usuarios podrán interactuar con las características principales del sistema. Podremos confirmar esto una vez que logremos implementar exitosamente las funcionalidades y estas superen satisfactoriamente las pruebas correspondientes. |
+| *Sprint 3 Velocity*           | 14 story points                                                                                                                                                                                                                                                                                |
+| *Sum of Story Points*         | 18 story points                                                                                                                                                                                                                                                                                |
+
+..... ssq
 
 ## 5.3. Validation Interviews.
 
