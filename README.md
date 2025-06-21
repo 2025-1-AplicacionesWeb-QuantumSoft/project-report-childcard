@@ -1793,6 +1793,57 @@ Repositorio de Web Services (Planificado para los próximos sprints): Se ha prep
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+Pasos Deploy Frontend
+1.	Subir el proyecto frontend a GitHub.
+ 
+<p align="center">
+  <img src="./assets/deploy-front1.png" alt="Reservations Section" width="850">
+</p>
+
+2.	Crear una cuenta en Render y Elegir crear un nuevo Static Project en este caso.
+ 
+<p align="center">
+  <img src="./assets/deploy-front2.png" alt="Reservations Section" width="350">
+</p>
+
+3.	Conectar cuenta de GitHub con la cuenta de Render.
+ <p align="center">
+  <img src="./assets/deploy-front3.png" alt="Reservations Section" width="850">
+</p>
+
+4.	Configurar el nombre de la app en Render y los comandos para el deploy “npm run build”. Previamente esto se hizo en el proyecto que se sube a GitHub para obtener la carpeta “dist” en este caso por ser un proyecto con Vue.
+ 
+<p align="center">
+  <img src="./assets/deploy-front4.png" alt="Reservations Section" width="550">
+</p>
+
+5.	Render automáticamente realiza el deploy con el package.json encontrado en el proyecto.
+ 
+<p align="center">
+  <img src="./assets/deploy-front5.png" alt="Reservations Section" width="850">
+</p>
+
+Pasos Deploy Json Server
+
+1.	Se creó un repositorio por separado para el json que se usará con el json server y se subió a GitHub en un repositorio db.json junto con los archivos package.json y server.js necesarios para el despliegue.
+ <p align="center">
+  <img src="./assets/deploy-jsonserver1.png" alt="Reservations Section" width="850">
+</p>
+
+2.	Se despliega en un nuevo proyecto en Railway, previamente creando una cuenta y vinculando con la cuenta de GitHub.
+ <p align="center">
+  <img src="./assets/deploy-jsonserver2.png" alt="Reservations Section" width="650">
+</p>
+
+3.	Seleccionar el proyecto a subir en Railway y automáticamente detectará el package.json que lo usará para iniciar el deploy.
+ <p align="center">
+  <img src="./assets/deploy-jsonserver3.png" alt="Reservations Section" width="850">
+</p>
+
+4.	Una vez desplegado el json, la url que nos da railway del deploy se usará como variable de entorno para la url que conecta con el frontend en producción.
+ <p align="center">
+  <img src="./assets/deploy-jsonserver4.png" alt="Reservations Section" width="550">
+</p>
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
