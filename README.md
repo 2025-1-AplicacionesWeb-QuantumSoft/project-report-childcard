@@ -2048,7 +2048,19 @@ Pasos para el deploy del backend:
   <img src="./assets/deploy1.jpg" alt="Deploy1" width="850">
 </p>
 
-2. 
+2. <p align="center">
+  <img src="./assets/deploy2.jpg" alt="Deploy2" width="850">
+</p>
+
+3. <p align="center">
+  <img src="./assets/deploy3.jpg" alt="Deploy3" width="850">
+</p>
+
+4. <p align="center">
+  <img src="./assets/deploy4.jpg" alt="Deploy4" width="850">
+</p>
+
+Enlace: kidycare-gta3gufcaaatbpc5.canadacentral-01.azurewebsites.net
 
 ### 5.2.3.8. Team Collaboration Insights during Sprin
 
