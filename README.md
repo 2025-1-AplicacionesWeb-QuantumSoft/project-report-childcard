@@ -2116,6 +2116,10 @@ Esta matriz asegura que el proceso de integración entre el frontend y el backen
 
 ## 5.3. Validation Interviews.
 
+# Enlace de entrevista
+
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f788_upc_edu_pe/ETLHFsrkTRlCsiCCaIG3gh0BkcLUS4DrrlyBzFqLGDGBOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QgXc3W
+
 ### 5.3.1. Diseño de Entrevistas.
 
 # 🎯 Objetivo de la Entrevista
