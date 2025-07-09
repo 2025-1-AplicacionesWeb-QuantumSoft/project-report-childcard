@@ -302,6 +302,10 @@ Evidencia:
         <td>
           <b>TB1:</b><br>
           En conclucion, El desarrollo de nuestra app de tutores y cuidadores se reflejó un liderazgo colaborativo, donde el equipo trabajó de manera articulada en cada fase, desde el análisis de la problematica y los segmentos objetivos hasta la implementación ágil con sprints . La integración de metodologías Lean UX ayudo en el diseño centrado en el usuario, permitiendo entregar una solución viable y funcional. Este proyecto demostró que el trabajo en equipo, con roles definidos y comunicación constante, es clave para transformar ideas en productos digitales efectivos, superando desafíos técnicos y de usabilidad con un enfoque conjunto.<br><br>
+          <b>TP1:</b><br>
+          En conclusión, el desarrollo del frontend de nuestra aplicación se llevó a cabo bajo un liderazgo colaborativo que fomentó un trabajo en equipo articulado y eficiente. Desde el análisis inicial de los requerimientos hasta la implementación de la interfaz, el equipo empleó metodologías Lean UX para garantizar un diseño centrado en el usuario, integrando sprints ágiles que optimizaron el proceso. La comunicación constante y la definición clara de roles permitieron superar desafíos de usabilidad y entregar una interfaz intuitiva y funcional. Este proyecto evidenció que la combinación de trabajo en equipo, metodologías ágiles y un enfoque colaborativo es fundamental para crear productos digitales efectivos y atractivos.<br><br>
+
+            
           <b>TB2:</b><br>
           En conclusión, la implementación del backend se desarrolló dentro de un ambiente de trabajo inclusivo y seguro, en el que todos los integrantes del equipo pudieron participar libremente, compartir sus ideas y contribuir en cada etapa del proyecto. Promovimos el respeto, la equidad y la escucha activa, asegurándonos de que cada voz fuera tomada en cuenta, sin importar el rol o la experiencia previa.
         </td>
