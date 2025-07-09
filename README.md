@@ -2044,11 +2044,11 @@ En el tercer sprint identificamos 20 endpoints provenientes de 5 controladores d
 
 Pasos para el deploy del backend: 
 
-1. 
-<p align="center">
+1. <p align="center">
   <img src="./assets/deploy1.jpg" alt="Deploy1" width="850">
 </p>
 
+2. 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprin
 
