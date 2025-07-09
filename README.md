@@ -2042,7 +2042,13 @@ En el tercer sprint identificamos 20 endpoints provenientes de 5 controladores d
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-(despliegue)
+Pasos para el deploy del backend: 
+
+1. 
+<p align="center">
+  <img src="./assets/deploy1.jpg" alt="Deploy1" width="850">
+</p>
+
 
 ### 5.2.3.8. Team Collaboration Insights during Sprin
 
