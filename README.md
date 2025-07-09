@@ -33,7 +33,10 @@
 | ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | 0.1     | 03/04/25 | Lynn Meza                                                                                                                              | Desarrollo de la Structura del informe |
 | 0.1     | 20/04/25 | Aaron Avila                                                                                                                            | Registro y analisis de entrevista      |
-| 1.0     | 25/04/25 | Meza Camayo, Lynn Jeeferzon </br> Fajardo Monrroy, Walter Luis <br> Cuentas Peña, Joaquin Alberto <br> Linares Arroyo, Jorge Alexandro | Desarrolla de la TB1                   |
+| 1.0     | 25/04/25 | Meza Camayo, Lynn Jeeferzon </br> Fajardo Monrroy, Walter Luis <br> Cuentas Peña, Joaquin Alberto <br> Linares Arroyo, Jorge Alexandro | Desarrollo de la TB1                   |
+| 1.0     | 19/05/25 | Meza Camayo, Lynn Jeeferzon </br> Fajardo Monrroy, Walter Luis <br> Cuentas Peña, Joaquin Alberto <br> Linares Arroyo, Jorge Alexandro | Desarrollo de la TP                    |
+| 1.0     | 20/06/25 | Meza Camayo, Lynn Jeeferzon </br> Fajardo Monrroy, Walter Luis <br> Cuentas Peña, Joaquin Alberto <br> Linares Arroyo, Jorge Alexandro | Desarrollo de la TB2                   |
+| 1.0     | 9/07/25  | Meza Camayo, Lynn Jeeferzon </br> Fajardo Monrroy, Walter Luis <br> Cuentas Peña, Joaquin Alberto <br> Linares Arroyo, Jorge Alexandro | Entrega de la TF                       |
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
@@ -47,6 +50,7 @@ Entregrable 1 o TB1 : (25/04/25)
 ![branch-report](./assets/tb1-branch-entrega.png)
 
 **_TP_**
+Entregrable 2 o TP : (19/05/25 )
 
 | Integrantes                     | Actividades Asignadas              |
 | ------------------------------- | ---------------------------------- |
@@ -58,13 +62,29 @@ Entregrable 1 o TB1 : (25/04/25)
 Evidencia:
 
 **_TB2_**
+Entregrable 3 o TB2 :(20/06/25 )
 
-| Integrantes                     | Actividades Asignadas                                      |
-| ------------------------------- | ---------------------------------------------------------- |
-| Meza Camayo, Lynn Jeeferzon     | Sprint 3- frontEnd- BC payment <br> entrevista a niñera    |
-| Fajardo Monrroy, Walter Luis    | Sprint 3- frontEnd- BC profile <br> entrevista a padre     |
-| Cuentas Peña, Joaquin Alberto   | Sprint 3- frontEnd- BC review <br> entrevista a niñera     |
-| Linares Arroyo, Jorge Alexandro | Sprint 3- frontEnd- BC reservation <br> entrevista a padre |
+| Integrantes                     | Actividades Asignadas                                     |
+| ------------------------------- | --------------------------------------------------------- |
+| Meza Camayo, Lynn Jeeferzon     | Sprint 3- BackEnd- BC payment <br> entrevista a niñera    |
+| Fajardo Monrroy, Walter Luis    | Sprint 3- BackEnd- BC profile <br> entrevista a padre     |
+| Cuentas Peña, Joaquin Alberto   | Sprint 3- BackEnd- BC review <br> entrevista a niñera     |
+| Linares Arroyo, Jorge Alexandro | Sprint 3- BackEnd- BC reservation <br> entrevista a padre |
+
+Evidencia:
+
+![tb2-evidencia](./assets/tb2-report-informe%20-1.png)
+![tb2-evidencia2](./assets/tb2-report-informe-2.png)
+
+**_TF_**
+Entrega Final o TF :( 9/07/25 )
+
+| Integrantes                     | Actividades Asignadas                           |
+| ------------------------------- | ----------------------------------------------- |
+| Meza Camayo, Lynn Jeeferzon     | Sprint 4- frontEnd BackEnd- BC payment <br>     |
+| Fajardo Monrroy, Walter Luis    | Sprint 4- frontEnd BackEnd- BC profile <br>     |
+| Cuentas Peña, Joaquin Alberto   | Sprint 4- frontEnd BackEnd- BC review <br> e    |
+| Linares Arroyo, Jorge Alexandro | Sprint 4- frontEnd BackEnd- BC reservation <br> |
 
 Evidencia:
 
@@ -181,6 +201,24 @@ Evidencia:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Spring Planning 3](#5231-spring-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 3](#524-sprint-4)
+      - [5.2.4.1. Spring Planning 3](#5241-spring-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 3](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
@@ -1990,7 +2028,7 @@ Backend:
 
 En el tercer sprint identificamos 20 endpoints provenientes de 5 controladores diferentes. Utilizamos swagger para la presente documentac
 
-   <p align="center">
+<p align="center">
   <img src="./assets/endpoints.png" alt="backend" width="850">
 </p>
 
@@ -2000,33 +2038,81 @@ En el tercer sprint identificamos 20 endpoints provenientes de 5 controladores d
 
 ### 5.2.3.8. Team Collaboration Insights during Sprin
 
-Durante el Sprint 2, el equipo de desarrollo en implementar todas las funcionalidades del frontend.
-
 #### Colaboración y Desarrollo de Actividades
 
-1. **Evidencia de commits**:
+Durante el Sprint 3, el equipo de desarrollo se enfocó en implementar todas las funcionalidades del frontend, trabajando en colaboración constante entre los miembros para garantizar la eficiencia y calidad del desarrollo.
+Colaboración y Desarrollo de Actividades
 
-**Backend**
+- Evidencia de commits:
 
-<p align="center">
-  <img src="./assets/sprint3-commits.png" alt="Backend 1" width="850">
-</p>
+En esta sección se muestra el historial de commits realizados durante el Sprint 3. Estos commits reflejan el progreso continuo del desarrollo del backend, con actualizaciones y mejoras en el código de forma iterativa. El equipo ha trabajado de manera colaborativa para implementar nuevas funcionalidades y realizar ajustes según se avanzaba en el sprint.
 
-2. **Evidencia de Nertwork**
+Backend
 
-**Backend**
+<p align="center"> <img src="./assets/sprint3-commits.png" alt="Backend 1" width="850"> </p>
 
-<p align="center">
-  <img src="./assets/sprint3-network.png" alt="Backend 2" width="850">
-</p>
+- Evidencia de Network:
 
-3. **Contributors**
+La red de interacciones y conexiones realizadas entre las diferentes partes del backend durante este sprint también es crucial. Este gráfico representa cómo los diferentes módulos del backend se comunican y cómo se ha mejorado la infraestructura para garantizar un rendimiento eficiente.
 
-**Backend**
+Backend
 
-<p align="center">
-  <img src="./assets/sprint3-contributors.png" alt="Backend 3" width="850">
-</p>
+<p align="center"> <img src="./assets/sprint3-network.png" alt="Backend 2" width="850"> </p>
+
+- Contributors:
+  S
+  En este gráfico se presentan los colaboradores del equipo de backend durante el Sprint 3. Cada contribución refleja el trabajo continuo y colaborativo de todos los miembros para implementar las funcionalidades necesarias y solucionar problemas emergentes de manera eficiente.
+
+Backend
+
+<p align="center"> <img src="./assets/sprint3-contributors.png" alt="Backend 3" width="850"> </p>
+
+Este enfoque colaborativo ha sido clave para avanzar en el desarrollo del proyecto de manera ágil y efectiva.
+
+# 5.2.4. Sprint 4
+
+## 5.2.4.1. Spring Planning 4.
+
+| _Campo_                        | _Detalle_                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _Sprint #_                     | Sprint 4                                                                                                                                                                                                                                                                                                                                                              |
+| _Date_                         | 04/07/2025                                                                                                                                                                                                                                                                                                                                                            |
+| _Time_                         | 21:00 pm                                                                                                                                                                                                                                                                                                                                                              |
+| _Location_                     | Virtual, Discort                                                                                                                                                                                                                                                                                                                                                      |
+| _Prepared by_                  | Walter Fajardo                                                                                                                                                                                                                                                                                                                                                        |
+| _Attendees (planning meeting)_ | Walter Fajardo, Lynn Meza, Jorge Linares, Joaquin Cuentas                                                                                                                                                                                                                                                                                                             |
+| _Sprint 3-1 Review - Summary_  | Durante el Sprint 3, se logró desarrollar una versión operativa de la Web App, con todos los componentes esenciales implementados y funcionando de acuerdo a lo esperado.                                                                                                                                                                                             |
+| _Sprint 3-1 Retrospective_     | En el Sprint 3, se desarrollaron correctamente los endpoints funcionales de cada bounded context, asegurando su integración adecuada y su funcionamiento según los requerimientos establecidos.                                                                                                                                                                       |
+| _Sprint 3 Goal_                | En este Sprint se desarrolló la versión final de la Web App, con el frontend y el backend completamente desplegados y conectados. La meta de este sprint es abarcar desde la planificación hasta la implementación, con un enfoque en la integración y optimización de las funcionalidades, asegurando que ambos componentes trabajaran de manera fluida y eficiente. |
+| _Sprint 3 Velocity_            | 14 story points                                                                                                                                                                                                                                                                                                                                                       |
+| _Sum of Story Points_          | 18 story points                                                                                                                                                                                                                                                                                                                                                       |
+
+## 5.2.4.2. Aspect Leaders and Collaborators.
+
+Para asegurar una ejecución eficiente del Sprint 4, el equipo estableció una matriz de liderazgo y colaboración (LACX) que asigna responsabilidades específicas en los aspectos clave de la conexión entre el frontend y el backend. Este sprint se centró en integrar ambos componentes de manera fluida, garantizando que las funcionalidades del sistema se conectaran correctamente y que todo funcionara de manera coherente en la Web App.
+
+La estructura de liderazgo y colaboración permitió una coordinación efectiva, evitando la duplicación de esfuerzos y asegurando que cada tarea relacionada con la integración estuviera supervisada por un líder y con el apoyo de los colaboradores correspondientes.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **BC Profile** | **BC Payment** | **BC Reservation** | **BC Review System** |
+| --------------------------------------- | ------------------- | -------------- | -------------- | ------------------ | -------------------- |
+| Meza Camayo, Lynn Jeeferzon             | LynnJeefer          | C              | L              | C                  | C                    |
+| Fajardo Monrroy, Walter Luis            | WalterFajardo       | L              | C              | C                  | C                    |
+| Cuentas Peña, Joaquin Alberto           | JoaCUPE             | C              | C              | C                  | L                    |
+| Linares Arroyo, Jorge Alexandro         | jlinares30          | C              | C              | L                  | C                    |
+
+Esta matriz asegura que el proceso de integración entre el frontend y el backend se lleve a cabo de manera eficiente, con un enfoque en la comunicación y coordinación entre los equipos responsables de cada área.
+
+## 5.2.4.3. Sprint Backlog 3.
+
+## 5.2.4.4. Development Evidence for Sprint Review.
+
+## 5.2.4.5. Execution Evidence for Sprint Review.
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+## 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 
@@ -2091,7 +2177,7 @@ markdown
 Copiar
 Editar
 | Campo | Detalle |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------|
+|-----------------------|------------------------------------------|
 | Segmento | Niñeras |
 | Nombre | Melisa Sulca |
 | Edad | 23 años |
@@ -2112,7 +2198,7 @@ Editar
 | Análisis de entrevista| La entrevistada tuvo una experiencia favorable. Le gustó el panel de niñeras y la disposición del menú lateral. Valoró los colores azul y piel. Recomendó unificar los estilos visuales de la barra lateral para mayor consistencia. |
 📋 Entrevista 3
 markdown
-Copiar
+Copia
 Editar
 | Campo | Detalle |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -2236,6 +2322,12 @@ Las entrevistas con usuarios y las pruebas de usabilidad fueron fundamentales pa
 El uso de metodologías ágiles y de Domain-Driven Design (DDD) ha facilitado la evolución del producto, organizándolo en módulos clave como perfiles, mensajería, pagos y reseñas, lo que mejora su escalabilidad y mantenimiento.
 
 En conjunto, la plataforma no solo busca facilitar el cuidado infantil, sino también profesionalizar el rol de las niñeras y empoderar a las familias mediante herramientas digitales prácticas y confiables.
+
+- ### Recomendaciones:
+
+- Aunque la integración entre el frontend y el backend fue exitosa, sería ideal seguir perfeccionando la interfaz de usuario. Esto puede incluir mejorar la accesibilidad y la experiencia visual, especialmente en las secciones de perfil y reservas, para que sean más intuitivas y fáciles de navegar.
+
+- Es recomendable realizar pruebas de rendimiento y carga. Esto garantizá que la plataforma pueda manejar un alto volumen de usuarios y solicitudes sin que se vea afectado el rendimiento, especialmente cuando la base de usuarios crezca.
 
 ## Video About-the-Team.
 
