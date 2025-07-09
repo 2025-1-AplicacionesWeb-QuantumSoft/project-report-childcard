@@ -1973,8 +1973,14 @@ trello: https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-4-quantumsoft
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-(despliegue)
+Pasos deploy Backend:
 
+1. 
+<p align="center">
+  <img src="./assets/deploy1.jpg" alt="Backend Deploy1" width="850">
+</p>
+
+2. 
 ###  5.2.3.8. Team Collaboration Insights during Sprin
 
 Durante el Sprint 2, el equipo de desarrollo en implementar todas las funcionalidades del frontend.
