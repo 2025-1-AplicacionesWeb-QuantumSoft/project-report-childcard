@@ -29,11 +29,11 @@
 
 ## REGISTRO DE VERSIONES
 
-| Versión | Fecha    | Autor       | Descripción de Modificación            |
-| ------- | -------- | ----------- | -------------------------------------- |
-| 0.1     | 03/04/25 | Lynn Meza   | Desarrollo de la Structura del informe |
-| 0.1     | 20/04/25 | Aaron Avila | Registro y analisis de entrevista      |
-|         |          |             |                                        |
+| Versión | Fecha    | Autor                                                                                                                                  | Descripción de Modificación            |
+| ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 0.1     | 03/04/25 | Lynn Meza                                                                                                                              | Desarrollo de la Structura del informe |
+| 0.1     | 20/04/25 | Aaron Avila                                                                                                                            | Registro y analisis de entrevista      |
+| 1.0     | 25/04/25 | Meza Camayo, Lynn Jeeferzon </br> Fajardo Monrroy, Walter Luis <br> Cuentas Peña, Joaquin Alberto <br> Linares Arroyo, Jorge Alexandro | Desarrolla de la TB1                   |
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
@@ -45,6 +45,31 @@ Entregrable 1 o TB1 : (25/04/25)
 ![commit-report](./assets/tb1-colaboration-entrega.png)
 
 ![branch-report](./assets/tb1-branch-entrega.png)
+
+**_TP_**
+
+| Integrantes                     | Actividades Asignadas              |
+| ------------------------------- | ---------------------------------- |
+| Meza Camayo, Lynn Jeeferzon     | Sprint 2- frontEnd- BC payment     |
+| Fajardo Monrroy, Walter Luis    | Sprint 2- frontEnd- BC profile     |
+| Cuentas Peña, Joaquin Alberto   | Sprint 2- frontEnd- BC review      |
+| Linares Arroyo, Jorge Alexandro | Sprint 2- frontEnd- BC reservation |
+
+Evidencia:
+
+**_TB2_**
+
+| Integrantes                     | Actividades Asignadas                                      |
+| ------------------------------- | ---------------------------------------------------------- |
+| Meza Camayo, Lynn Jeeferzon     | Sprint 3- frontEnd- BC payment <br> entrevista a niñera    |
+| Fajardo Monrroy, Walter Luis    | Sprint 3- frontEnd- BC profile <br> entrevista a padre     |
+| Cuentas Peña, Joaquin Alberto   | Sprint 3- frontEnd- BC review <br> entrevista a niñera     |
+| Linares Arroyo, Jorge Alexandro | Sprint 3- frontEnd- BC reservation <br> entrevista a padre |
+
+Evidencia:
+
+![tb2-evidencia](./assets/tb2-report-informe%20-1.png)
+![tb2-evidencia2](./assets/tb2-report-informe-2.png)
 
 ## CONTENIDO
 
@@ -240,7 +265,6 @@ Entregrable 1 o TB1 : (25/04/25)
         </td>
     </tr>
 </table>
-
 
 # Capítulo I: Introducción
 
@@ -1713,53 +1737,52 @@ En esta sección se detallan las tareas específicas que el equipo se compromete
 | US-01          | Cuerpo de la App         | W-01   | Implementar de BC Registration Services | Creación de la sección de Registracr servicios de niñera | 2                      | Linares Arroyo, Jorge Alexandro | Done       |
 | US-03          | Lista de Características | W-02   | Implementar de BC Payment               | Desarrollar la sección de pagos.                         | 2                      | Meza Camayo, Lynn Jeeferzon     | Done       |
 | US-04          | Contacto con el Equipo   | W-03   | Implementar de BC Reservation           | Implementar una sección de reservaciones                 | 2                      | Fajardo Monrroy, Walter Luis    | Done       |
-| US-20          | Beneficios               | W-04   | Implementar de BC Comunication System   | Desarrollar una sección de Comunicacion                  | 2                      | Avila Palacios, Aarón Alexander | Done |
+| US-20          | Beneficios               | W-04   | Implementar de BC Comunication System   | Desarrollar una sección de Comunicacion                  | 2                      | Avila Palacios, Aarón Alexander | Done       |
 | US-02          | Testimonios de Usuarios  | W-04   | Implementar de BC Review System         | Desarrollar una sección de reseñas .                     | 2                      | Cuentas Peña, Joaquin Alberto   | Done       |
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
+
 En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub.
 
-| **Repository** | **Branch**              | **Commit Id**                            | **Commit Message**                         | **Commit Message Body**                               | **Commited on (Date)** |
-| -------------- | ----------------------- | ---------------------------------------- | ------------------------------------------ | ----------------------------------------------------- | ---------------------- |
-| frontend       | develop                    | 22aedd5437da06acab87fce31332cf7673d13cdb | feat: routes fixed                            | Cambio de rutas                                       | 14/05/2025             |
-| frontend  | features/registration-services-v.0.1 | 999037abc30fe8ece87c13f90ea3c9f60ff4da95 | feat: 6                            | Mejora final del registration-service bounded context              | 14/05/2025 |
-| frontend   | feature/communication-system    | c3ae9e3595d45e28b6265153135d5cf67f9827fc | feat(chat): Connection to db.json in messages and profiles |  Mejora final del comunication-system bounded context   | 14/05/2025          |
-| frontend   | features/review-system-v.0.1  | f9502439f406427bb724c0e0b8c905e44a8df7de | feat: Actualizando features/review-system-v.0.1                       | actualizando routes                  | 14/05/2025             |
-| frontend   | feature/bc-payment.v.0.1     | 8d9b4ca391c6dce822bf1b5b6cb7d4d4f0ae0150 | feat: styles paymnet | Agrega css al bounded context payment           | 14/05/2025             |
-| frontend   | develop     | 3ef095257c8c5ca9c3767922d1ec7347c6e5e733 | routes images modified | Ajuste en rutas e imágenes           | 15/05/2025             |
-| frontend   | develop     | 430391ca502fc8b695128dd68ff6b4b1a9e4a23c | sidebar fixedt | Corrección del sidebar          | 15/05/2025             |
-| frontend   | develop    | c64bd316b82c0c20c98e88af960ca54b9b9b7e02 | sidebar modified | Modificación del sidebar           | 15/05/2025             |
-| frontend   | develop   | e2687453784f012551c5725eb5171df5c9d9b71d | routes fixed | Corrección de rutas          | 15/05/2025             |
-| frontend   | develop    | 90bf7d1fc8757a709f02dd671e5a24932a984bcf | Merge branch 'features/review-system-v.0.1' into develop | Fusión de rama review-system          | 14/05/2025             |
-| frontend   | develop    | 172df4c283cfd02ec2ca8979f5fc43ac2d89aedd | server fixed | Corrección del servidor        | 14/05/2025             |
-| frontend   | develop    | 2bd732991e2df11e777644b9115444712073d598 | server fix | Corrección del servidor        | 14/05/2025             |
-| frontend   | develop    | fb06269e93b20359785924e3fe1be0771d70fe59 | packege fixed | Corrección en archivos de paquete        | 14/05/2025             |
-| frontend   | develop    | f67819e47d55f96b852bac1f15322dea926f066d | fix server | Corrección del servidor        | 14/05/2025             |
-| frontend   | develop    | d37a08f904e20cffa6e034f540435f6b9d705d51 | fixed server | Corrección del servidor        | 14/05/2025             |
-| frontend   | develop    | 22aedd5437da06acab87fce31332cf7673d13cdb | routes fixed | Corrección de rutas        | 14/05/2025             |
-| frontend   | develop + features/review-system-v.0.1  | cc21184490459c5387bbac5279bc52e1258f9cbe | Actualizando bounded context review-system 14/05 | Actualización del contexto bounded review-system        | 14/05/2025             |
-| frontend   | develop + features/registration-services-v.0.1  | 8054668dc617fc19fbdca0d6ac2f4e3943e21250 | feat: change5 | Cambio menor número 5        | 14/05/2025             |
-| frontend   | develop + features/registration-services-v.0.1    | f92ee0510c604827ffbd4c538a3938e8d4ed88b5 | feat: change4 | Cambio menor número 4        | 14/05/2025             |
-| frontend   | develop + feature/communication-system   | c3ae9e3595d45e28b6265153135d5cf67f9827fc | feat(chat): Connection to db.json in messages and profiles | Integración del chat con db.json        | 14/05/2025             |
-| frontend   | develop + feature/communication-system   | 9cff1886b2958a118989775f88dcac4b2f9d29dd | feat(chat): breakdown of components | División de componentes del chat        | 14/05/2025             |
-| frontend   | develop + features/registration-services-v.0.1   | f54e4cbd5f8238eb1db09ba8d601683e3b953a53 | feat: change3 | Cambio menor número 3        | 14/05/2025             |
-| frontend   | develop + features/registration-services-v.0.1   | 80651078c9e8ade2b6de700c9744d2198d5c2ff3 | feat: change2 | Cambio menor número 2        | 14/05/2025             |
-| frontend   | develop + features/registration-services-v.0.1   | fbd3be8e9562f4bb16d9aa06c2159d9ea45d165d | feat: change | Cambio menor        | 14/05/2025             |
-| frontend   | develop + features/registration-services-v.0.1   | fbd3be8e9562f4bb16d9aa06c2159d9ea45d165d | feat: preview 1 | Vista previa 1        | 14/05/2025             |
-| frontend   | develop + feature/bc-payment.v.0.1   | 832e2ad92613d03e2541664481a15b53425bf7d0 | fix: update .env.development | Actualización del .env para entorno de desarrollo        | 14/05/2025             |
-| frontend   | develop + features/review-system-v.0.1   | 6b3c8e73d7ee19b3b7d7c46b554a3e695e6b1094 | Agregando los idiomas a features/review-system | Añadidos idiomas al sistema de reseñas        | 14/05/2025             |
-| frontend   | develop + feature/bc-payment.v.0.1    | 8d9b4ca391c6dce822bf1b5b6cb7d4d4f0ae0150 | feat: styles paymnet | Estilos para pago        | 13/05/2025             |
-| frontend   | develop + feature/bc-payment.v.0.1    | c97f63255fbd954ca0c821291e9948ed6f8bfbea | feat: styles paymnet | Estilos para pago        | 13/05/2025             |
-| frontend   | develop + feature/communication-system   | 0fbc6eadc1cf6e5f0b38f60d99365558a1e1c6d1 | feat(chat): add basic chat interface with message display and input | Añadido chat básico        | 13/05/2025             |
-| frontend   | develop + feature/bc-payment.v.0.1   | c91e7882c260c4858eacefe8adcc589846e6bdb1 | fix:update payment | Corrección en pagos        | 13/05/2025             |
-| frontend   | develop + feature/bc-payment.v.0.1   | f002faf20885db650e5d43c52d7f934a5da42d82 | fix:update payment page | Corrección en la página de pago        | 13/05/2025             |
-| frontend   | develop + feature/bc-payment.v.0.1   | 944ec53c9c8165441727a9f17d7e975b38ce028b | pix:update payment history | Corrección en el historial de pagos        | 12/05/2025             |
-| frontend   | develop + feature/bc-payment.v.0.1   | 2f3aa39d6e2e947280a22720bb0e96fcb96538fa | fix: update branch | Actualización de rama        | 12/05/2025             |
-| frontend   | develop + feature/bc-payment.v.0.1   | 19b46b1ec19405ca4d3ad8763614ad64f913002b | feat: create component payment | Creación del componente de pago        | 12/05/2025             |
-| frontend   | develop + features/review-system-v.0.1   | 86c9c90b2ff991b01327b4ac8f315be55f1bfae2 | Actualizando rama interview 07-05-20225 | Actualización para entrevista        | 07/05/2025             |
-| frontend   | develop + features/review-system-v.0.1   | 490c1e797796518223acd44e78104d1e0cb8ccd7 | Agregado el bounded context de reseñas - 06/05/2025 | Agregado bounded context de reseñas        | 06/05/2025             |
-
-
+| **Repository** | **Branch**                                     | **Commit Id**                            | **Commit Message**                                                  | **Commit Message Body**                               | **Commited on (Date)** |
+| -------------- | ---------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------- |
+| frontend       | develop                                        | 22aedd5437da06acab87fce31332cf7673d13cdb | feat: routes fixed                                                  | Cambio de rutas                                       | 14/05/2025             |
+| frontend       | features/registration-services-v.0.1           | 999037abc30fe8ece87c13f90ea3c9f60ff4da95 | feat: 6                                                             | Mejora final del registration-service bounded context | 14/05/2025             |
+| frontend       | feature/communication-system                   | c3ae9e3595d45e28b6265153135d5cf67f9827fc | feat(chat): Connection to db.json in messages and profiles          | Mejora final del comunication-system bounded context  | 14/05/2025             |
+| frontend       | features/review-system-v.0.1                   | f9502439f406427bb724c0e0b8c905e44a8df7de | feat: Actualizando features/review-system-v.0.1                     | actualizando routes                                   | 14/05/2025             |
+| frontend       | feature/bc-payment.v.0.1                       | 8d9b4ca391c6dce822bf1b5b6cb7d4d4f0ae0150 | feat: styles paymnet                                                | Agrega css al bounded context payment                 | 14/05/2025             |
+| frontend       | develop                                        | 3ef095257c8c5ca9c3767922d1ec7347c6e5e733 | routes images modified                                              | Ajuste en rutas e imágenes                            | 15/05/2025             |
+| frontend       | develop                                        | 430391ca502fc8b695128dd68ff6b4b1a9e4a23c | sidebar fixedt                                                      | Corrección del sidebar                                | 15/05/2025             |
+| frontend       | develop                                        | c64bd316b82c0c20c98e88af960ca54b9b9b7e02 | sidebar modified                                                    | Modificación del sidebar                              | 15/05/2025             |
+| frontend       | develop                                        | e2687453784f012551c5725eb5171df5c9d9b71d | routes fixed                                                        | Corrección de rutas                                   | 15/05/2025             |
+| frontend       | develop                                        | 90bf7d1fc8757a709f02dd671e5a24932a984bcf | Merge branch 'features/review-system-v.0.1' into develop            | Fusión de rama review-system                          | 14/05/2025             |
+| frontend       | develop                                        | 172df4c283cfd02ec2ca8979f5fc43ac2d89aedd | server fixed                                                        | Corrección del servidor                               | 14/05/2025             |
+| frontend       | develop                                        | 2bd732991e2df11e777644b9115444712073d598 | server fix                                                          | Corrección del servidor                               | 14/05/2025             |
+| frontend       | develop                                        | fb06269e93b20359785924e3fe1be0771d70fe59 | packege fixed                                                       | Corrección en archivos de paquete                     | 14/05/2025             |
+| frontend       | develop                                        | f67819e47d55f96b852bac1f15322dea926f066d | fix server                                                          | Corrección del servidor                               | 14/05/2025             |
+| frontend       | develop                                        | d37a08f904e20cffa6e034f540435f6b9d705d51 | fixed server                                                        | Corrección del servidor                               | 14/05/2025             |
+| frontend       | develop                                        | 22aedd5437da06acab87fce31332cf7673d13cdb | routes fixed                                                        | Corrección de rutas                                   | 14/05/2025             |
+| frontend       | develop + features/review-system-v.0.1         | cc21184490459c5387bbac5279bc52e1258f9cbe | Actualizando bounded context review-system 14/05                    | Actualización del contexto bounded review-system      | 14/05/2025             |
+| frontend       | develop + features/registration-services-v.0.1 | 8054668dc617fc19fbdca0d6ac2f4e3943e21250 | feat: change5                                                       | Cambio menor número 5                                 | 14/05/2025             |
+| frontend       | develop + features/registration-services-v.0.1 | f92ee0510c604827ffbd4c538a3938e8d4ed88b5 | feat: change4                                                       | Cambio menor número 4                                 | 14/05/2025             |
+| frontend       | develop + feature/communication-system         | c3ae9e3595d45e28b6265153135d5cf67f9827fc | feat(chat): Connection to db.json in messages and profiles          | Integración del chat con db.json                      | 14/05/2025             |
+| frontend       | develop + feature/communication-system         | 9cff1886b2958a118989775f88dcac4b2f9d29dd | feat(chat): breakdown of components                                 | División de componentes del chat                      | 14/05/2025             |
+| frontend       | develop + features/registration-services-v.0.1 | f54e4cbd5f8238eb1db09ba8d601683e3b953a53 | feat: change3                                                       | Cambio menor número 3                                 | 14/05/2025             |
+| frontend       | develop + features/registration-services-v.0.1 | 80651078c9e8ade2b6de700c9744d2198d5c2ff3 | feat: change2                                                       | Cambio menor número 2                                 | 14/05/2025             |
+| frontend       | develop + features/registration-services-v.0.1 | fbd3be8e9562f4bb16d9aa06c2159d9ea45d165d | feat: change                                                        | Cambio menor                                          | 14/05/2025             |
+| frontend       | develop + features/registration-services-v.0.1 | fbd3be8e9562f4bb16d9aa06c2159d9ea45d165d | feat: preview 1                                                     | Vista previa 1                                        | 14/05/2025             |
+| frontend       | develop + feature/bc-payment.v.0.1             | 832e2ad92613d03e2541664481a15b53425bf7d0 | fix: update .env.development                                        | Actualización del .env para entorno de desarrollo     | 14/05/2025             |
+| frontend       | develop + features/review-system-v.0.1         | 6b3c8e73d7ee19b3b7d7c46b554a3e695e6b1094 | Agregando los idiomas a features/review-system                      | Añadidos idiomas al sistema de reseñas                | 14/05/2025             |
+| frontend       | develop + feature/bc-payment.v.0.1             | 8d9b4ca391c6dce822bf1b5b6cb7d4d4f0ae0150 | feat: styles paymnet                                                | Estilos para pago                                     | 13/05/2025             |
+| frontend       | develop + feature/bc-payment.v.0.1             | c97f63255fbd954ca0c821291e9948ed6f8bfbea | feat: styles paymnet                                                | Estilos para pago                                     | 13/05/2025             |
+| frontend       | develop + feature/communication-system         | 0fbc6eadc1cf6e5f0b38f60d99365558a1e1c6d1 | feat(chat): add basic chat interface with message display and input | Añadido chat básico                                   | 13/05/2025             |
+| frontend       | develop + feature/bc-payment.v.0.1             | c91e7882c260c4858eacefe8adcc589846e6bdb1 | fix:update payment                                                  | Corrección en pagos                                   | 13/05/2025             |
+| frontend       | develop + feature/bc-payment.v.0.1             | f002faf20885db650e5d43c52d7f934a5da42d82 | fix:update payment page                                             | Corrección en la página de pago                       | 13/05/2025             |
+| frontend       | develop + feature/bc-payment.v.0.1             | 944ec53c9c8165441727a9f17d7e975b38ce028b | pix:update payment history                                          | Corrección en el historial de pagos                   | 12/05/2025             |
+| frontend       | develop + feature/bc-payment.v.0.1             | 2f3aa39d6e2e947280a22720bb0e96fcb96538fa | fix: update branch                                                  | Actualización de rama                                 | 12/05/2025             |
+| frontend       | develop + feature/bc-payment.v.0.1             | 19b46b1ec19405ca4d3ad8763614ad64f913002b | feat: create component payment                                      | Creación del componente de pago                       | 12/05/2025             |
+| frontend       | develop + features/review-system-v.0.1         | 86c9c90b2ff991b01327b4ac8f315be55f1bfae2 | Actualizando rama interview 07-05-20225                             | Actualización para entrevista                         | 07/05/2025             |
+| frontend       | develop + features/review-system-v.0.1         | 490c1e797796518223acd44e78104d1e0cb8ccd7 | Agregado el bounded context de reseñas - 06/05/2025                 | Agregado bounded context de reseñas                   | 06/05/2025             |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
@@ -1808,57 +1831,57 @@ Repositorio de Web Services (Planificado para los próximos sprints): Se ha prep
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Pasos Deploy Frontend
-1.	Subir el proyecto frontend a GitHub.
- 
+
+1. Subir el proyecto frontend a GitHub.
+
 <p align="center">
   <img src="./assets/deploy-front1.png" alt="Reservations Section" width="850">
 </p>
 
-2.	Crear una cuenta en Render y Elegir crear un nuevo Static Project en este caso.
- 
+2. Crear una cuenta en Render y Elegir crear un nuevo Static Project en este caso.
+
 <p align="center">
   <img src="./assets/deploy-front2.png" alt="Reservations Section" width="350">
 </p>
 
-3.	Conectar cuenta de GitHub con la cuenta de Render.
+3. Conectar cuenta de GitHub con la cuenta de Render.
  <p align="center">
   <img src="./assets/deploy-front3.png" alt="Reservations Section" width="850">
 </p>
 
-4.	Configurar el nombre de la app en Render y los comandos para el deploy “npm run build”. Previamente esto se hizo en el proyecto que se sube a GitHub para obtener la carpeta “dist” en este caso por ser un proyecto con Vue.
- 
+4. Configurar el nombre de la app en Render y los comandos para el deploy “npm run build”. Previamente esto se hizo en el proyecto que se sube a GitHub para obtener la carpeta “dist” en este caso por ser un proyecto con Vue.
+
 <p align="center">
   <img src="./assets/deploy-front4.png" alt="Reservations Section" width="550">
 </p>
 
-5.	Render automáticamente realiza el deploy con el package.json encontrado en el proyecto.
- 
+5. Render automáticamente realiza el deploy con el package.json encontrado en el proyecto.
+
 <p align="center">
   <img src="./assets/deploy-front5.png" alt="Reservations Section" width="850">
 </p>
 
 Pasos Deploy Json Server
 
-1.	Se creó un repositorio por separado para el json que se usará con el json server y se subió a GitHub en un repositorio db.json junto con los archivos package.json y server.js necesarios para el despliegue.
+1. Se creó un repositorio por separado para el json que se usará con el json server y se subió a GitHub en un repositorio db.json junto con los archivos package.json y server.js necesarios para el despliegue.
  <p align="center">
   <img src="./assets/deploy-jsonserver1.png" alt="Reservations Section" width="850">
 </p>
 
-2.	Se despliega en un nuevo proyecto en Railway, previamente creando una cuenta y vinculando con la cuenta de GitHub.
+2. Se despliega en un nuevo proyecto en Railway, previamente creando una cuenta y vinculando con la cuenta de GitHub.
  <p align="center">
   <img src="./assets/deploy-jsonserver2.png" alt="Reservations Section" width="650">
 </p>
 
-3.	Seleccionar el proyecto a subir en Railway y automáticamente detectará el package.json que lo usará para iniciar el deploy.
+3. Seleccionar el proyecto a subir en Railway y automáticamente detectará el package.json que lo usará para iniciar el deploy.
  <p align="center">
   <img src="./assets/deploy-jsonserver3.png" alt="Reservations Section" width="850">
 </p>
 
-4.	Una vez desplegado el json, la url que nos da railway del deploy se usará como variable de entorno para la url que conecta con el frontend en producción.
+4. Una vez desplegado el json, la url que nos da railway del deploy se usará como variable de entorno para la url que conecta con el frontend en producción.
  <p align="center">
   <img src="./assets/deploy-jsonserver4.png" alt="Reservations Section" width="550">
 </p>
-
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -1894,28 +1917,29 @@ https://trello.com/u/u20201c3201/boards
   <img src="./assets/sprint2-contribution.png" alt="Frontend 3" width="850">
 </p>
 
-###  5.2.3. Sprint 3
+### 5.2.3. Sprint 3
+
 ### 5.2.3.1. Sprint Planning 3
 
-| *Campo*                        | *Detalle*                                                                                                                                                                                                                                                                                      |
-|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Sprint #*                     | Sprint 3                                                                                                                                                                                                                                                                                        |
-| *Date*                         | 16/06/2025                                                                                                                                                                                                                                                                                     |
-| *Time*                         | 4:00 pm                                                                                                                                                                                                                                                                                        |
-| *Location*                     | Virtual, Zoom                                                                                                                                                                                                                                                                                  |
-| *Prepared by*                 | Walter Fajardo                                                                                                                                                                                                                                                                                 |
-| *Attendees (planning meeting)*| Walter Fajardo, Lynn Meza, Jorge Linares, Joaquin Cuentas                                                                                                                                                                                                                                     |
-| *Sprint 3-1 Review - Summary*  | Durante el Sprint 2, se consiguió desarrollar una versión operativa de la interfaz de usuario que incluye varias pantallas esenciales. Además, se resolvieron ciertos inconvenientes en la parte front, así como implementar funciones que previamente eran estáticas                                |
-| *Sprint 3-1 Retrospective*     | Mejoramos la comunicación dentro del equipo al implementar diversas pantallas alineadas con los bounded contexts definidos por el enfoque de Domain Driven Design.                                                                                                                           |
-| *Sprint 3 Goal*                | Nuestra prioridad en este sprint es completar funciones CRUD en el frontend e implementar la primera versión del backend para la aplicación. Creemos que con esto estará lista una versión funcional de la aplicación con la que los usuarios podrán interactuar con las características principales del sistema. Podremos confirmar esto una vez que logremos implementar exitosamente las funcionalidades y estas superen satisfactoriamente las pruebas correspondientes. |
-| *Sprint 3 Velocity*           | 14 story points                                                                                                                                                                                                                                                                                |
-| *Sum of Story Points*         | 18 story points                                                                                                                                                                                                                                                                                |
+| _Campo_                        | _Detalle_                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _Sprint #_                     | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| _Date_                         | 16/06/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| _Time_                         | 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| _Location_                     | Virtual, Zoom                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| _Prepared by_                  | Walter Fajardo                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| _Attendees (planning meeting)_ | Walter Fajardo, Lynn Meza, Jorge Linares, Joaquin Cuentas                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| _Sprint 3-1 Review - Summary_  | Durante el Sprint 2, se consiguió desarrollar una versión operativa de la interfaz de usuario que incluye varias pantallas esenciales. Además, se resolvieron ciertos inconvenientes en la parte front, así como implementar funciones que previamente eran estáticas                                                                                                                                                                                                        |
+| _Sprint 3-1 Retrospective_     | Mejoramos la comunicación dentro del equipo al implementar diversas pantallas alineadas con los bounded contexts definidos por el enfoque de Domain Driven Design.                                                                                                                                                                                                                                                                                                           |
+| _Sprint 3 Goal_                | Nuestra prioridad en este sprint es completar funciones CRUD en el frontend e implementar la primera versión del backend para la aplicación. Creemos que con esto estará lista una versión funcional de la aplicación con la que los usuarios podrán interactuar con las características principales del sistema. Podremos confirmar esto una vez que logremos implementar exitosamente las funcionalidades y estas superen satisfactoriamente las pruebas correspondientes. |
+| _Sprint 3 Velocity_            | 14 story points                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| _Sum of Story Points_          | 18 story points                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ### 5.2.3.2. Sprint Backlog 3
 
- En esta sección se presenta un resumen del objetivo principal del sprint, destacando las metas a alcanzar y las funcionalidades a implementar. A
- continuación, se muestra un screenshot del Board del sprint en la herramienta de control seleccionada, Trello, junto con el enlace público
- correspondiente. 
+En esta sección se presenta un resumen del objetivo principal del sprint, destacando las metas a alcanzar y las funcionalidades a implementar. A
+continuación, se muestra un screenshot del Board del sprint en la herramienta de control seleccionada, Trello, junto con el enlace público
+correspondiente.
 
 trello: https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-4-quantumsoft
 
@@ -1923,49 +1947,48 @@ trello: https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-4-quantumsoft
 
 # 🍼 Historias de Usuario - Aplicación de Niñeras
 
-| Epic / Story ID | Título                                   | Criterios de Aceptación |
-|-----------------|-------------------------------------------|--------------------------|
-| US06            | Cambiar el idioma de la Aplicación       | **Escenario 1:** Given el usuario está en la sección de configuración, when selecciona la opción de cambiar el idioma, then debe poder seleccionar un idioma de la lista de opciones disponibles. |
-| US14            | Registrar Servicio de Cuidado            | **Escenario 1:** Given el usuario está en la sección de una agenda, when selecciona la opción de registrar un servicio, then debe poder ingresar los detalles del servicio, como fecha, duración, tipo de cuidado y nota. |
-| US15            | Clasificar Servicios                     | **Escenario 1:** Given el usuario registra un servicio, when selecciona una categoría para el servicio (ej. cuidado nocturno, emergencias), then el servicio se clasifica automáticamente en la categoría seleccionada. |
-| US16            | Crear Servicios Recurrentes              | **Escenario 1:** Given el usuario está en la sección de una agenda, when selecciona la opción de registrar un servicio y marca la opción de recurrencia configurando la frecuencia, then el servicio se agenda automáticamente según la configuración. |
-| US19            | Asignar Servicio a Otra Niñera           | **Escenario 1:** Given el usuario está en la sección de agenda, when selecciona la opción de reasignar un servicio, then debe poder ingresar los detalles y seleccionar a la niñera de destino para completar la asignación. |
-| US23            | Alerta de Exceso de Horas                | **Escenario 1:** Given el usuario está en la sección de monitoreo, when el total de horas trabajadas por una niñera se acerca al límite mensual, then debe recibir una notificación de alerta que le advierte sobre el exceso de horas. |
-| US24            | Ver Servicios Anteriores                 | **Escenario 1:** Given el usuario está en la sección de historial, when selecciona una niñera o cliente, then debe poder ver los servicios anteriores con sus fechas y detalles. |
-| US25            | Ver Gráfico de Actividad Mensual         | **Escenario 1:** Given el usuario está en la sección de reportes, when selecciona una niñera o cliente, then debe poder ver un gráfico que muestre los servicios realizados por mes. |
-| US32            | Cambiar el idioma desde la Landing Page  | **Escenario 1:** Given el visitante está en la landing page, when selecciona un idioma diferente en el menú de idiomas, then la página debe cambiar al idioma seleccionado. |
-| TS40            | Integración con Sistema Externo          | **Escenario 1:** Given el sistema tiene una API disponible, when se establece la conexión con el sistema externo, then el sistema puede acceder a los datos y funcionalidades del sistema externo. |
-| TS41            | Registro de Servicios por API            | **Escenario 1:** Given el endpoint (`/api/v1/servicios`) está disponible, when se envía una solicitud POST con los datos del servicio, then se recibe una señal de confirmación (201) y el servicio se registra correctamente. |
-| TS42            | Crear Agenda por API                     | **Escenario 1:** Given el endpoint (`/api/v1/agendas`) está disponible, when se envía una solicitud POST con los datos de la agenda, then se recibe confirmación (201) y la agenda queda registrada. |
-| TS43            | Crear Plan de Horarios por API           | **Escenario 1:** Given el endpoint (`/api/v1/horarios`) está disponible, when se envía una solicitud POST con los datos del plan de horarios, then se recibe una señal de confirmación (201) y el sistema registra el plan de horarios. |
+| Epic / Story ID | Título                                  | Criterios de Aceptación                                                                                                                                                                                                                                |
+| --------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| US06            | Cambiar el idioma de la Aplicación      | **Escenario 1:** Given el usuario está en la sección de configuración, when selecciona la opción de cambiar el idioma, then debe poder seleccionar un idioma de la lista de opciones disponibles.                                                      |
+| US14            | Registrar Servicio de Cuidado           | **Escenario 1:** Given el usuario está en la sección de una agenda, when selecciona la opción de registrar un servicio, then debe poder ingresar los detalles del servicio, como fecha, duración, tipo de cuidado y nota.                              |
+| US15            | Clasificar Servicios                    | **Escenario 1:** Given el usuario registra un servicio, when selecciona una categoría para el servicio (ej. cuidado nocturno, emergencias), then el servicio se clasifica automáticamente en la categoría seleccionada.                                |
+| US16            | Crear Servicios Recurrentes             | **Escenario 1:** Given el usuario está en la sección de una agenda, when selecciona la opción de registrar un servicio y marca la opción de recurrencia configurando la frecuencia, then el servicio se agenda automáticamente según la configuración. |
+| US19            | Asignar Servicio a Otra Niñera          | **Escenario 1:** Given el usuario está en la sección de agenda, when selecciona la opción de reasignar un servicio, then debe poder ingresar los detalles y seleccionar a la niñera de destino para completar la asignación.                           |
+| US23            | Alerta de Exceso de Horas               | **Escenario 1:** Given el usuario está en la sección de monitoreo, when el total de horas trabajadas por una niñera se acerca al límite mensual, then debe recibir una notificación de alerta que le advierte sobre el exceso de horas.                |
+| US24            | Ver Servicios Anteriores                | **Escenario 1:** Given el usuario está en la sección de historial, when selecciona una niñera o cliente, then debe poder ver los servicios anteriores con sus fechas y detalles.                                                                       |
+| US25            | Ver Gráfico de Actividad Mensual        | **Escenario 1:** Given el usuario está en la sección de reportes, when selecciona una niñera o cliente, then debe poder ver un gráfico que muestre los servicios realizados por mes.                                                                   |
+| US32            | Cambiar el idioma desde la Landing Page | **Escenario 1:** Given el visitante está en la landing page, when selecciona un idioma diferente en el menú de idiomas, then la página debe cambiar al idioma seleccionado.                                                                            |
+| TS40            | Integración con Sistema Externo         | **Escenario 1:** Given el sistema tiene una API disponible, when se establece la conexión con el sistema externo, then el sistema puede acceder a los datos y funcionalidades del sistema externo.                                                     |
+| TS41            | Registro de Servicios por API           | **Escenario 1:** Given el endpoint (`/api/v1/servicios`) está disponible, when se envía una solicitud POST con los datos del servicio, then se recibe una señal de confirmación (201) y el servicio se registra correctamente.                         |
+| TS42            | Crear Agenda por API                    | **Escenario 1:** Given el endpoint (`/api/v1/agendas`) está disponible, when se envía una solicitud POST con los datos de la agenda, then se recibe confirmación (201) y la agenda queda registrada.                                                   |
+| TS43            | Crear Plan de Horarios por API          | **Escenario 1:** Given el endpoint (`/api/v1/horarios`) está disponible, when se envía una solicitud POST con los datos del plan de horarios, then se recibe una señal de confirmación (201) y el sistema registra el plan de horarios.                |
 
+### 5.2.3.5. Execution Evidence for Sprint Review
 
+En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el
+Sprint 3. Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
 
-###  5.2.3.5. Execution Evidence for Sprint Review
- En esta entrega, no se realizaron cambios con relación al Landing Page. Por el momento, la Landing Page queda igual a la versión realizada en el
- Sprint 3. Se ha desarrollado un avance con respecto a la Landing Page, FrontEnd y BackEnd:
-
- Landing Page:
+Landing Page:
 
 <p align="center">
   <img src="./assets/LandingP.png" alt="Landing Page" width="850">
 </p>
 
- Frontend:
+Frontend:
 
  <p align="center">
   <img src="./assets/FrontendP.png" alt="Frontend" width="850">
 </p>
 
- Backend:
+Backend:
 
   <p align="center">
   <img src="./assets/backendP.jpg" alt="backend" width="850">
 </p>
 
- ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
- En el tercer sprint identificamos 20 endpoints provenientes de 5 controladores diferentes. Utilizamos swagger para la presente documentac
+En el tercer sprint identificamos 20 endpoints provenientes de 5 controladores diferentes. Utilizamos swagger para la presente documentac
 
    <p align="center">
   <img src="./assets/endpoints.png" alt="backend" width="850">
@@ -1975,7 +1998,7 @@ trello: https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-4-quantumsoft
 
 (despliegue)
 
-###  5.2.3.8. Team Collaboration Insights during Sprin
+### 5.2.3.8. Team Collaboration Insights during Sprin
 
 Durante el Sprint 2, el equipo de desarrollo en implementar todas las funcionalidades del frontend.
 
@@ -2005,28 +2028,30 @@ Durante el Sprint 2, el equipo de desarrollo en implementar todas las funcionali
   <img src="./assets/sprint3-contributors.png" alt="Backend 3" width="850">
 </p>
 
-
-
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
 
 # 🎯 Objetivo de la Entrevista
 
-Validar la usabilidad y efectividad de la *landing page* y de los *flujos de usuario* de la aplicación *KidyCare*, asegurando que cada flujo sea claro, atractivo y fomente la interacción de los usuarios. Asimismo, se tomarán en cuenta aspectos de mejora.
+Validar la usabilidad y efectividad de la _landing page_ y de los _flujos de usuario_ de la aplicación _KidyCare_, asegurando que cada flujo sea claro, atractivo y fomente la interacción de los usuarios. Asimismo, se tomarán en cuenta aspectos de mejora.
 
 ---
 
 ## ✅ Elementos de Validación
 
 ### 🖥️ Landing Page
+
 Se evaluará cómo los usuarios perciben:
+
 - La claridad del mensaje.
 - El atractivo de las funcionalidades.
 - Si se sienten identificados como posibles usuarios de la aplicación.
 
 ### 📱 Aplicación
+
 Se guiará a los usuarios a través de los flujos principales, como:
+
 - Reservación
 - Mensajes
 - Métodos de pago
@@ -2038,7 +2063,8 @@ Se guiará a los usuarios a través de los flujos principales, como:
 ## 📝 Formato de Registro de Entrevista
 
 ### 🔍 EXPLORACIÓN LANDING PAGE:
-- ¿Según lo que viste en la landing page, qué entendiste que ofrece KidyCare?  
+
+- ¿Según lo que viste en la landing page, qué entendiste que ofrece KidyCare?
 - ¿Crees que esta aplicación sería adecuada para tu ocupación?
 
 ---
@@ -2058,56 +2084,55 @@ Se guiará a los usuarios a través de los flujos principales, como:
 - ¿Qué es lo que más te gustó de la app?
 - Como niñera/padre de familia, ¿cómo usarías esta aplicación en base a sus funciones?
 
-
 ### 5.3.2. Registro de Entrevistas.
 
 📋 Entrevista 1
 markdown
 Copiar
 Editar
-| Campo                 | Detalle                                                                                                                    |
+| Campo | Detalle |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Segmento              | Niñeras                                                                                                                    |
-| Nombre                | Melisa Sulca                                                                                                               |
-| Edad                  | 23 años                                                                                                                    |
-| Ocupación             | Estudiante y niñera a tiempo parcial                                                                                       |
-| Duración de entrevista| 17 minutos                                                                                                                 |
+| Segmento | Niñeras |
+| Nombre | Melisa Sulca |
+| Edad | 23 años |
+| Ocupación | Estudiante y niñera a tiempo parcial |
+| Duración de entrevista| 17 minutos |
 | Análisis de entrevista| La entrevistada tuvo una experiencia positiva. Las funciones estaban claramente ubicadas en la barra lateral. Destacó la utilidad de la mensajería. El diseño en azul y tono piel transmitía calidez y cercanía. Sugirió mejorar el contraste de los textos para facilitar su lectura. |
 📋 Entrevista 2
 markdown
 Copiar
 Editar
-| Campo                 | Detalle                                                                                                                    |
+| Campo | Detalle |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Segmento              | Niñeras                                                                                                                    |
-| Nombre                | Alessandra Becerra                                                                                                         |
-| Edad                  | 20 años                                                                                                                    |
-| Ocupación             | Estudiante y niñera a tiempo parcial                                                                                       |
-| Duración de entrevista| 6 minutos                                                                                                                  |
+| Segmento | Niñeras |
+| Nombre | Alessandra Becerra |
+| Edad | 20 años |
+| Ocupación | Estudiante y niñera a tiempo parcial |
+| Duración de entrevista| 6 minutos |
 | Análisis de entrevista| La entrevistada tuvo una experiencia favorable. Le gustó el panel de niñeras y la disposición del menú lateral. Valoró los colores azul y piel. Recomendó unificar los estilos visuales de la barra lateral para mayor consistencia. |
 📋 Entrevista 3
 markdown
 Copiar
 Editar
-| Campo                 | Detalle                                                                                                                    |
+| Campo | Detalle |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Segmento              | Padres de familia                                                                                                          |
-| Nombre                | Daniel Castañeda                                                                                                           |
-| Edad                  | 25 años                                                                                                                    |
-| Ocupación             | Padre con experiencia en cuidado de niños                                                                                 |
-| Duración de entrevista| 13 minutos                                                                                                                 |
-| Análisis de entrevista| El entrevistado destacó la familiaridad con las funciones, facilitando su uso. Valoró la claridad del menú lateral y el diseño alineado al propósito de la app. Sugirió destacar más la información de las niñeras disponibles.     |
+| Segmento | Padres de familia |
+| Nombre | Daniel Castañeda |
+| Edad | 25 años |
+| Ocupación | Padre con experiencia en cuidado de niños |
+| Duración de entrevista| 13 minutos |
+| Análisis de entrevista| El entrevistado destacó la familiaridad con las funciones, facilitando su uso. Valoró la claridad del menú lateral y el diseño alineado al propósito de la app. Sugirió destacar más la información de las niñeras disponibles. |
 📋 Entrevista 4
 markdown
 Copiar
 Editar
-| Campo                 | Detalle                                                                                                                    |
+| Campo | Detalle |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Segmento              | Padres de familia                                                                                                          |
-| Nombre                | Alessandro Bravo                                                                                                           |
-| Edad                  | 30 años                                                                                                                    |
-| Ocupación             | Docente                                                                                                                    |
-| Duración de entrevista| 8 minutos                                                                                                                  |
+| Segmento | Padres de familia |
+| Nombre | Alessandro Bravo |
+| Edad | 30 años |
+| Ocupación | Docente |
+| Duración de entrevista| 8 minutos |
 | Análisis de entrevista| El entrevistado se sintió cómodo con la app por su similitud con otras plataformas. Res
 
 ### 5.3.3. Evaluaciones según heurísticas.
@@ -2171,12 +2196,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 
 - **Severidad**: 2
 - **Heurística violada**: Inclusive Design - Proporciona experiencias comparables
-- **Problema**: 
+- **Problema**:
   - Cuando un usuario realiza una búsqueda, los iconos de los perfiles no aparecen, lo que genera confusión, ya que no se puede distinguir visualmente entre los distintos usuarios. Esto afecta la experiencia de usuario, dificultando la navegación y comprensión del contenido.
-- **Recomendación**: 
+- **Recomendación**:
   - Es recomendable asegurar que los iconos de los perfiles sean visibles y correctamente asociados a los resultados de búsqueda, de manera que los usuarios puedan fácilmente identificar los perfiles correspondientes.
 
 #### PROBLEMA #2: El toolbar de filtrado no tiene una buena presentación.
+
 - **Severidad**: 1
 - **Heurística violada**: Inclusive Design - Proporciona experiencias comparables
 - **Problema**:
@@ -2185,6 +2211,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
   - Se debe mejorar la visualización del toolbar de filtrado, utilizando un diseño más limpio, con botones bien organizados y textos legibles. Además, se puede añadir un diseño que destaque los filtros aplicados para mejorar la experiencia del usuario.
 
 #### PROBLEMA #3: Se presenta el sistema de chat de forma incompleta.
+
 - **Severidad**: 4
 - **Heurística violada**: Usabilidad - Consistencia y estándares
 - **Problema**:
