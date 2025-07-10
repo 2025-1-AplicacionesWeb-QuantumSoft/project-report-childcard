@@ -245,23 +245,46 @@ Evidencia:
           <b>Lynn Meza: TB1</b><br>
           Fomentó la colaboración y el crecimiento compartido al participar en el desarrollo de los to-be Scenario map, user sotires, impact map y Product backlog.<br>
           Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.<br>
+            <b>Lynn Meza: TP1</b><br>
+          Fomenté la participación de todos los integrantes. Brindé mis conocimientos de aplicación en el bounded context payment, así como en otros adicionales. Esto permitió una entrega satisfecha. .<br>
           <b>Lynn Meza: TB2</b><br>
           Deserralle el boounded context pay, que esta incluido endpoint de card y payment. Ademas, de la correcion del mismo bounded en el fronend.<br>
           <br>
+            <b>Lynn Meza: TF1</b><br>
+          Mejoré mi bounded context con anticipación, lo cual permitió que los demás integrantes del equipo se motivaran a mejorar el suyo, así como usarlo de guía.<br>
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo en equipo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
+            <b>Jorge Linares: TP1</b><br>
+          Lideré la implementación de frontend, implementando el bounded context con más funcionalidades del trabajo y así motivar a mis compañeros a guiarse de algunas de mis funcionalidades.<br>
+            <b>Jorge Linares: TB2</b><br>
+          Lideré el proyecto creando el repositorio del backend y manejando las ramas, para unirlas con merge cuando fue necesario..<br>
+            <b>Jorge Linares: TF1</b><br>
+          Lideré el proyecto implementando opciones de ACL para la comunicación entre bounded context y motivando a mis compañeros.<br>
           <br>
           <b>Joaquin Cuentas: TB1</b><br>
           Fomenté la investigación de nuestros usuarios y las ideas que nos diferenciarán de nuestros competidores.<br>
           Materialicé la información obtenida en diagramas del modelo Scrum que nos permitirán ofrecer a nuestros usuarios sus opiniones manidestadas. <br>
+            <b>Joaquin Cuentas: TP1</b><br>
+          Fomenté la participación de mis compañeros, planificando reuniones y designando responsabilidades para esta entrega. <br>
           <b>Joaquin Cuentas: TB2</b><br>
           Fomenté la participación de grupo instando reuniones para planificar el sprint 2, así como resolver dudas acerca de la implementación del backend. asímismo, materialicé mi esfuerzo planificando fechas para avanzar el backends.<br>
+            <b>Joaquin Cuentas: TF1</b><br>
+         Lideré la conexión entre bounded context del backend para que sea más fácil de implementar para mis demás compañeros. <br>
           <br>
           <b>Walter Fajardo: TB1</b><br>
           Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
           Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
+            <b>Walter Fajardo: TP1</b><br>
+          Fomenté el trabajo en equipo, designando responsabilidades en la documentación del trabajo. De esta manera, recopilamos la información de la participación de todos los integrantes.<br>
           <b>Walter Fajardo: TB2</b><br>
           Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
+            <b>Walter Fajardo: TB1</b><br>
+          Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
+          Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
+             <b>Walter Fajardo: TB2</b><br>
+          Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
+            <b>Walter Fajardo: TF1</b><br>
+         Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend.<br>
         </td>
         <td>
           <b>TB1</b><br>
