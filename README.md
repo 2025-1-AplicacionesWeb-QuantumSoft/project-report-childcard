@@ -278,13 +278,9 @@ Evidencia:
           Fomenté el trabajo en equipo, designando responsabilidades en la documentación del trabajo. De esta manera, recopilamos la información de la participación de todos los integrantes.<br>
           <b>Walter Fajardo: TB2</b><br>
           Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
-            <b>Walter Fajardo: TB1</b><br>
-          Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
-          Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
-             <b>Walter Fajardo: TB2</b><br>
-          Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
-            <b>Walter Fajardo: TF1</b><br>
-         Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend.<br>
+          <b>Walter Fajardo: TF1</b><br>
+          Implementé el IAM en el front y back para que se pueda acceder a la web a partir de un registro
+        </td>
         </td>
         <td>
           <b>TB1</b><br>
@@ -321,7 +317,7 @@ Evidencia:
          Desarrollé el bounded context de reservaciones con métodos que permitieron a mis compañeros implementar el suyos en el backend.<br>
           <b>Joaquin Cuentas: TB1</b><br>
           Me planifiqué a completar el capítulo 2, caracterirzado por la investigación de competidores, la recolección de datos mediante entrevistas y los diagramas del modelo scrum. <br>
-             <b>Joaquin Cuentas: TF1</b><br>
+             <b>Joaquin Cuentas: TP</b><br>
           Me planifiqué a completar el capítulo 2, caracterirzado por la investigación de competidores, la recolección de datos mediante entrevistas y los diagramas del modelo scrum. <br>
           Cumplí estos objetivos dentro del plazo establecido y obtuvimos un proyecto eficiente<br>
           <b>Joaquin Cuentas: TB2</b><br>
@@ -331,22 +327,24 @@ Evidencia:
           <br>
           <b>Walter Fajardo: TB1</b><br>
           Realice los lean ux proccess, que constaron de los problem statements, assumptions, canvas y segmentos objetivo además de la implementacion de la seccion de consulta en la landing page
-        </td>
-        <b>Walter Fajardo: TP1</b><br>
-          Implementé el front de perfiles de niñeras, para que se pueda editar su información.
-        </td>
-        <b>Walter Fajardo: TB2</b><br>
+          <b>Walter Fajardo: TB1</b><br>
+          Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
+          Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
+          <b>Walter Fajardo: TB2</b><br>
           Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
-        <td>
-            <b>Walter Fajardo: TF1</b><br>
+        <b>Walter Fajardo: TF1</b><br>
           Implementé el IAM en el front y back para que se pueda acceder a la web a partir de un registro
         </td>
+        <td>
           <b><b>TB1:</b><br>
           En conclucion, El desarrollo de nuestra app de tutores y cuidadores se reflejó un liderazgo colaborativo, donde el equipo trabajó de manera articulada en cada fase, desde el análisis de la problematica y los segmentos objetivos hasta la implementación ágil con sprints . La integración de metodologías Lean UX ayudo en el diseño centrado en el usuario, permitiendo entregar una solución viable y funcional. Este proyecto demostró que el trabajo en equipo, con roles definidos y comunicación constante, es clave para transformar ideas en productos digitales efectivos, superando desafíos técnicos y de usabilidad con un enfoque conjunto.<br><br>
           <b>TP1:</b><br>
           En conclusión, el desarrollo del frontend de nuestra aplicación se llevó a cabo bajo un liderazgo colaborativo que fomentó un trabajo en equipo articulado y eficiente. Desde el análisis inicial de los requerimientos hasta la implementación de la interfaz, el equipo empleó metodologías Lean UX para garantizar un diseño centrado en el usuario, integrando sprints ágiles que optimizaron el proceso. La comunicación constante y la definición clara de roles permitieron superar desafíos de usabilidad y entregar una interfaz intuitiva y funcional. Este proyecto evidenció que la combinación de trabajo en equipo, metodologías ágiles y un enfoque colaborativo es fundamental para crear productos digitales efectivos y atractivos.<br><br>            
           <b>TB2:</b><br>
           En conclusión, la implementación del backend se desarrolló dentro de un ambiente de trabajo inclusivo y seguro, en el que todos los integrantes del equipo pudieron participar libremente, compartir sus ideas y contribuir en cada etapa del proyecto. Promovimos el respeto, la equidad y la escucha activa, asegurándonos de que cada voz fuera tomada en cuenta, sin importar el rol o la experiencia previa.
+          <b>TF:</br>
+          En conclusión, Se culminó exitosamente el desarrollo completo del frontend y del backend, integrando de forma efectiva todos los bounded contexts definidos por el equipo. Esta integración permitió una experiencia de usuario fluida y coherente, así como una arquitectura robusta en el servidor. Así lo evidencian la experimentacion de nuestros usarios.
+          <br>
         </td>
     </tr>
 </table>
@@ -2172,7 +2170,7 @@ Esta matriz asegura que el proceso de integración entre el frontend y el backen
 
 ## 5.2.4.4. Development Evidence for Sprint Review.
 
-## 5.2.4.5. Execution Evidence for Sprint Review.
+## 5.2.4.5. Execution Evidence for Sprint Review.git 
 
 ## 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
