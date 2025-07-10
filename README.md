@@ -2040,23 +2040,23 @@ En el tercer sprint identificamos 20 endpoints provenientes de 5 controladores d
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Pasos para el deploy del backend: 
+Pasos para el deploy del backend:
 
 1. <p align="center">
-  <img src="./assets/deploy1.jpg" alt="Deploy1" width="850">
-</p>
+     <img src="./assets/deploy1.jpg" alt="Deploy1" width="850">
+   </p>
 
 2. <p align="center">
-  <img src="./assets/deploy2.jpg" alt="Deploy2" width="850">
-</p>
+     <img src="./assets/deploy2.jpg" alt="Deploy2" width="850">
+   </p>
 
 3. <p align="center">
-  <img src="./assets/deploy3.jpg" alt="Deploy3" width="850">
-</p>
+     <img src="./assets/deploy3.jpg" alt="Deploy3" width="850">
+   </p>
 
 4. <p align="center">
-  <img src="./assets/deploy4.jpg" alt="Deploy4" width="850">
-</p>
+     <img src="./assets/deploy4.jpg" alt="Deploy4" width="850">
+   </p>
 
 Enlace: kidycare-gta3gufcaaatbpc5.canadacentral-01.azurewebsites.net
 
@@ -2135,6 +2135,7 @@ Esta matriz asegura que el proceso de integración entre el frontend y el backen
 ## 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 ## 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
 
 ## 5.2.4.8. Team Collaboration Insights during Sprint.
 
@@ -2335,7 +2336,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 
 ## 5.4. Video About-the-Product.
 
-Link: https://drive.google.com/drive/folders/1os7AF_Bl8e1WgM12yBcbhllsJSf7Dys8?usp=sharing
+Link: <https://youtu.be/LjGAmYckzvQ>
 
 # Conclusiones
 
@@ -2359,7 +2360,7 @@ En conjunto, la plataforma no solo busca facilitar el cuidado infantil, sino tam
 
 ## Video About-the-Team.
 
-Link: https://drive.google.com/drive/folders/1EcdymPs_FD-FILP97t-yWz8dz6rhXLI_?usp=sharing
+Link: <https://youtu.be/cucT69I9tHs>
 
 ## Bibliografía Anexos
 
@@ -2370,3 +2371,5 @@ Link: https://drive.google.com/drive/folders/1EcdymPs_FD-FILP97t-yWz8dz6rhXLI_?u
   - link del figma de web app: <https://www.figma.com/design/mfHgEotBOQ0IGAOMq0gTwG/KidyCare?node-id=0-1&p=f&t=D0Q9mT3m8KE5z9qo-0>
   - link del Trello: <https://trello.com/b/1RZIOAAB/1asi0730-2510-4380-grupo-3-quantumsoft>
   - link de la landing page: <https://2025-1-aplicacionesweb-quantumsoft.github.io/landing-page/>
+  - link de  About-the-Product: <https://youtu.be/LjGAmYckzvQ>
+  - link de About-the-Team: <https://youtu.be/cucT69I9tHs>
