@@ -245,23 +245,46 @@ Evidencia:
           <b>Lynn Meza: TB1</b><br>
           Fomentó la colaboración y el crecimiento compartido al participar en el desarrollo de los to-be Scenario map, user sotires, impact map y Product backlog.<br>
           Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.<br>
+            <b>Lynn Meza: TP1</b><br>
+          Fomenté la participación de todos los integrantes. Brindé mis conocimientos de aplicación en el bounded context payment, así como en otros adicionales. Esto permitió una entrega satisfecha. .<br>
           <b>Lynn Meza: TB2</b><br>
           Deserralle el boounded context pay, que esta incluido endpoint de card y payment. Ademas, de la correcion del mismo bounded en el fronend.<br>
           <br>
+            <b>Lynn Meza: TF1</b><br>
+          Mejoré mi bounded context con anticipación, lo cual permitió que los demás integrantes del equipo se motivaran a mejorar el suyo, así como usarlo de guía.<br>
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo en equipo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
+            <b>Jorge Linares: TP1</b><br>
+          Lideré la implementación de frontend, implementando el bounded context con más funcionalidades del trabajo y así motivar a mis compañeros a guiarse de algunas de mis funcionalidades.<br>
+            <b>Jorge Linares: TB2</b><br>
+          Lideré el proyecto creando el repositorio del backend y manejando las ramas, para unirlas con merge cuando fue necesario..<br>
+            <b>Jorge Linares: TF1</b><br>
+          Lideré el proyecto implementando opciones de ACL para la comunicación entre bounded context y motivando a mis compañeros.<br>
           <br>
           <b>Joaquin Cuentas: TB1</b><br>
           Fomenté la investigación de nuestros usuarios y las ideas que nos diferenciarán de nuestros competidores.<br>
           Materialicé la información obtenida en diagramas del modelo Scrum que nos permitirán ofrecer a nuestros usuarios sus opiniones manidestadas. <br>
+            <b>Joaquin Cuentas: TP1</b><br>
+          Fomenté la participación de mis compañeros, planificando reuniones y designando responsabilidades para esta entrega. <br>
           <b>Joaquin Cuentas: TB2</b><br>
           Fomenté la participación de grupo instando reuniones para planificar el sprint 2, así como resolver dudas acerca de la implementación del backend. asímismo, materialicé mi esfuerzo planificando fechas para avanzar el backends.<br>
+            <b>Joaquin Cuentas: TF1</b><br>
+         Lideré la conexión entre bounded context del backend para que sea más fácil de implementar para mis demás compañeros. <br>
           <br>
           <b>Walter Fajardo: TB1</b><br>
           Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
           Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
+            <b>Walter Fajardo: TP1</b><br>
+          Fomenté el trabajo en equipo, designando responsabilidades en la documentación del trabajo. De esta manera, recopilamos la información de la participación de todos los integrantes.<br>
           <b>Walter Fajardo: TB2</b><br>
           Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
+            <b>Walter Fajardo: TB1</b><br>
+          Fomentó el trabajo en equipo y el desarrollo del proyecto al realizar el desarrollo de los segmentos objetivos.<br>
+          Tambien se desarrollaronlas 5W y 2H ademas de aportar a la seccion de contacto en la landing page.<br>
+             <b>Walter Fajardo: TB2</b><br>
+          Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
+            <b>Walter Fajardo: TF1</b><br>
+         Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend.<br>
         </td>
         <td>
           <b>TB1</b><br>
@@ -280,27 +303,45 @@ Evidencia:
           <b>Lynn Meza: TB1</b><br>
           Desarrolle los to-be Scenario map, user sotires, impact map y Product backlog.<br>
           Ademas, desarrollo Software Configuration Management y todo los puntos del sprint 1 con el implementacion de la seccion de caracteristicas de la landing page.
-          <b>Lynn Meza: TB1</b><br>
+            <b>Lynn Meza: TP1</b><br>
+          Fomente la inclusión de todos al incentivar que ningún compañero se quede en su entrega, enviando mensajes por interno
+          <b>Lynn Meza: TB2</b><br>
           Implemente el boounded context pay, que esta incluido endpoint de card y payment. Ademas, de la correcion del mismo bounded en el fronend.<br>
           <br>
+            <b>Lynn Meza: TF1</b><br>
+          Motive a mis compañeros a cumplir su parte dentro del plazo que establecimos, escribiendo mensajes por interno a cada uno.
           <b>Jorge Linares: TB1</b><br>
           Desempeñe en el trabajo colaborativo con el desarrollo del Capítulo IV, desarrollo el estilo, arquitectura de información y diseño UX/UI de la aplicación. Cree los wireframes, mock-ups y prototipos de la aplicación y landing pages, así como en el diseño de la arquitectura de software y diagrama UML. Además, de realizar la sección del Hero y navbar de la landing page.<br>
+            <b>Jorge Linares: TP1</b><br>
+          Desarrollé el bounded context de reservaciones con métodos que permitieron a mis compañeros implementar el suyo..<br>
           <b>Jorge Linares: TB2</b><br>
           Desarrollo del bounded context Reservations, Revision de segunda version del frotend. Despliegue backend. Participacion del spring 3.<br>
           <br>
+            <b>Jorge Linares: TF1</b><br>
+         Desarrollé el bounded context de reservaciones con métodos que permitieron a mis compañeros implementar el suyos en el backend.<br>
           <b>Joaquin Cuentas: TB1</b><br>
+          Me planifiqué a completar el capítulo 2, caracterirzado por la investigación de competidores, la recolección de datos mediante entrevistas y los diagramas del modelo scrum. <br>
+             <b>Joaquin Cuentas: TF1</b><br>
           Me planifiqué a completar el capítulo 2, caracterirzado por la investigación de competidores, la recolección de datos mediante entrevistas y los diagramas del modelo scrum. <br>
           Cumplí estos objetivos dentro del plazo establecido y obtuvimos un proyecto eficiente<br>
           <b>Joaquin Cuentas: TB2</b><br>
           Me planifiqué a implementar el PUT y POST del backend del bounded context Review, así como planificar las entrevistas para la evaluación de landing page y frontend para su posterior análisis. <br>
+             <b>Joaquin Cuentas: TF1</b><br>
+          Desarrolle el bounded context de reviews en el back que permitió comunicarse con otros bounded context de mis compañeros. <br>
           <br>
           <b>Walter Fajardo: TB1</b><br>
           Realice los lean ux proccess, que constaron de los problem statements, assumptions, canvas y segmentos objetivo además de la implementacion de la seccion de consulta en la landing page
         </td>
+        <b>Walter Fajardo: TP1</b><br>
+          Implementé el front de perfiles de niñeras, para que se pueda editar su información.
+        </td>
         <b>Walter Fajardo: TB2</b><br>
           Se realizo el backend del perfil de niñeras y se avanzo el documento de trabajo, además de actualizar el frontend<br>
         <td>
-          <b>TB1:</b><br>
+            <b>Walter Fajardo: TF1</b><br>
+          Implementé el IAM en el front y back para que se pueda acceder a la web a partir de un registro
+        </td>
+          <b><b>TB1:</b><br>
           En conclucion, El desarrollo de nuestra app de tutores y cuidadores se reflejó un liderazgo colaborativo, donde el equipo trabajó de manera articulada en cada fase, desde el análisis de la problematica y los segmentos objetivos hasta la implementación ágil con sprints . La integración de metodologías Lean UX ayudo en el diseño centrado en el usuario, permitiendo entregar una solución viable y funcional. Este proyecto demostró que el trabajo en equipo, con roles definidos y comunicación constante, es clave para transformar ideas en productos digitales efectivos, superando desafíos técnicos y de usabilidad con un enfoque conjunto.<br><br>
           <b>TP1:</b><br>
           En conclusión, el desarrollo del frontend de nuestra aplicación se llevó a cabo bajo un liderazgo colaborativo que fomentó un trabajo en equipo articulado y eficiente. Desde el análisis inicial de los requerimientos hasta la implementación de la interfaz, el equipo empleó metodologías Lean UX para garantizar un diseño centrado en el usuario, integrando sprints ágiles que optimizaron el proceso. La comunicación constante y la definición clara de roles permitieron superar desafíos de usabilidad y entregar una interfaz intuitiva y funcional. Este proyecto evidenció que la combinación de trabajo en equipo, metodologías ágiles y un enfoque colaborativo es fundamental para crear productos digitales efectivos y atractivos.<br><br>            
@@ -309,6 +350,7 @@ Evidencia:
         </td>
     </tr>
 </table>
+
 
 # Capítulo I: Introducción
 
