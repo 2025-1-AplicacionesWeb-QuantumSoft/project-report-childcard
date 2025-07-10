@@ -40,7 +40,7 @@
 
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
-URL del repositorio del project Report : https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard
+URL del repositorio del project Report : <https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard>
 
 **_TB1_**
 Entregrable 1 o TB1 : (25/04/25)
@@ -2571,6 +2571,7 @@ Link: <https://youtu.be/cucT69I9tHs>
 
 - **ANEXOS**
 
+  - link del Bakend: <http://kidycare-gta3gufcaaatbpc5.canadacentral-01.azurewebsites.net/>
   - link del repositorio: <https://github.com/2025-1-AplicacionesWeb-QuantumSoft/project-report-childcard>
   - link del figma landing page: <https://www.figma.com/design/7iwVQZZMZtNk0tmRCiBvCu/wireframe-mockup-KidyCare-landing-page?node-id=40-1498&p=f&t=yWK3RlSxV85gp8rk-0>
   - link del figma de web app: <https://www.figma.com/design/mfHgEotBOQ0IGAOMq0gTwG/KidyCare?node-id=0-1&p=f&t=D0Q9mT3m8KE5z9qo-0>
