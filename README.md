@@ -2168,18 +2168,91 @@ La estructura de liderazgo y colaboración permitió una coordinación efectiva,
 
 Esta matriz asegura que el proceso de integración entre el frontend y el backend se lleve a cabo de manera eficiente, con un enfoque en la comunicación y coordinación entre los equipos responsables de cada área.
 
-## 5.2.4.3. Sprint Backlog 3.
+## 5.2.4.3. Sprint Backlog 4.
+| **Sprint #4**   | **Sprint Final**           |        |                                    |                                                                   |                        |                                 |             |
+| -------------- | -------------------------- | ------ | ---------------------------------- | ----------------------------------------------------------------- | ---------------------- | ------------------------------- | ----------- |
+| **User Story** | **Work-Item / Task**       |        |                                    |                                                                   |                        |                                 |             |
+| **Id**         | **Title**                  | **Id** | **Title**                          | **Description**                                                   | **Estimation (Hours)** | **Assigned to**                 | **Status**  |
+| US08           | Validación de Registro     | W-10   | Endpoint seguro de registro        | Validar credenciales al momento de registro usando token seguro.  | 3                      | Linares Arroyo, Jorge Alexandro | In Progress |
+| US21           | Registro Medios de Pago    | W-11   | Crear formulario y guardar tarjeta | Crear formulario de tarjeta y enviarlo al backend.                | 3                      | Fajardo Monrroy, Walter Luis    | To Do       |
+| US25           | Autenticación Usuarios     | W-12   | Implementar login en backend       | Endpoint y middleware para autenticación de usuarios.             | 3                      | Meza Camayo, Lynn Jeeferzon     | To Do       |
+| US26           | Roles y Permisos           | W-13   | Middleware de roles en API         | Permitir acceso a rutas solo si el rol es autorizado.             | 2                      | Avila Palacios, Aarón Alexander | To Do       |
+| US29           | Notificaciones Tiempo Real | W-14   | Conexión Socket o eventos          | Enviar eventos en tiempo real al frontend (por socket o polling). | 3                      | Cuentas Peña, Joaquín Alberto   | To Do       |
+| US07           | Registro como Niñera       | W-15   | Crear formulario y endpoint        | Formulario de registro + guardar en base de datos.                | 2                      | Linares Arroyo, Jorge Alexandro | Done        |
+| US16           | Solicitud de Reserva       | W-16   | Crear reserva desde tutor          | Lógica de reserva, validaciones y consumo de API.                 | 3                      | Meza Camayo, Lynn Jeeferzon     | Done        |
+| US22           | Sistema de Pagos           | W-17   | Flujo de pago con tarjeta          | Asociar reserva + tarjeta + monto y crear transacción.            | 3                      | Fajardo Monrroy, Walter Luis    | In Progress |
+| US30           | Filtrado de Recursos       | W-18   | Filtros en API                     | Añadir filtros dinámicos por fecha, estado o usuario.             | 2                      | Avila Palacios, Aarón Alexander | To Do       |
+| US14           | Filtrado por Ubicación     | W-19   | Filtro por ubicación               | Filtrar niñeras por ciudad y distrito desde el frontend.          | 2                      | Cuentas Peña, Joaquín Alberto   | Done        |
+| US10           | Actualización Niñera       | W-20   | Editar perfil de niñera            | Formulario de actualización y persistencia.                       | 2                      | Linares Arroyo, Jorge Alexandro | Done        |
+
 
 ## 5.2.4.4. Development Evidence for Sprint Review.
 
+
 ## 5.2.4.5. Execution Evidence for Sprint Review.
+<p align="center">
+     <img src="./assets/evidence1.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/evidence2.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/evidence3.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/evidence4.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/evidence5.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/evidence6.png" alt="Deploy1" width="850">
+   </p>
+<p align="center">
+     <img src="./assets/evidence7.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/evidence8.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/evidence9.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/evidence10.png" alt="Deploy1" width="850">
+   </p>
 
 ## 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 ## 5.2.4.7. Software Deployment Evidence for Sprint Review.
-
+<p align="center">
+     <img src="./assets/deploy2.jpg" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/deploy3.jpg" alt="Deploy1" width="850">
+   </p>
+<p align="center">
+     <img src="./assets/deploy-front.png" alt="Deploy1" width="850">
+   </p>
 
 ## 5.2.4.8. Team Collaboration Insights during Sprint.
+<p align="center">
+     <img src="./assets/insight1.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/insight2.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/insight3.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/insight4.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/insight5.png" alt="Deploy1" width="850">
+   </p>
+   <p align="center">
+     <img src="./assets/landing-video.png" alt="Deploy1" width="850">
+   </p>
 
 ## 5.3. Validation Interviews.
 
